@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="theme-color" content="#0A0D12">
+<title>إرث · ليل</title>
+<link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Readex+Pro:wght@400;500;600;700&display=swap" rel="stylesheet">
+<style>
+:root{--bg:#0A0D12;--s1:#121821;--s2:#1A2230;--tx:#EEF2F7;--mut:#8E9AAD;--line:rgba(255,255,255,.08);--acc:#3DDC97}
+*{box-sizing:border-box;margin:0;padding:0;-webkit-tap-highlight-color:transparent}
+html{background:var(--bg)}
+body{max-width:560px;margin:0 auto;color:var(--tx);font:15px/1.55 'Readex Pro',sans-serif;padding-bottom:calc(104px + env(safe-area-inset-bottom))}
+body::before{content:"";position:fixed;inset:0;z-index:-1;background:radial-gradient(600px 380px at 85% -8%,rgba(61,220,151,.16),transparent 70%),radial-gradient(520px 340px at 5% 0%,rgba(124,92,255,.14),transparent 70%)}
+a{color:inherit;text-decoration:none}
+.top{position:sticky;top:0;z-index:5;display:flex;align-items:center;gap:10px;height:calc(60px + env(safe-area-inset-top));padding:env(safe-area-inset-top) 18px 0;background:rgba(10,13,18,.72);-webkit-backdrop-filter:blur(14px);backdrop-filter:blur(14px)}
+.mark{width:34px;height:34px;border-radius:11px;display:grid;place-items:center;background:linear-gradient(135deg,#3DDC97,#21B6D9);color:#06231A;font-weight:700;font-size:18px}
+.logo{font-weight:700;font-size:21px}
+h1{margin:12px 18px 0;font-size:30px;font-weight:700;line-height:1.25}
+.sub{margin:4px 18px 0;color:var(--mut);font-size:13px}
+.search{display:flex;align-items:center;gap:10px;height:50px;margin:16px 16px 0;padding:0 18px;background:var(--s1);border:1px solid var(--line);border-radius:999px;color:var(--mut)}
+.search svg{width:20px;height:20px;flex:none}
+.search input{flex:1;min-width:0;border:0;outline:0;background:none;font:inherit;color:var(--tx)}
+.search input::placeholder{color:var(--mut)}
+.sec{margin:26px 18px 12px;font-size:18px;font-weight:600}
+.favs{display:flex;gap:12px;overflow-x:auto;padding:0 16px 4px;scroll-snap-type:x mandatory;scroll-padding:0 16px;scrollbar-width:none}
+.favs::-webkit-scrollbar{display:none}
+.fav{position:relative;flex:0 0 80%;scroll-snap-align:start;min-height:128px;padding:16px 16px 16px 70px;border-radius:22px;overflow:hidden;display:flex;flex-direction:column;justify-content:space-between;color:#fff}
+.fav:nth-child(3n+1){background:linear-gradient(135deg,#10A273,#0B6457)}
+.fav:nth-child(3n+2){background:linear-gradient(135deg,#6D4CFF,#3B2BB3)}
+.fav:nth-child(3n){background:linear-gradient(135deg,#E08A2C,#B4432F)}
+.fav b{font-size:17px;font-weight:600;line-height:1.45}
+.fav small{font-size:12.5px;opacity:.85}
+.play{position:absolute;left:14px;bottom:14px;width:42px;height:42px;border-radius:50%;display:grid;place-items:center;background:rgba(255,255,255,.94);color:#0A0D12}
+.play svg{width:20px;height:20px}
+.grid{display:grid;grid-template-columns:1fr 1fr;gap:12px;padding:0 16px}
+.tile{position:relative;aspect-ratio:4/5;border-radius:22px;overflow:hidden;background:var(--s2);transition:transform .15s}
+.tile:active{transform:scale(.97)}
+.tile .ph{position:absolute;inset:0;display:grid;place-items:center;font-size:46px;font-weight:700;color:rgba(255,255,255,.16)}
+.tile .ph img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;object-position:center 22%}
+.tile::after{content:"";position:absolute;inset:0;background:linear-gradient(to top,rgba(6,8,12,.96) 0%,rgba(6,8,12,.6) 34%,transparent 62%)}
+.cap{position:absolute;z-index:1;left:0;right:0;bottom:0;padding:12px 12px 13px}
+.cap b{display:block;font-size:15px;font-weight:600;line-height:1.35}
+.cap small{display:block;margin-top:3px;color:#B9C3D2;font-size:12px}
+.empty{grid-column:1/-1;padding:28px;text-align:center;color:var(--mut)}
+.nav{position:fixed;z-index:6;left:12px;right:12px;bottom:calc(12px + env(safe-area-inset-bottom));max-width:536px;margin:0 auto;height:66px;display:flex;justify-content:space-around;align-items:center;background:rgba(18,24,33,.86);-webkit-backdrop-filter:blur(16px);backdrop-filter:blur(16px);border:1px solid var(--line);border-radius:24px;box-shadow:0 10px 30px rgba(0,0,0,.45)}
+.nav a{display:flex;flex-direction:column;align-items:center;gap:2px;min-width:64px;color:var(--mut);font-size:11.5px}
+.nav .ic{display:grid;place-items:center;width:46px;height:28px;border-radius:14px}
+.nav a.on{color:var(--acc)}
+.nav a.on .ic{background:rgba(61,220,151,.14)}
+.nav svg{width:22px;height:22px}
+#toast{position:fixed;z-index:9;left:50%;bottom:calc(96px + env(safe-area-inset-bottom));transform:translate(-50%,10px);padding:10px 16px;border-radius:12px;background:var(--tx);color:var(--bg);font-size:14px;white-space:nowrap;opacity:0;pointer-events:none;transition:.2s}
+#toast.on{opacity:1;transform:translate(-50%,0)}
+</style>
+</head>
+<body>
+<header class="top"><span class="mark">إ</span><span class="logo">إرث</span></header>
+<h1>المشايخ</h1>
+<p class="sub" id="sub"></p>
+<label class="search"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg><input id="q" type="search" placeholder="ابحث عن شيخ" autocomplete="off"></label>
+<div class="sec">مفضلتي</div>
+<div class="favs" id="favs"></div>
+<div class="sec">كل المشايخ</div>
+<div class="grid" id="list"></div>
+<nav class="nav" id="nav"></nav>
+<script src="data.js"></script>
+<script src="common.js"></script>
+<script>
+M.start({
+  fav:f=>`<a class="fav" href="#"><b>${M.esc(f.title)}</b><small>${[M.esc(f.sheikh),M.cnt(f.lessons,'l'),M.cnt(f.hours,'h')].filter(Boolean).join(' · ')}</small><span class="play">${M.svg('play')}</span></a>`,
+  row:s=>`<a class="tile" href="#"><div class="ph">${M.ini(s.name)}${M.img(s)}</div><div class="cap"><b>${M.esc(s.name)}</b><small>${[M.cnt(s.series,'s'),M.cnt(s.hours,'h')||M.cnt(s.lessons,'l')].filter(Boolean).join(' · ')}</small></div></a>`});
+</script>
+</body>
+</html>
