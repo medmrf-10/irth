@@ -1,10 +1,10 @@
 {"v":1,"rows":[
-{"id":"aqida","name":"العقيدة"},
-{"id":"fiqh","name":"الفقه"},
-{"id":"usul","name":"أصول الفقه"},
-{"id":"tazkiya","name":"التزكية"},
+{"id":"akida","name":"العقيدة"},
+{"id":"fikh","name":"الفقه"},
+{"id":"ossol","name":"أصول الفقه"},
+{"id":"tazkia","name":"التزكية"},
 {"id":"tafsir","name":"التفسير"},
 {"id":"hadith","name":"الحديث"},
-{"id":"seerah","name":"السيرة"},
-{"id":"arabiyya","name":"العربية"}
+{"id":"sira","name":"السيرة"},
+{"id":"arabic","name":"العربية"}
 ]}
