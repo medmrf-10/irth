@@ -1,6 +1,7 @@
 import { useEffect } from 'react';
 import { Navigate, Route, Routes } from 'react-router-dom';
-import { BottomNav } from './ui/AppShell';
+import { BottomNav, Toast } from './ui/AppShell';
+import { InstallBanner } from './ui/InstallBanner';
 import { useUser } from './user/store';
 import SheikhsPage from './services/tube/pages/SheikhsPage';
 import SheikhPage from './services/tube/pages/SheikhPage';
@@ -13,9 +14,8 @@ export default function App() {
   const theme = useUser((s) => s.theme);
   useEffect(() => {
     document.documentElement.dataset.theme = theme;
-    document
-      .querySelector('meta[name="theme-color"]')
-      ?.setAttribute('content', getComputedStyle(document.documentElement).getPropertyValue('--bg').trim());
+    const color = theme === 'night' ? '#14110E' : '#F4EEE2';
+    document.querySelector('meta[name="theme-color"]')?.setAttribute('content', color);
   }, [theme]);
 
   return (
@@ -31,6 +31,8 @@ export default function App() {
         <Route path="*" element={<Navigate to="/tube" replace />} />
       </Routes>
       <BottomNav />
+      <InstallBanner />
+      <Toast />
     </div>
   );
 }

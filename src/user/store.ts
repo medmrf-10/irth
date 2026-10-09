@@ -28,7 +28,7 @@ export const useUser = create<UserState>()(
   persist(
     (set) => ({
       user: USER_ID,
-      theme: 'night',
+      theme: (localStorage.getItem('irth.theme') as ThemeId) || 'paper',
       favorites: [],
       questionsDensity: 'mid',
       progress: {},

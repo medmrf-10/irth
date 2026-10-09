@@ -1,9 +1,9 @@
-import { Empty, Header, Page } from '../../../ui/AppShell';
+import { Empty, Page, TopBar } from '../../../ui/AppShell';
 
 export default function FavPage() {
   return (
     <Page>
-      <Header title="المفضلة" />
+      <TopBar />
       <Empty>السلاسل المفضلة — تُضاف بنجمة في صفحة الشيخ. المرحلة 1.</Empty>
     </Page>
   );

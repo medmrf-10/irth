@@ -1,103 +1,446 @@
-/* القطع الجاهزة للصفحات — تستمد كل قيمها من tokens.css */
+/* قِطع الواجهة — منقولة حرفياً من التصميم المعتمد (docs/mock-index.html) */
 
 .app {
   min-height: 100dvh;
-  display: flex;
-  flex-direction: column;
+  padding-bottom: calc(150px + env(safe-area-inset-bottom));
 }
 
-.page {
-  flex: 1;
-  padding: var(--s-4);
-  padding-bottom: calc(var(--touch) + var(--s-6));
-  animation: fade-in var(--dur-2) var(--ease);
-}
-
-@keyframes fade-in {
-  from {
-    opacity: 0;
-    transform: translateY(4px);
-  }
-  to {
-    opacity: 1;
-    transform: none;
-  }
-}
-
-.header {
-  display: flex;
-  align-items: center;
-  gap: var(--s-3);
-  min-height: var(--touch);
-  margin-bottom: var(--s-4);
-}
-
-.header .title {
-  font-family: var(--font-display);
-  font-size: 22px;
-  font-weight: 700;
-  flex: 1;
-}
-
-.header button {
-  min-width: var(--touch);
-  min-height: var(--touch);
-  border: none;
-  background: none;
-  color: var(--muted);
-  font-size: 18px;
-  cursor: pointer;
-  border-radius: var(--r-2);
-}
-
-.header button:active {
-  transform: scale(0.96);
-}
-
-.card {
-  background: var(--card);
-  border: 1px solid var(--line);
-  border-radius: var(--r-2);
-  padding: var(--s-4);
-  transition: transform var(--dur-1) var(--ease);
-}
-
-.card:active {
-  transform: scale(0.98);
-}
-
-.muted {
-  color: var(--muted);
-}
-
-.bottom-nav {
+/* الترويسة الزجاجية */
+.top {
   position: sticky;
-  bottom: 0;
+  top: 0;
+  z-index: 5;
   display: flex;
-  background: var(--card);
-  border-top: 1px solid var(--line);
-  padding-bottom: env(safe-area-inset-bottom);
-}
-
-.bottom-nav a {
-  flex: 1;
-  display: flex;
-  flex-direction: column;
   align-items: center;
-  justify-content: center;
-  min-height: var(--touch);
-  color: var(--muted);
-  text-decoration: none;
-  font-size: 12px;
-  gap: 2px;
+  justify-content: space-between;
+  height: calc(58px + env(safe-area-inset-top));
+  padding: env(safe-area-inset-top) 16px 0 6px;
+  background: var(--glass);
+  -webkit-backdrop-filter: blur(14px);
+  backdrop-filter: blur(14px);
 }
 
-.bottom-nav a.active {
+.brand {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.brand img {
+  width: 30px;
+  height: 30px;
+  border-radius: 9px;
+}
+
+.brand b {
+  font: 700 25px/1 var(--font-display);
   color: var(--primary);
 }
 
+.acts {
+  display: flex;
+}
+
+.ib {
+  flex: none;
+  width: 44px;
+  height: 44px;
+  display: grid;
+  place-items: center;
+  border-radius: 50%;
+  color: var(--muted);
+  border: 0;
+  background: none;
+  font: inherit;
+  cursor: pointer;
+}
+
+.ib:active {
+  background: var(--press);
+}
+
+/* شريط البحث المنبثق داخل الترويسة */
+.sbar {
+  position: absolute;
+  left: 8px;
+  right: 8px;
+  bottom: 7px;
+  height: 44px;
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  padding: 0 14px 0 2px;
+  background: var(--card);
+  border: 1px solid var(--line);
+  border-radius: 14px;
+  animation: fade 0.18s ease-out;
+}
+
+.sbar input {
+  flex: 1;
+  min-width: 0;
+  border: 0;
+  outline: 0;
+  background: none;
+  font: inherit;
+  color: var(--text);
+}
+
+.sbar input::placeholder {
+  color: var(--muted);
+}
+
+/* معرض المشايخ */
+.grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 24px 8px;
+  padding: 20px 12px 8px;
+}
+
+.sh {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  color: inherit;
+  text-decoration: none;
+  animation: rise 0.45s cubic-bezier(0.2, 0.7, 0.2, 1) both;
+  animation-delay: calc(var(--i) * 28ms);
+}
+
+.pt {
+  position: relative;
+  width: 92px;
+  height: 92px;
+  transition: transform 0.15s;
+}
+
+.sh:active .pt {
+  transform: scale(0.94);
+}
+
+.pt svg {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  color: var(--gold);
+}
+
+.ph {
+  position: absolute;
+  inset: 7px;
+  border-radius: 50%;
+  overflow: hidden;
+  display: grid;
+  place-items: center;
+  background: var(--soft);
+  color: var(--primary);
+  font: 700 30px var(--font-display);
+}
+
+.ph img {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  object-position: center 20%;
+}
+
+.nm {
+  margin-top: 10px;
+  font: 700 15.5px/1.45 var(--font-display);
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  min-height: 2.9em;
+}
+
+.mt {
+  margin-top: 2px;
+  color: var(--muted);
+  font-size: 12.5px;
+}
+
 .empty {
+  grid-column: 1 / -1;
+  padding: 40px 0;
   text-align: center;
   color: var(--muted);
-  padding: var(--s-6) var(--s-4);
+}
+
+/* بطاقة «أكمل الدرس» */
+.resume {
+  position: fixed;
+  z-index: 6;
+  left: 10px;
+  right: 10px;
+  bottom: calc(68px + env(safe-area-inset-bottom));
+  max-width: 540px;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 8px 10px 8px 8px;
+  background: var(--card);
+  border: 1px solid var(--line);
+  border-radius: 18px;
+  box-shadow: 0 10px 28px rgba(0, 0, 0, 0.14);
+  overflow: hidden;
+  color: inherit;
+  text-decoration: none;
+  animation: up 0.4s 0.25s cubic-bezier(0.2, 0.7, 0.2, 1) both;
+}
+
+.resume img {
+  flex: none;
+  width: 68px;
+  height: 42px;
+  border-radius: 10px;
+  object-fit: cover;
+  background: var(--soft);
+}
+
+.resume .rt {
+  flex: 1;
+  min-width: 0;
+}
+
+.resume b {
+  display: block;
+  font: 700 15px/1.4 var(--font-display);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.resume small {
+  display: block;
+  color: var(--muted);
+  font-size: 12px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.resume .pl {
+  flex: none;
+  width: 44px;
+  height: 44px;
+  border-radius: 50%;
+  display: grid;
+  place-items: center;
+  background: var(--primary);
+  color: var(--card);
+}
+
+.resume .bar {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  height: 2.5px;
+  background: var(--gold);
+}
+
+/* لافتة التثبيت */
+.inst {
+  position: fixed;
+  z-index: 8;
+  left: 10px;
+  right: 10px;
+  top: calc(66px + env(safe-area-inset-top));
+  max-width: 540px;
+  margin: 0 auto;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  padding: 12px;
+  background: var(--card);
+  border: 1px solid var(--gold);
+  border-radius: 16px;
+  box-shadow: 0 12px 30px rgba(0, 0, 0, 0.16);
+  animation: down 0.35s cubic-bezier(0.2, 0.7, 0.2, 1) both;
+}
+
+.inst img {
+  flex: none;
+  width: 44px;
+  height: 44px;
+  border-radius: 12px;
+}
+
+.inst .it {
+  flex: 1;
+  min-width: 0;
+}
+
+.inst b {
+  display: block;
+  font-size: 15px;
+}
+
+.inst small {
+  display: block;
+  color: var(--muted);
+  font-size: 12.5px;
+  line-height: 1.5;
+}
+
+.inst .go {
+  flex: none;
+  height: 40px;
+  padding: 0 16px;
+  border: 0;
+  border-radius: 12px;
+  background: var(--primary);
+  color: var(--card);
+  font: inherit;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.inst .x {
+  flex: none;
+  width: 32px;
+  height: 40px;
+  border: 0;
+  background: none;
+  color: var(--muted);
+  font: inherit;
+  font-size: 22px;
+  cursor: pointer;
+}
+
+/* الشريط السفلي */
+.nav {
+  position: fixed;
+  z-index: 7;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  display: flex;
+  padding: 4px 8px calc(4px + env(safe-area-inset-bottom));
+  background: var(--glass);
+  -webkit-backdrop-filter: blur(14px);
+  backdrop-filter: blur(14px);
+  border-top: 1px solid var(--line);
+}
+
+.nav a {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 2px;
+  padding: 8px 0 6px;
+  color: var(--muted);
+  font-size: 12px;
+  text-decoration: none;
+}
+
+.nav a.on {
+  color: var(--primary);
+  font-weight: 600;
+}
+
+.nav svg {
+  width: 24px;
+  height: 24px;
+}
+
+/* قائمة الثيمات */
+.themes {
+  position: fixed;
+  z-index: 9;
+  left: 10px;
+  top: calc(56px + env(safe-area-inset-top));
+  min-width: 170px;
+  padding: 6px;
+  background: var(--card);
+  border: 1px solid var(--line);
+  border-radius: 16px;
+  box-shadow: 0 12px 30px rgba(0, 0, 0, 0.18);
+  animation: fade 0.15s ease-out;
+}
+
+.themes button {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  width: 100%;
+  padding: 10px 12px;
+  border: 0;
+  border-radius: 10px;
+  background: none;
+  color: inherit;
+  font: inherit;
+  font-size: 15px;
+  text-align: right;
+  cursor: pointer;
+}
+
+.themes button[aria-pressed='true'] {
+  background: var(--press);
+  font-weight: 600;
+}
+
+.themes i {
+  flex: none;
+  width: 22px;
+  height: 22px;
+  border-radius: 50%;
+  border: 1px solid rgba(127, 127, 127, 0.35);
+}
+
+/* التوست */
+.toast {
+  position: fixed;
+  z-index: 10;
+  left: 50%;
+  bottom: calc(140px + env(safe-area-inset-bottom));
+  transform: translate(-50%, 10px);
+  padding: 10px 16px;
+  border-radius: 12px;
+  background: var(--text);
+  color: var(--bg);
+  font-size: 14px;
+  white-space: nowrap;
+  opacity: 0;
+  pointer-events: none;
+  transition: 0.2s;
+}
+
+.toast.on {
+  opacity: 1;
+  transform: translate(-50%, 0);
+}
+
+@keyframes rise {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+}
+
+@keyframes up {
+  from {
+    opacity: 0;
+    transform: translateY(16px);
+  }
+}
+
+@keyframes down {
+  from {
+    opacity: 0;
+    transform: translateY(-12px);
+  }
+}
+
+@keyframes fade {
+  from {
+    opacity: 0;
+  }
 }

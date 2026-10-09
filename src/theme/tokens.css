@@ -42,6 +42,9 @@
   --line: #2f2923;
   --primary: #e3a598;
   --gold: #c9a35c;
+  --soft: #2a241e;
+  --press: #241f1a;
+  --glass: rgba(20, 17, 14, 0.9);
   color-scheme: dark;
 }
 
@@ -54,6 +57,9 @@
   --line: #e5dac6;
   --primary: #7b2d26;
   --gold: #ae8848;
+  --soft: #eadfcb;
+  --press: #f2eadb;
+  --glass: rgba(244, 238, 226, 0.9);
   color-scheme: light;
 }
 
@@ -71,8 +77,24 @@ body {
   background: var(--bg);
   color: var(--text);
   font-family: var(--font-body);
-  line-height: 1.7;
+  font-size: 16px;
+  line-height: 1.6;
+  overflow-x: hidden;
   -webkit-font-smoothing: antialiased;
+  -webkit-tap-highlight-color: transparent;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+button {
+  font: inherit;
+  color: inherit;
+  background: none;
+  border: 0;
+  cursor: pointer;
 }
 
 #root {
