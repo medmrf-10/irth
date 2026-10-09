@@ -200,15 +200,6 @@ a.row:active{transform:scale(.985)}
   border-radius:var(--r-2);background:var(--primary);color:var(--card);font:inherit;font-size:15px;cursor:pointer;
   text-decoration:none}
 .cta svg{width:20px;height:20px}
-.dlb{flex:none;display:inline-flex;align-items:center;gap:6px;height:38px;padding:0 16px;border-radius:999px;
-  background:var(--primary);color:var(--card);font:inherit;font-size:13.5px;cursor:pointer;text-decoration:none;border:0}
-.dlb svg{width:17px;height:17px}
-.dlb:active{background:var(--press);color:var(--primary)}
-.sttag{flex:none;font-size:10.5px;color:var(--gold);border:1px solid var(--gold);border-radius:999px;padding:1px 8px;white-space:nowrap}
-.strow{display:flex;flex-direction:column;gap:2px;flex:1;min-width:0}
-.stmeta{display:flex;align-items:center;gap:8px;color:var(--muted);font-size:12px;flex-wrap:wrap}
-.stmeta i{font-style:normal;color:var(--gold)}
-.stnote{margin:4px 16px 0;color:var(--muted);font-size:12.5px;line-height:1.9}
 .gttl{margin:22px 16px 8px;color:var(--gold);font-size:13px;font-weight:700}
 .pbar{height:3px;border-radius:999px;background:var(--soft);overflow:hidden}
 .pbar i{display:block;height:100%;width:0;background:var(--gold);transition:width .15s linear}
@@ -276,7 +267,6 @@ a.row:active{transform:scale(.985)}
       <a href="#/" id="nv-home" class="tab on" aria-label="العلوم"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M16 20v-1.5a4 4 0 0 0-4-4H6.5a4 4 0 0 0-4 4V20"/><circle cx="9.25" cy="7.5" r="3.75"/><path d="M21.5 20v-1.5a4 4 0 0 0-3-3.85M15.5 3.85a3.75 3.75 0 0 1 0 7.3"/></svg></a>
       <a href="#/fav" id="nv-fav" class="tab" aria-label="المفضلة"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="m12 3.5 2.6 5.3 5.9.9-4.25 4.1 1 5.8L12 16.9l-5.25 2.7 1-5.8L3.5 9.7l5.9-.9Z"/></svg><span class="bdg"></span></a>
       <a href="#/stats" id="nv-stats" class="tab" aria-label="إحصائي"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M4 20h16M7 16v-5M12 16V6M17 16v-8"/></svg></a>
-      <a href="#/store" id="nv-store" class="tab" aria-label="المتجر"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M4 8.5 5.4 4h13.2L20 8.5M4 8.5V20h16V8.5M4 8.5h16M9.5 20v-6.5h5V20"/></svg></a>
       <button class="tab" id="b-search" aria-label="بحث"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="7"/><path d="m20.5 20.5-4.6-4.6"/></svg></button>
       <button class="tab" id="b-theme" aria-label="الشكل"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="4.5"/><path d="M12 2.5v2.2M12 19.3v2.2M2.5 12h2.2M19.3 12h2.2M5.2 5.2l1.6 1.6M17.2 17.2l1.6 1.6M18.8 5.2l-1.6 1.6M6.8 17.2l-1.6 1.6"/></svg></button>
   </nav>
@@ -376,7 +366,6 @@ function route(){
   else if(les)viewLesson(h.slice(7));
   else if(h==='fav')viewFav()
   else if(h==='stats'){navOn('stats');viewStats()}
-  else if(h==='store'){viewStore()}
   else viewHome();
 }
 const FAVK='irth_fav';let FAV=new Set(JSON.parse(localStorage.getItem(FAVK)||'[]'));
@@ -398,27 +387,6 @@ function shareLes(){const u=location.href;
   if(navigator.share){navigator.share({title:document.title,url:u}).catch(()=>{})}
   else if(navigator.clipboard){navigator.clipboard.writeText(u).then(()=>{
     const p=document.getElementById('pos');if(p){const t=p.textContent;p.textContent='نُسخ الرابط';setTimeout(()=>p.textContent=t,1600)}}).catch(()=>{})}}
-let STORE=null;
-async function viewStore(){
-  navOn('store');setCrumb([{t:'العلوم',a:'#/'},{t:'المتجر'}]);document.title='المتجر — إرث';
-  if(STORE===null){
-    app.innerHTML='<div class="list"><div class="empty">يُحمّل…</div></div>';
-    try{const d=await jget('/data/store.json');STORE=d.apps||[]}catch(e){STORE=[]}
-    if(location.hash!=='#/store')return
-  }
-  const rows=STORE.map((a,i)=>{
-    const ext=/^https?:/.test(a.url||'');
-    const meta=[a.version?'إصدار '+a.version:'',a.size||'',a.cat||''].filter(Boolean).join(' · ');
-    return `<div class="row" style="--i:${i}"><span class="ph">${a.icon?`<img src="${esc(a.icon)}" alt="">`:firstLetter(a.name)}</span>
-    <span class="tx strow"><span class="nm" style="font-size:17px">${esc(a.name)}</span>
-    ${a.desc?`<span class="mt">${esc(a.desc)}</span>`:''}
-    ${meta?`<span class="stmeta"><i>${esc(meta)}</i></span>`:''}</span>
-    ${a.tag?`<span class="sttag">${esc(a.tag)}</span>`:''}
-    <a class="dlb" href="${esc(a.url)}" ${ext?'target="_blank" rel="noopener"':''}><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3v11M7.5 10.5 12 15l4.5-4.5M4.5 19h15"/></svg>${esc(a.btn||'تنزيل')}</a></div>`}).join('');
-  app.innerHTML=`${STORE.length?`<div class="gttl">تطبيقاتنا على أندرويد — روابط تنزيل مباشرة</div>`:''}
-  <div class="list">${rows||'<div class="empty">لا تطبيقات بعد — تُضاف قريباً بإذن الله</div>'}</div>
-  <p class="stnote">جميع الروابط خارجية لملفات APK — نزّل الملف ثم افتحه على جهازك (قد يطلب أندرويد السماح بالتثبيت من مصادر خارجية).</p>`;
-}
 function viewFav(){navOn('fav');setCrumb([{t:'العلوم',a:'#/'},{t:'المفضلة'}]);document.title='المفضلة — إرث';
   const ids=[...FAV].filter(i=>VID[i]).reverse();
   app.innerHTML=ids.length?`<div class="list">${ids.map((v,i)=>{const V=VID[v];const s=SER.find(x=>x.items.includes(v));const pv=POS.get(v)||0;const pc=V.duration?Math.min(99,Math.round(pv/V.duration*100)):0;
