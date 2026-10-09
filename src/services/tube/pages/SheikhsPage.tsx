@@ -1,4 +1,4 @@
-// معرض المشايخ — الرئيسية: شبكة صور دائرية + بحث + بطاقة استكمال.
+// معرض المشايخ — الرئيسية: قائمة صفوف بأسلوب ورق + بحث + بطاقة استكمال.
 import { useMemo, useState } from 'react';
 import { Link } from 'react-router-dom';
 import { tables } from '../../../data/load';
@@ -12,9 +12,9 @@ import { ResumeCard } from '../../../ui/ResumeCard';
 import { useUser } from '../../../user/store';
 import type { Person } from '../../../data/types';
 
-const ring = (
-  <svg viewBox="0 0 100 100" aria-hidden="true">
-    <circle cx="50" cy="50" r="47" fill="none" stroke="currentColor" strokeWidth="2.2" opacity=".4" />
+const chev = (
+  <svg className="chev" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" aria-hidden="true">
+    <path d="m15 18-6-6 6-6" />
   </svg>
 );
 
@@ -89,26 +89,26 @@ export default function SheikhsPage() {
   return (
     <Page>
       <TopBar search={{ value: q }} onSearch={setQ} placeholder="اسم الشيخ" />
-      <div className="grid">
+      <div className="list">
         {loading && <Empty>…</Empty>}
         {!loading &&
           filtered.map((s, i) => (
-            <Link key={s.person.id} className="sh" to={`/tube/sheikh/${s.person.id}`} style={{ ['--i' as string]: i }}>
-              <span className="pt">
-                {ring}
-                <span className="ph">
-                  {initial(s.person.name)}
-                  {s.person.photo && <img loading="lazy" src={s.person.photo} alt="" onError={(e) => e.currentTarget.remove()} />}
+            <Link key={s.person.id} className="row" to={`/tube/sheikh/${s.person.id}`} style={{ ['--i' as string]: i }}>
+              <span className="ph">
+                {initial(s.person.name)}
+                {s.person.photo && <img loading="lazy" src={s.person.photo} alt="" onError={(e) => e.currentTarget.remove()} />}
+              </span>
+              <span className="tx">
+                <span className="nm">{s.person.name}</span>
+                <span className="mt">
+                  {s.hours > 0
+                    ? hoursLabel(s.hours)
+                    : s.series > 0
+                      ? plural3(s.series, 'سلسلة', 'سلسلتان', 'سلاسل', 'سلسلة')
+                      : plural3(s.free, 'درس', 'درسان', 'دروس', 'درساً')}
                 </span>
               </span>
-              <span className="nm">{s.person.name}</span>
-              <span className="mt">
-                {s.hours > 0
-                  ? hoursLabel(s.hours)
-                  : s.series > 0
-                    ? plural3(s.series, 'سلسلة', 'سلسلتان', 'سلاسل', 'سلسلة')
-                    : plural3(s.free, 'درس', 'درسان', 'دروس', 'درساً')}
-              </span>
+              {chev}
             </Link>
           ))}
         {!loading && !filtered.length && <Empty>لا يوجد شيخ بهذا الاسم</Empty>}
