@@ -3,27 +3,110 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
-<meta name="theme-color" content="#FFFFFF">
-<title>إرث · اختر الشكل</title>
+<meta name="theme-color" content="#F4EEE2">
+<title>إرث</title>
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="icons/icon-192.png">
+<link rel="apple-touch-icon" href="icons/icon-192.png">
+<script>document.documentElement.dataset.theme=localStorage.getItem('irth.theme')||'paper'</script>
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Almarai:wght@400;700;800&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Amiri:wght@400;700&family=Noto+Naskh+Arabic:wght@400;600&display=swap" rel="stylesheet">
 <style>
+:root,[data-theme=paper]{--bg:#F4EEE2;--card:#FBF7EF;--ink:#2A241D;--mut:#8A7E6E;--line:#E5DAC6;--acc:#7B2D26;--gold:#AE8848;--soft:#EADFCB;--press:#F2EADB;--glass:rgba(244,238,226,.9)}
+[data-theme=night]{--bg:#14110E;--card:#1C1814;--ink:#EFE6D6;--mut:#A39684;--line:#2F2923;--acc:#E3A598;--gold:#C9A35C;--soft:#2A241E;--press:#241F1A;--glass:rgba(20,17,14,.9)}
+[data-theme=light]{--bg:#FFFFFF;--card:#FFFFFF;--ink:#1D1A16;--mut:#7A7166;--line:#ECE6DC;--acc:#7B2D26;--gold:#AE8848;--soft:#F3EEE6;--press:#FAF7F2;--glass:rgba(255,255,255,.9)}
 *{box-sizing:border-box;margin:0;padding:0;-webkit-tap-highlight-color:transparent}
-body{max-width:560px;margin:0 auto;padding:calc(28px + env(safe-area-inset-top)) 18px 32px;color:#0F172A;background:#fff;font:15px/1.6 Almarai,sans-serif}
-h1{font-size:26px;font-weight:800}
-p{margin:6px 0 22px;color:#64748B}
-a{display:flex;align-items:center;gap:14px;margin-bottom:12px;padding:16px;border:1px solid #E7EAF0;border-radius:18px;color:inherit;text-decoration:none}
-a:active{background:#F8FAFC}
-.sw{flex:none;width:52px;height:52px;border-radius:14px;border:1px solid rgba(0,0,0,.06)}
-b{display:block;font-size:17px;font-weight:800}
-small{color:#64748B;font-size:13px}
+html{background:var(--bg)}
+body{max-width:560px;margin:0 auto;overflow-x:hidden;color:var(--ink);font:16px/1.6 'Noto Naskh Arabic',serif;padding-bottom:calc(88px + env(safe-area-inset-bottom))}
+a{color:inherit;text-decoration:none}
+button{font:inherit;color:inherit;background:none;border:0;cursor:pointer}
+.top{position:sticky;top:0;z-index:5;display:flex;align-items:center;justify-content:center;height:calc(56px + env(safe-area-inset-top));padding-top:env(safe-area-inset-top);background:var(--glass);-webkit-backdrop-filter:blur(12px);backdrop-filter:blur(12px)}
+.logo{font:700 30px/1 Amiri;color:var(--acc)}
+.logo::before,.logo::after{content:"◆";font-size:9px;color:var(--gold);margin:0 12px;vertical-align:middle}
+.tbtn{position:absolute;left:10px;bottom:6px;width:44px;height:44px;display:grid;place-items:center;border-radius:50%;color:var(--gold)}
+.tbtn svg{width:22px;height:22px}
+.themes{position:fixed;z-index:8;left:12px;top:calc(58px + env(safe-area-inset-top));min-width:170px;padding:6px;background:var(--card);border:1px solid var(--line);border-radius:16px;box-shadow:0 12px 30px rgba(0,0,0,.18)}
+.themes[hidden]{display:none}
+.themes button{display:flex;align-items:center;gap:10px;width:100%;padding:10px 12px;border-radius:10px;font-size:15px;text-align:right}
+.themes button[aria-pressed=true]{background:var(--press);font-weight:600}
+.themes i{flex:none;width:22px;height:22px;border-radius:50%;border:1px solid rgba(127,127,127,.35)}
+.inst{display:flex;align-items:center;gap:12px;margin:12px 16px 0;padding:12px;background:var(--card);border:1px solid var(--gold);border-radius:16px}
+.inst[hidden]{display:none}
+.inst img{flex:none;width:44px;height:44px;border-radius:12px}
+.inst .it{flex:1;min-width:0}
+.inst b{display:block;font-size:15px}
+.inst small{display:block;color:var(--mut);font-size:12.5px;line-height:1.5}
+.inst .go{flex:none;height:40px;padding:0 16px;border-radius:12px;background:var(--acc);color:var(--card);font-weight:600}
+.inst .x{flex:none;width:32px;height:40px;color:var(--mut);font-size:22px}
+h1{font:700 36px/1.3 Amiri;margin:12px 20px 0}
+.sub{margin:0 20px;color:var(--mut);font-size:14px}
+.search{display:flex;align-items:center;gap:10px;height:50px;margin:16px 16px 0;padding:0 16px;background:var(--card);border:1px solid var(--line);border-radius:14px;color:var(--mut)}
+.search svg{width:20px;height:20px;flex:none}
+.search input{flex:1;min-width:0;border:0;outline:0;background:none;font:inherit;color:var(--ink)}
+.search input::placeholder{color:var(--mut)}
+.orn{display:flex;align-items:center;gap:12px;margin:28px 20px 12px;font:700 20px Amiri;color:var(--gold)}
+.orn::before,.orn::after{content:"";flex:1;height:1px;background:linear-gradient(90deg,transparent,var(--gold),transparent)}
+.favs{display:flex;flex-direction:column;gap:10px;padding:0 16px}
+.fav{position:relative;padding:12px 18px 12px 14px;background:var(--card);border:1px solid var(--line);border-radius:16px;overflow:hidden}
+.fav::before{content:"";position:absolute;top:0;bottom:0;right:0;width:4px;background:var(--acc)}
+.fav:active{background:var(--press)}
+.fav b{display:block;font:700 18px/1.45 Amiri}
+.fav small{display:block;margin-top:4px;color:var(--mut);font-size:13px}
+.list{margin:0 16px;background:var(--card);border:1px solid var(--line);border-radius:18px;overflow:hidden}
+.row{display:flex;align-items:center;gap:14px;min-height:78px;padding:12px 16px;border-bottom:1px solid var(--line)}
+.row:last-child{border-bottom:0}
+.row:active{background:var(--press)}
+.ph{position:relative;flex:none;width:56px;height:56px;border-radius:50%;overflow:hidden;display:grid;place-items:center;background:var(--soft);color:var(--acc);font:700 24px Amiri;box-shadow:0 0 0 2px var(--card),0 0 0 3.5px var(--gold)}
+.ph img{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;object-position:center 20%}
+.tx{flex:1;min-width:0}
+.nm{font:700 20px/1.4 Amiri;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.mt{margin-top:1px;color:var(--mut);font-size:13px}
+.mt i{font-style:normal;color:var(--gold);margin:0 6px}
+.chev{flex:none;width:18px;height:18px;color:var(--gold)}
+.empty{padding:28px;text-align:center;color:var(--mut)}
+.nav{position:fixed;z-index:6;bottom:0;left:0;right:0;display:flex;justify-content:space-around;padding:6px 8px calc(6px + env(safe-area-inset-bottom));background:var(--glass);-webkit-backdrop-filter:blur(12px);backdrop-filter:blur(12px);border-top:1px solid var(--line)}
+.nav a{display:flex;flex-direction:column;align-items:center;gap:2px;min-width:72px;padding:6px 0;color:var(--mut);font-size:12px}
+.nav a.on{color:var(--acc);font-weight:600}
+.nav svg{width:24px;height:24px}
+#toast{position:fixed;z-index:9;left:50%;bottom:calc(96px + env(safe-area-inset-bottom));transform:translate(-50%,10px);padding:10px 16px;border-radius:12px;background:var(--ink);color:var(--bg);font-size:14px;white-space:nowrap;opacity:0;pointer-events:none;transition:.2s}
+#toast.on{opacity:1;transform:translate(-50%,0)}
 </style>
 </head>
 <body>
-<h1>اختر شكل الصفحة الرئيسية</h1>
-<p>نفس الصفحة بثلاثة أشكال، بأسماء وصور حقيقية من hawshat. افتح كل شكل وارجع هنا بزر الرجوع.</p>
-<a href="mock/a.html"><span class="sw" style="background:linear-gradient(135deg,#F4EEE2 0 45%,#7B2D26 45% 72%,#AE8848 72%)"></span><span><b>١. ورق</b><small>هادئ بطابع المكتبات، خط نسخ وأرقام عربية</small></span></a>
-<a href="mock/b.html"><span class="sw" style="background:linear-gradient(135deg,#0A0D12 0 55%,#3DDC97 55% 76%,#6D4CFF 76%)"></span><span><b>٢. ليل</b><small>داكن وعصري، صور كبيرة في شبكة</small></span></a>
-<a href="mock/c.html"><span class="sw" style="background:linear-gradient(135deg,#F5F6F8 0 55%,#1D5BFF 55% 76%,#0F172A 76%)"></span><span><b>٣. ضوء</b><small>أبيض ونظيف، قائمة واضحة بأزرار كبيرة</small></span></a>
+<header class="top"><span class="logo">إرث</span>
+  <button class="tbtn" id="tbtn" aria-label="الشكل"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><circle cx="12" cy="12" r="8.5"/><path d="M12 3.5a8.5 8.5 0 0 1 0 17z" fill="currentColor"/></svg></button>
+</header>
+<div class="themes" id="themes" hidden></div>
+<div class="inst" id="inst" hidden><img src="icons/icon-192.png" alt=""><div class="it"><b>ثبّت إرث على جوالك</b><small>يفتح مثل التطبيق من أيقونة على الشاشة</small></div><button class="go" id="instgo">تثبيت</button><button class="x" id="instx" aria-label="إغلاق">×</button></div>
+<h1>المشايخ</h1>
+<p class="sub" id="sub"></p>
+<label class="search"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"><circle cx="11" cy="11" r="7"/><path d="m20 20-3.5-3.5"/></svg><input id="q" type="search" placeholder="ابحث عن شيخ" autocomplete="off"></label>
+<div class="orn">مفضلتي</div>
+<div class="favs" id="favs"></div>
+<div class="orn">كل المشايخ</div>
+<div class="list" id="list"></div>
+<nav class="nav" id="nav"></nav>
+<script src="mock/data.js"></script>
+<script src="mock/common.js"></script>
+<script>
+M.start({words:{l:['درس واحد','درسان','دروس','درساً','درس'],sh:['شيخ واحد','شيخان','مشايخ','شيخاً','شيخ']},
+  fav:f=>`<a class="fav" href="#"><b>${M.esc(f.title)}</b><small>${[M.esc(f.sheikh),M.cnt(f.lessons,'l'),M.cnt(f.hours,'h')].filter(Boolean).join(' · ')}</small></a>`,
+  row:s=>`<a class="row" href="#"><div class="ph">${M.ini(s.name)}${M.img(s)}</div><div class="tx"><div class="nm">${M.esc(s.name)}</div><div class="mt">${[M.cnt(s.series,'s'),M.cnt(s.lessons,'l'),M.cnt(s.hours,'h')].filter(Boolean).join('<i>·</i>')}</div></div>${M.svg('chev','chev')}</a>`});
+const TH={paper:['ورق','#F4EEE2'],night:['ليل','#14110E'],light:['ضوء','#FFFFFF']};
+const R=document.documentElement,tm=document.querySelector('meta[name=theme-color]'),pn=document.getElementById('themes');
+pn.innerHTML=Object.entries(TH).map(([k,[n,c]])=>`<button data-t="${k}"><i style="background:${c}"></i>${n}</button>`).join('');
+function setT(t){if(!TH[t])t='paper';R.dataset.theme=t;localStorage.setItem('irth.theme',t);tm.content=TH[t][1];
+  pn.querySelectorAll('button').forEach(b=>b.setAttribute('aria-pressed',b.dataset.t===t))}
+pn.onclick=e=>{const b=e.target.closest('button');if(b){setT(b.dataset.t);pn.hidden=true}};
+document.getElementById('tbtn').onclick=e=>{e.stopPropagation();pn.hidden=!pn.hidden};
+document.addEventListener('click',e=>{if(!pn.hidden&&!pn.contains(e.target))pn.hidden=true});
+setT(R.dataset.theme);
+let dp;const ib=document.getElementById('inst');
+addEventListener('beforeinstallprompt',e=>{e.preventDefault();dp=e;if(!sessionStorage.getItem('irth.ix'))ib.hidden=false});
+document.getElementById('instgo').onclick=async()=>{ib.hidden=true;if(dp){dp.prompt();await dp.userChoice;dp=null}};
+document.getElementById('instx').onclick=()=>{ib.hidden=true;sessionStorage.setItem('irth.ix','1')};
+addEventListener('appinstalled',()=>ib.hidden=true);
+if('serviceWorker' in navigator)navigator.serviceWorker.register('sw.js');
+</script>
 </body>
 </html>
