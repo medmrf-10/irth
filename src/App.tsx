@@ -3,7 +3,8 @@ import { Navigate, Route, Routes } from 'react-router-dom';
 import { BottomNav, Toast } from './ui/AppShell';
 import { InstallBanner } from './ui/InstallBanner';
 import { useUser } from './user/store';
-import SheikhsPage from './services/tube/pages/SheikhsPage';
+import SciencesPage from './services/tube/pages/SciencesPage';
+import SciencePage from './services/tube/pages/SciencePage';
 import SheikhPage from './services/tube/pages/SheikhPage';
 import SeriesPage from './services/tube/pages/SeriesPage';
 import LessonPage from './services/tube/pages/LessonPage';
@@ -22,7 +23,8 @@ export default function App() {
     <div className="app">
       <Routes>
         <Route path="/" element={<Navigate to="/tube" replace />} />
-        <Route path="/tube" element={<SheikhsPage />} />
+        <Route path="/tube" element={<SciencesPage />} />
+        <Route path="/tube/science/:id" element={<SciencePage />} />
         <Route path="/tube/sheikh/:id" element={<SheikhPage />} />
         <Route path="/tube/series/:id" element={<SeriesPage />} />
         <Route path="/tube/v/:videoId" element={<LessonPage />} />

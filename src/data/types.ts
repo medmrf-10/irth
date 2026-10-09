@@ -54,6 +54,7 @@ export interface Series {
   id: string;
   title: string;
   items: string[]; // رموز الفيديوهات بالترتيب؛ رقم الدرس = مكانه + 1
+  science?: string; // رمز العلم — اختيار يدوي
   sources?: string[];
   complete?: boolean;
   note?: string;

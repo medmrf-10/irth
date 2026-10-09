@@ -1,1 +1,10 @@
-{"v":1,"rows":[]}
+{"v":1,"rows":[
+{"id":"aqida","name":"العقيدة"},
+{"id":"fiqh","name":"الفقه"},
+{"id":"usul","name":"أصول الفقه"},
+{"id":"tazkiya","name":"التزكية"},
+{"id":"tafsir","name":"التفسير"},
+{"id":"hadith","name":"الحديث"},
+{"id":"seerah","name":"السيرة"},
+{"id":"arabiyya","name":"العربية"}
+]}

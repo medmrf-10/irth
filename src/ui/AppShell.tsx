@@ -114,7 +114,7 @@ export function BottomNav() {
     <nav className="nav">
       <NavLink to="/tube" end className={({ isActive }) => (isActive ? 'on' : '')}>
         <IconSheikhs />
-        <span>المشايخ</span>
+        <span>العلوم</span>
       </NavLink>
       <NavLink to="/tube/fav" className={({ isActive }) => (isActive ? 'on' : '')}>
         <IconFav />
