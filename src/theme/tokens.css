@@ -1,0 +1,91 @@
+/* إرث — نظام التصميم. كل لون ومسافة وزاوية وظل يمر من هنا فقط. الثيمات المعتمدة: ورق وليل. */
+
+:root {
+  /* سلّم المسافات */
+  --s-1: 4px;
+  --s-2: 8px;
+  --s-3: 12px;
+  --s-4: 16px;
+  --s-5: 20px;
+  --s-6: 24px;
+
+  /* الزوايا */
+  --r-1: 12px;
+  --r-2: 16px;
+  --r-3: 18px;
+  --r-pill: 999px;
+
+  /* الخطوط */
+  --font-display: 'Amiri', serif;
+  --font-body: 'Noto Naskh Arabic', serif;
+
+  /* الحركة */
+  --dur-1: 150ms;
+  --dur-2: 300ms;
+  --dur-3: 450ms;
+  --ease: cubic-bezier(0.22, 0.61, 0.36, 1);
+
+  /* العرض الأقصى — الجوال أولاً */
+  --app-max: 560px;
+
+  /* حجم اللمسة الأدنى */
+  --touch: 44px;
+}
+
+/* ليل */
+:root,
+[data-theme='night'] {
+  --bg: #14110e;
+  --card: #1c1814;
+  --text: #efe6d6;
+  --muted: #a39684;
+  --line: #2f2923;
+  --primary: #e3a598;
+  --gold: #c9a35c;
+  color-scheme: dark;
+}
+
+/* ورق */
+[data-theme='paper'] {
+  --bg: #f4eee2;
+  --card: #fbf7ef;
+  --text: #2a241d;
+  --muted: #8a7e6e;
+  --line: #e5dac6;
+  --primary: #7b2d26;
+  --gold: #ae8848;
+  color-scheme: light;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: var(--bg);
+  color: var(--text);
+  font-family: var(--font-body);
+  line-height: 1.7;
+  -webkit-font-smoothing: antialiased;
+}
+
+#root {
+  max-width: var(--app-max);
+  margin-inline: auto;
+  min-height: 100dvh;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    transition-duration: 0.01ms !important;
+  }
+}
