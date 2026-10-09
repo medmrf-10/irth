@@ -1,3 +1,5 @@
 {"v":1,"rows":[
-{"id": "bouti", "name": "محمد سعيد رمضان البوطي", "short": "البوطي", "photo": "content/persons/bouti.jpg"}
+{"id": "alsayed", "name": "أحمد السيد", "short": "أحمد السيد", "photo": "content/persons/alsayed.jpg"},
+{"id": "bouti", "name": "محمد سعيد رمضان البوطي", "short": "البوطي", "photo": "content/persons/bouti.jpg"},
+{"id": "nawawi", "name": "يحيى بن شرف النووي", "short": "النووي"}
 ]}

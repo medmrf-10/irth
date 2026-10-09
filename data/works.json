@@ -1,8 +1,10 @@
 {"v":1,"rows":[
 {"id": "al7obFiEl9or1n", "title": "الحب في القرآن", "author": "bouti", "science": "tazkia", "kind": "kitab"},
+{"id": "el6ari9IlaBaytElmaqdis", "title": "الطريق إلى بيت المقدس", "author": "alsayed", "science": "sirah", "kind": "kitab"},
 {"id": "fi9hElsirah", "title": "فقه السيرة النبوية", "author": "bouti", "science": "sirah", "kind": "kitab"},
 {"id": "kobraElya9inyat", "title": "كبرى اليقينيات الكونية", "author": "bouti", "science": "3a9ida", "kind": "kitab"},
 {"id": "minRawa23El9or1n", "title": "من روائع القرآن الكريم", "author": "bouti", "science": "tafsir", "kind": "kitab"},
+{"id": "riyadElsali7in", "title": "رياض الصالحين", "author": "nawawi", "science": "7adith", "kind": "kitab"},
 {"id": "tari5Eltachri3", "title": "تاريخ التشريع الإسلامي", "author": "bouti", "science": "fi9h", "kind": "kitab"},
 {"id": "yoghalitonak", "title": "يغالطونك إذ يقولون", "author": "bouti", "science": "3a9ida", "kind": "kitab"}
 ]}
