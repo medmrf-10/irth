@@ -1,5 +1,46 @@
-{"v":1,"rows":[
-{"id": "alsayed", "name": "أحمد السيد", "short": "أحمد السيد", "photo": "content/persons/alsayed.jpg"},
-{"id": "bouti", "name": "محمد سعيد رمضان البوطي", "short": "البوطي", "photo": "content/persons/bouti.jpg"},
-{"id": "nawawi", "name": "يحيى بن شرف النووي", "short": "النووي"}
-]}
+{
+ "v": 1,
+ "rows": [
+  {
+   "id": "alsayed",
+   "name": "أحمد السيد",
+   "short": "أحمد السيد",
+   "photo": "content/persons/alsayed.jpg"
+  },
+  {
+   "id": "bouti",
+   "name": "محمد سعيد رمضان البوطي",
+   "short": "البوطي",
+   "photo": "content/persons/bouti.jpg"
+  },
+  {
+   "id": "nawawi",
+   "name": "يحيى بن شرف النووي",
+   "short": "النووي"
+  },
+  {
+   "id": "abdelmonem",
+   "name": "أحمد عبد المنعم",
+   "short": "المنعم",
+   "photo": "content/persons/abdelmonem.jpg"
+  },
+  {
+   "id": "alasri",
+   "name": "سيف العصري",
+   "short": "العصري",
+   "photo": "content/persons/alasri.jpg"
+  },
+  {
+   "id": "fadel",
+   "name": "فاضل سليمان",
+   "short": "سليمان",
+   "photo": "content/persons/fadel.jpg"
+  },
+  {
+   "id": "aouni",
+   "name": "حاتم العوني",
+   "short": "العوني",
+   "photo": "content/persons/aouni.jpg"
+  }
+ ]
+}
