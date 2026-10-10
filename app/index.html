@@ -611,7 +611,11 @@ function setMode(m){
   document.getElementById('p-qu').style.display=m==='qu'?'':'none';
 }
 function viewLesson(id){
-  navOn('home');curLes=id;
+  navOn('home');
+  // رابط موقوت: #/lesson/<id>?t=<ثوان> يتجاوز موضعك المحفوظ
+  let wantT=0;const qi=id.indexOf('?');if(qi>=0){const qt=new URLSearchParams(id.slice(qi+1));wantT=parseFloat(qt.get('t')||'0')||0;id=id.slice(0,qi)}
+  if(wantT>0)POS.set(id,Math.floor(wantT));
+  curLes=id;
   const V=VID[id];
   if(!V){app.innerHTML='<div class="errbox">درس غير موجود</div>';return}
   const ser=SER.find(s=>s.items.includes(id));
