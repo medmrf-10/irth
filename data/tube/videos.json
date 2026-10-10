@@ -16528,7 +16528,10 @@
     "abdelwahid"
    ],
    "duration": 13476,
-   "has": [],
+   "has": [
+    "transcript",
+    "questions"
+   ],
    "work": "tawassul"
   },
   {
@@ -16567,7 +16570,10 @@
     "abdelwahid"
    ],
    "duration": 9766,
-   "has": [],
+   "has": [
+    "transcript",
+    "questions"
+   ],
    "work": "tawassul"
   },
   {
@@ -16578,7 +16584,10 @@
     "abdelwahid"
    ],
    "duration": 7425,
-   "has": [],
+   "has": [
+    "transcript",
+    "questions"
+   ],
    "work": "tawassul"
   },
   {
@@ -16589,7 +16598,10 @@
     "abdelwahid"
    ],
    "duration": 7351,
-   "has": [],
+   "has": [
+    "transcript",
+    "questions"
+   ],
    "work": "tawassul"
   },
   {
