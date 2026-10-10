@@ -10656,7 +10656,8 @@
    "has": [
     "transcript",
     "align",
-    "summary"
+    "summary",
+    "questions"
    ],
    "work": "alamriAdabMurid",
    "ytTitle": "رسالة آداب سلوك المريد_ المجلس السادس عشر _ للإمام الحبيب عبد الله بن علوي الحداد الحضرمي الشافعي."
@@ -10672,7 +10673,8 @@
    "has": [
     "transcript",
     "align",
-    "summary"
+    "summary",
+    "questions"
    ],
    "work": "alamriAdabMurid",
    "ytTitle": "رسالة آداب سلوك المريد_ المجلس الحادي عشر_ للإمام الحبيب عبد الله بن علوي الحداد الحضرمي الشافعي."
@@ -10688,7 +10690,8 @@
    "has": [
     "transcript",
     "align",
-    "summary"
+    "summary",
+    "questions"
    ],
    "work": "alamriAdabMurid",
    "ytTitle": "رسالة آداب سلوك المريد_ المجلس الخامس عشر_ للإمام الحبيب عبد الله بن علوي الحداد الحضرمي الشافعي."
@@ -11995,7 +11998,8 @@
    "has": [
     "transcript",
     "align",
-    "summary"
+    "summary",
+    "questions"
    ],
    "work": "alamriFalsafaHaditha",
    "ytTitle": "( 7 ) دروس في الفلسفة"
@@ -12011,7 +12015,8 @@
    "has": [
     "transcript",
     "align",
-    "summary"
+    "summary",
+    "questions"
    ],
    "work": "alamriFalsafaHaditha",
    "ytTitle": "( 8 ) دروس في الفلسفة"
@@ -12027,7 +12032,8 @@
    "has": [
     "transcript",
     "align",
-    "summary"
+    "summary",
+    "questions"
    ],
    "work": "alamriFalsafaHaditha",
    "ytTitle": "( 9 ) دروس في الفلسفة"
@@ -12043,7 +12049,8 @@
    "has": [
     "transcript",
     "align",
-    "summary"
+    "summary",
+    "questions"
    ],
    "work": "alamriFalsafaHaditha",
    "ytTitle": "( 10 ) دروس في الفلسفة"
@@ -14746,9 +14753,10 @@
    ],
    "duration": 2419,
    "has": [
+    "transcript",
     "align",
     "summary",
-    "transcript"
+    "questions"
    ],
    "work": "alasriArbaa",
    "ytTitle": "حديث الإفتراق -  رواية ودراية/ د. سيف العصري"
@@ -14762,9 +14770,10 @@
    ],
    "duration": 2478,
    "has": [
+    "transcript",
     "align",
     "summary",
-    "transcript"
+    "questions"
    ],
    "work": "alasriArbaa",
    "ytTitle": "هل خالف العلماء رسول الله ﷺ حين قسموا البدعة الى حسنة وسيئة/ د.سيف العصري"
@@ -14778,9 +14787,10 @@
    ],
    "duration": 1017,
    "has": [
+    "transcript",
     "align",
     "summary",
-    "transcript"
+    "questions"
    ],
    "work": "alasriArbaa",
    "ytTitle": "ميراث المرأة في الإسلام/د. سيف العصري"
@@ -14794,9 +14804,10 @@
    ],
    "duration": 2212,
    "has": [
+    "transcript",
     "align",
     "summary",
-    "transcript"
+    "questions"
    ],
    "work": "alasriArbaa",
    "ytTitle": "الوقفة الثانية مع شحرور/ د.سيف العصري"
@@ -14810,9 +14821,10 @@
    ],
    "duration": 2232,
    "has": [
+    "transcript",
     "align",
     "summary",
-    "transcript"
+    "questions"
    ],
    "work": "alasriArbaa",
    "ytTitle": "الوقفة الأولى مع شحرور/ د. سيف العصري"
@@ -14826,9 +14838,10 @@
    ],
    "duration": 2321,
    "has": [
+    "transcript",
     "align",
     "summary",
-    "transcript"
+    "questions"
    ],
    "work": "alasriArbaa",
    "ytTitle": "تعريف العبادة بين التحقيق والمجازفة / د. سيف العصري"
@@ -14842,9 +14855,10 @@
    ],
    "duration": 1839,
    "has": [
+    "transcript",
     "align",
     "summary",
-    "transcript"
+    "questions"
    ],
    "work": "alasriArbaa",
    "ytTitle": "الإلحاد قناعة ام مرض؟ د. سيف العصري"
@@ -14858,9 +14872,10 @@
    ],
    "duration": 2501,
    "has": [
+    "transcript",
     "align",
     "summary",
-    "transcript"
+    "questions"
    ],
    "work": "alasriArbaa",
    "ytTitle": "الكلام عن نسبة كتاب الرد على الجهمية والزنادقة للإمام أحمد/ د. سيف العصري"
@@ -14874,9 +14889,10 @@
    ],
    "duration": 2246,
    "has": [
+    "transcript",
     "align",
     "summary",
-    "transcript"
+    "questions"
    ],
    "work": "alasriArbaa",
    "ytTitle": "قواعد التصوف وشواهد التعرف/ د.سيف العصري"
@@ -14890,9 +14906,10 @@
    ],
    "duration": 2560,
    "has": [
+    "transcript",
     "align",
     "summary",
-    "transcript"
+    "questions"
    ],
    "work": "alasriArbaa",
    "ytTitle": "عقيدة الحافظ ابن عبد البر القرطبي المتوفى سنة ٤٦٣ ه‍ / د.سيف العصري"
@@ -14906,9 +14923,10 @@
    ],
    "duration": 1965,
    "has": [
+    "transcript",
     "align",
     "summary",
-    "transcript"
+    "questions"
    ],
    "work": "alasriArbaa",
    "ytTitle": "عقيدة الحافظ ابن كثير من نصوصه. د. سيف العصري"
@@ -14922,9 +14940,10 @@
    ],
    "duration": 2092,
    "has": [
+    "transcript",
     "align",
     "summary",
-    "transcript"
+    "questions"
    ],
    "work": "alasriArbaa",
    "ytTitle": "لقاء الأربعاء/ مفهوم الإيمان بين أهل السنة والمخالفين/ د. سيف العصري"
@@ -14938,9 +14957,10 @@
    ],
    "duration": 2721,
    "has": [
+    "transcript",
     "align",
     "summary",
-    "transcript"
+    "questions"
    ],
    "work": "alasriArbaa",
    "ytTitle": "لقاء الأربعاء / اختلال الميزان ونتائجه المرة / د سيف العصري"
@@ -14954,9 +14974,10 @@
    ],
    "duration": 2373,
    "has": [
+    "transcript",
     "align",
     "summary",
-    "transcript"
+    "questions"
    ],
    "work": "alasriArbaa",
    "ytTitle": "لقاء الأربعاء / آل البيت بين التجريم والتعصيم / د. سيف العصري"
@@ -14970,9 +14991,10 @@
    ],
    "duration": 2862,
    "has": [
+    "transcript",
     "align",
     "summary",
-    "transcript"
+    "questions"
    ],
    "work": "alasriArbaa",
    "ytTitle": "لقاء الأربعاء / الاستغاثة فى ميزان الشرع / د. سيف العصري"
@@ -14986,9 +15008,10 @@
    ],
    "duration": 2752,
    "has": [
+    "transcript",
     "align",
     "summary",
-    "transcript"
+    "questions"
    ],
    "work": "alasriArbaa",
    "ytTitle": "لقاء الأربعاء / أثر إبن مسعود فى حصب الذاكرين سندا ومتنا / د. سيف العصري"
@@ -15002,9 +15025,10 @@
    ],
    "duration": 1771,
    "has": [
+    "transcript",
     "align",
     "summary",
-    "transcript"
+    "questions"
    ],
    "work": "alasriArbaa",
    "ytTitle": "لقاء الأربعاء / لماذا اختلف العلماء، وهل اختلافهم رحمة ؟ / د. سيف العصري"
@@ -15018,9 +15042,10 @@
    ],
    "duration": 2435,
    "has": [
+    "transcript",
     "align",
     "summary",
-    "transcript"
+    "questions"
    ],
    "work": "alasriArbaa",
    "ytTitle": "لقاء الأربعاء  / هل يدل حديث الرهط على أن الترك دليل على المنع؟ / د سيف العصري"
@@ -15034,9 +15059,10 @@
    ],
    "duration": 1503,
    "has": [
+    "transcript",
     "align",
     "summary",
-    "transcript"
+    "questions"
    ],
    "work": "alasriArbaa",
    "ytTitle": "لقاء الأربعاء / هل يدخل القياس في العبادات / د. سيف العصري"
@@ -15050,9 +15076,10 @@
    ],
    "duration": 2348,
    "has": [
+    "transcript",
     "align",
     "summary",
-    "transcript"
+    "questions"
    ],
    "work": "alasriArbaa",
    "ytTitle": "لقاء الأربعاء / مقتطفات من الشمائل المحمدية للإمام الترمذي / د. سيف العصري"
@@ -15066,9 +15093,10 @@
    ],
    "duration": 3080,
    "has": [
+    "transcript",
     "align",
     "summary",
-    "transcript"
+    "questions"
    ],
    "work": "alasriArbaa",
    "ytTitle": "لقاء الأربعاء / اضطراب الفتاوى - نَظَرٌ فى الأسباب / د. سيف العصري"
@@ -15082,9 +15110,10 @@
    ],
    "duration": 2770,
    "has": [
+    "transcript",
     "align",
     "summary",
-    "transcript"
+    "questions"
    ],
    "work": "alasriArbaa",
    "ytTitle": "لقاء الأربعاء /  أعجوبة الزمان الإمام الغزالي  / د سيف العصري"
@@ -15098,9 +15127,10 @@
    ],
    "duration": 2286,
    "has": [
+    "transcript",
     "align",
     "summary",
-    "transcript"
+    "questions"
    ],
    "work": "alasriArbaa",
    "ytTitle": "لقاء الأربعاء / القرآنيون هل هم قرآنيون / د. سيف العصري"
@@ -15114,9 +15144,10 @@
    ],
    "duration": 2879,
    "has": [
+    "transcript",
     "align",
     "summary",
-    "transcript"
+    "questions"
    ],
    "work": "alasriArbaa",
    "ytTitle": "لقاء الأربعاء / صحة الحديث وضعفه وعلاقة ذلك بالعمل / د. سيف العصري"
@@ -15130,9 +15161,10 @@
    ],
    "duration": 2430,
    "has": [
+    "transcript",
     "align",
     "summary",
-    "transcript"
+    "questions"
    ],
    "work": "alasriArbaa",
    "ytTitle": "لقاء الأربعاء / الإعلام بمن لبس الخرقة من الأعلام / د. سيف العصري"
@@ -15146,9 +15178,10 @@
    ],
    "duration": 2361,
    "has": [
+    "transcript",
     "align",
     "summary",
-    "transcript"
+    "questions"
    ],
    "work": "alasriArbaa",
    "ytTitle": "لقاء الأربعاء / أشعرية الحافظ ابن حجر / د. سيف العصري"
@@ -15162,9 +15195,10 @@
    ],
    "duration": 1756,
    "has": [
+    "transcript",
     "align",
     "summary",
-    "transcript"
+    "questions"
    ],
    "work": "alasriArbaa",
    "ytTitle": "لقاء الأربعاء / عاشوراء بين المشروع والممنوع / د. سيف العصري"
@@ -15178,9 +15212,10 @@
    ],
    "duration": 2020,
    "has": [
+    "transcript",
     "align",
     "summary",
-    "transcript"
+    "questions"
    ],
    "work": "alasriArbaa",
    "ytTitle": "لقاء الأربعاء / هجرة الأخلاق / د. سيف العصري"
@@ -15194,9 +15229,10 @@
    ],
    "duration": 2132,
    "has": [
+    "transcript",
     "align",
     "summary",
-    "transcript"
+    "questions"
    ],
    "work": "alasriArbaa",
    "ytTitle": "لقاء الأربعاء / غدير خم   (من كنت مولاه فعلي مولاه) / د. سيف العصري"
@@ -15210,9 +15246,10 @@
    ],
    "duration": 2107,
    "has": [
+    "transcript",
     "align",
     "summary",
-    "transcript"
+    "questions"
    ],
    "work": "alasriArbaa",
    "ytTitle": "علم الكلام والحاجة إليه / د. سيف العصري"
@@ -15226,9 +15263,10 @@
    ],
    "duration": 1749,
    "has": [
+    "transcript",
     "align",
     "summary",
-    "transcript"
+    "questions"
    ],
    "work": "alasriArbaa",
    "ytTitle": "فضائل بيت المقدس / د. سيف العصري"
@@ -15242,9 +15280,10 @@
    ],
    "duration": 2274,
    "has": [
+    "transcript",
     "align",
     "summary",
-    "transcript"
+    "questions"
    ],
    "work": "alasriArbaa",
    "ytTitle": "لقاء الأربعاء / الحجاب عادة أم عبادة (مناقشة لشبهات عدنان إبراهيم) / د. سيف العصري"
@@ -15258,9 +15297,10 @@
    ],
    "duration": 2839,
    "has": [
+    "transcript",
     "align",
     "summary",
-    "transcript"
+    "questions"
    ],
    "work": "alasriArbaa",
    "ytTitle": "لقاء الأربعاء / ضابط الخلاف المعتبر / د. سيف العصري"
@@ -15274,9 +15314,10 @@
    ],
    "duration": 1792,
    "has": [
+    "transcript",
     "align",
     "summary",
-    "transcript"
+    "questions"
    ],
    "work": "alasriArbaa",
    "ytTitle": "لقاء الأربعاء / الإيضاح والبيان لفضيلة ليلة النصف من شعبان / د. سيف العصري"
@@ -15290,9 +15331,10 @@
    ],
    "duration": 2602,
    "has": [
+    "transcript",
     "align",
     "summary",
-    "transcript"
+    "questions"
    ],
    "work": "alasriArbaa",
    "ytTitle": "لقاء الأربعاء / حقيقة التواتر وحجيته / د. سيف العصري"
@@ -15306,9 +15348,10 @@
    ],
    "duration": 2497,
    "has": [
+    "transcript",
     "align",
     "summary",
-    "transcript"
+    "questions"
    ],
    "work": "alasriArbaa",
    "ytTitle": "لقاء الأربعاء / الإسراء والمعراج / د. سيف العصري"
@@ -15322,9 +15365,10 @@
    ],
    "duration": 1964,
    "has": [
+    "transcript",
     "align",
     "summary",
-    "transcript"
+    "questions"
    ],
    "work": "alasriArbaa",
    "ytTitle": "لقاء الأربعاء / إبطال الرمس عن حديث سجود الشمس / د. سيف العصري / الرد  على د. عدنان إبراهيم"
@@ -15338,9 +15382,10 @@
    ],
    "duration": 2948,
    "has": [
+    "transcript",
     "align",
     "summary",
-    "transcript"
+    "questions"
    ],
    "work": "alasriArbaa",
    "ytTitle": "لقاء الأربعاء / نماذج من العبث في رد السنة / د. سيف العصري"
@@ -15354,9 +15399,10 @@
    ],
    "duration": 2736,
    "has": [
+    "transcript",
     "align",
     "summary",
-    "transcript"
+    "questions"
    ],
    "work": "alasriArbaa",
    "ytTitle": "لقاء الأربعاء / الأدب في رجب / د. سيف العصري"
@@ -15370,9 +15416,10 @@
    ],
    "duration": 3758,
    "has": [
+    "transcript",
     "align",
     "summary",
-    "transcript"
+    "questions"
    ],
    "work": "alasriArbaa",
    "ytTitle": "لقاء الأربعاء / الترك ليس حجة على المنع / الدكتور سيف العصري"
@@ -15386,9 +15433,10 @@
    ],
    "duration": 2106,
    "has": [
+    "transcript",
     "align",
     "summary",
-    "transcript"
+    "questions"
    ],
    "work": "alasriArbaa",
    "ytTitle": "لقاء الأربعاء / المفكرون في ميزان الفكر / الدكتور سيف العصري"
@@ -15402,9 +15450,10 @@
    ],
    "duration": 2443,
    "has": [
+    "transcript",
     "align",
     "summary",
-    "transcript"
+    "questions"
    ],
    "work": "alasriArbaa",
    "ytTitle": "لقاء الأربعاء / براءة الأشعرية من الإرجاء / الدكتور سيف العصري"
@@ -15418,9 +15467,10 @@
    ],
    "duration": 2396,
    "has": [
+    "transcript",
     "align",
     "summary",
-    "transcript"
+    "questions"
    ],
    "work": "alasriArbaa",
    "ytTitle": "لقاء الأربعاء / براءة الأشعرية من الجهمية / الدكتور سيف العصري"
@@ -15434,9 +15484,10 @@
    ],
    "duration": 2133,
    "has": [
+    "transcript",
     "align",
     "summary",
-    "transcript"
+    "questions"
    ],
    "work": "alasriArbaa",
    "ytTitle": "لقاء الأربعاء / الانتماء والتحزب / الدكتور سيف العصري"
@@ -15450,9 +15501,10 @@
    ],
    "duration": 3254,
    "has": [
+    "transcript",
     "align",
     "summary",
-    "transcript"
+    "questions"
    ],
    "work": "alasriArbaa",
    "ytTitle": "لقاء الأربعاء / رد السهام عن سنة خير الأنام / الدكتور سيف العصري"
@@ -15466,9 +15518,10 @@
    ],
    "duration": 2339,
    "has": [
+    "transcript",
     "align",
     "summary",
-    "transcript"
+    "questions"
    ],
    "work": "alasriArbaa",
    "ytTitle": "لقاء الأربعاء / التجديد بين التسديد والتبديد / الدكتور سيف العصري"
@@ -15482,9 +15535,10 @@
    ],
    "duration": 3636,
    "has": [
+    "transcript",
     "align",
     "summary",
-    "transcript"
+    "questions"
    ],
    "work": "alasriArbaa",
    "ytTitle": "لقاء الأربعاء / تفصيل الكلام في نواقض الإسلام / الدكتور سيف العصري"
@@ -15498,9 +15552,10 @@
    ],
    "duration": 2626,
    "has": [
+    "transcript",
     "align",
     "summary",
-    "transcript"
+    "questions"
    ],
    "work": "alasriArbaa",
    "ytTitle": "لقاء الأربعاء / عقيدة الإمام النووي/ الدكتور سيف العصري"
@@ -15514,9 +15569,10 @@
    ],
    "duration": 2298,
    "has": [
+    "transcript",
     "align",
     "summary",
-    "transcript"
+    "questions"
    ],
    "work": "alasriArbaa",
    "ytTitle": "لقاء الأربعاء / اللا مذهبية هي الفوضى / الدكتور سيف العصري"
@@ -15530,9 +15586,10 @@
    ],
    "duration": 1856,
    "has": [
+    "transcript",
     "align",
     "summary",
-    "transcript"
+    "questions"
    ],
    "work": "alasriArbaa",
    "ytTitle": "لقاء الأربعاء / الخوارج خطرهم وصفاتهم / الدكتور سيف العصري"
@@ -15546,9 +15603,10 @@
    ],
    "duration": 2672,
    "has": [
+    "transcript",
     "align",
     "summary",
-    "transcript"
+    "questions"
    ],
    "work": "alasriArbaa",
    "ytTitle": "حكم الاحتفال بمولد النبي الكريم / الدكتور سيف العصري"
@@ -15562,9 +15620,10 @@
    ],
    "duration": 3372,
    "has": [
+    "transcript",
     "align",
     "summary",
-    "transcript"
+    "questions"
    ],
    "work": "alasriArbaa",
    "ytTitle": "لقاء الأربعاء / الشفا بتعريف حقوق المصطفى / الدكتور سيف العصري"
@@ -15578,9 +15637,10 @@
    ],
    "duration": 1271,
    "has": [
+    "transcript",
     "align",
     "summary",
-    "transcript"
+    "questions"
    ],
    "work": "alasriArbaa",
    "ytTitle": "لقاء الأربعاء / الاحتفال بالمولد النبوي / الدكتور سيف العصري"
@@ -15594,9 +15654,10 @@
    ],
    "duration": 4032,
    "has": [
+    "transcript",
     "align",
     "summary",
-    "transcript"
+    "questions"
    ],
    "work": "alasriArbaa",
    "ytTitle": "لقاء الأربعاء / موقف السلف والخلف من نصوص الصفات / الدكتور سيف العصري"
@@ -15610,9 +15671,10 @@
    ],
    "duration": 3727,
    "has": [
+    "transcript",
     "align",
     "summary",
-    "transcript"
+    "questions"
    ],
    "work": "alasriArbaa",
    "ytTitle": "لقاء الأربعاء / أهل السنة والجماعة / الدكتور سيف العصري"
@@ -15626,9 +15688,10 @@
    ],
    "duration": 2937,
    "has": [
+    "transcript",
     "align",
     "summary",
-    "transcript"
+    "questions"
    ],
    "work": "alasriArbaa",
    "ytTitle": "لقاء الأربعاء / التصوف / الدكتور سيف العصري / مسجد قلب الشيشان"
@@ -15642,9 +15705,10 @@
    ],
    "duration": 2150,
    "has": [
+    "transcript",
     "align",
     "summary",
-    "transcript"
+    "questions"
    ],
    "work": "fadelJuz30",
    "ytTitle": "فيديو # ٦١٦ من مقاطع حظر التجول  تدبر سورة النبأ # ١ الآيات ١-١٧"
@@ -15658,9 +15722,10 @@
    ],
    "duration": 1857,
    "has": [
+    "transcript",
     "align",
     "summary",
-    "transcript"
+    "questions"
    ],
    "work": "fadelJuz30",
    "ytTitle": "فيديو # ٦١٧ من مقاطع حظر التجول   تدبر سورة النبأ # ٢  الآيات ١٨-٤٠"
@@ -15674,9 +15739,10 @@
    ],
    "duration": 1984,
    "has": [
+    "transcript",
     "align",
     "summary",
-    "transcript"
+    "questions"
    ],
    "work": "fadelJuz30",
    "ytTitle": "فيديو # ٦١٨ من مقاطع حظر التجول   تدبر سورة النازعات # ١  الآيات ١-١٤"
@@ -15690,9 +15756,10 @@
    ],
    "duration": 1784,
    "has": [
+    "transcript",
     "align",
     "summary",
-    "transcript"
+    "questions"
    ],
    "work": "fadelJuz30",
    "ytTitle": "فيديو # ٦١٩ من مقاطع حظر التجول   تدبر سورة النازعات # ٢  الآيات ١٥-٢٦"
@@ -15706,9 +15773,10 @@
    ],
    "duration": 2026,
    "has": [
+    "transcript",
     "align",
     "summary",
-    "transcript"
+    "questions"
    ],
    "work": "fadelJuz30",
    "ytTitle": "فيديو # ٦٢٠ من مقاطع حظر التجول   تدبر سورة النازعات # ٣  الآيات ٢٧-٤٦"
@@ -15722,9 +15790,10 @@
    ],
    "duration": 2302,
    "has": [
+    "transcript",
     "align",
     "summary",
-    "transcript"
+    "questions"
    ],
    "work": "fadelJuz30",
    "ytTitle": "فيديو # ٦٢١ من مقاطع حظر التجول   تدبر سورة عبس # ١  الآيات ١-١٠"
@@ -15738,9 +15807,10 @@
    ],
    "duration": 2082,
    "has": [
+    "transcript",
     "align",
     "summary",
-    "transcript"
+    "questions"
    ],
    "work": "fadelJuz30",
    "ytTitle": "فيديو # ٦٢٢ من مقاطع حظر التجول   تدبر سورة عبس # ٢  الآيات ١١-٤٢"
@@ -15754,9 +15824,10 @@
    ],
    "duration": 1631,
    "has": [
+    "transcript",
     "align",
     "summary",
-    "transcript"
+    "questions"
    ],
    "work": "fadelJuz30",
    "ytTitle": "فيديو # ٦٢٣ من مقاطع حظر التجول   تدبر سورة التكوير # ١  الآيات ١-١٧"
@@ -15770,9 +15841,10 @@
    ],
    "duration": 1552,
    "has": [
+    "transcript",
     "align",
     "summary",
-    "transcript"
+    "questions"
    ],
    "work": "fadelJuz30",
    "ytTitle": "فيديو # ٦٢٤ من مقاطع حظر التجول   تدبر سورة التكوير # ٢  الآيات ١٨-٢٩"
@@ -15786,9 +15858,10 @@
    ],
    "duration": 2410,
    "has": [
+    "transcript",
     "align",
     "summary",
-    "transcript"
+    "questions"
    ],
    "work": "fadelJuz30",
    "ytTitle": "مقطع ٦٢٥ من مقاطع حظر التجول تدبر سورة الانفطار كاملة"
@@ -15802,9 +15875,10 @@
    ],
    "duration": 2080,
    "has": [
+    "transcript",
     "align",
     "summary",
-    "transcript"
+    "questions"
    ],
    "work": "fadelJuz30",
    "ytTitle": "فيديو # ٦٢٦ من مقاطع حظر التجول  تدبر سورة المطففين حلقة # ١ الآيات ١-٦"
@@ -15818,9 +15892,10 @@
    ],
    "duration": 2120,
    "has": [
+    "transcript",
     "align",
     "summary",
-    "transcript"
+    "questions"
    ],
    "work": "fadelJuz30",
    "ytTitle": "فيديو # ٦٢٧ من مقاطع حظر التجول  تدبر سورة المطففين حلقة # ٢ الآيات ٧-٣٦"
@@ -15834,9 +15909,10 @@
    ],
    "duration": 2222,
    "has": [
+    "transcript",
     "align",
     "summary",
-    "transcript"
+    "questions"
    ],
    "work": "fadelJuz30",
    "ytTitle": "مقطع ٦٢٨ من مقاطع حظر التجول  تدبر سورة الانشقاق كاملة"
@@ -15850,9 +15926,10 @@
    ],
    "duration": 2390,
    "has": [
+    "transcript",
     "align",
     "summary",
-    "transcript"
+    "questions"
    ],
    "work": "fadelJuz30",
    "ytTitle": "مقطع ٦٢٩ من مقاطع حظر التجول   تدبر سورة البروج كاملة"
@@ -15866,9 +15943,10 @@
    ],
    "duration": 2438,
    "has": [
+    "transcript",
     "align",
     "summary",
-    "transcript"
+    "questions"
    ],
    "work": "fadelJuz30",
    "ytTitle": "فيديو # ٦٣٠ من مقاطع حظر التجول  تدبر سورة الطارق كاملة"
@@ -15882,9 +15960,10 @@
    ],
    "duration": 1051,
    "has": [
+    "transcript",
     "align",
     "summary",
-    "transcript"
+    "questions"
    ],
    "work": "fadelJuz30",
    "ytTitle": "فيديو # ٦٣١ من مقاطع حظر التجول  تدبر سورة الأعلى حلقة ١  الآيات ١-٦"
@@ -15898,9 +15977,10 @@
    ],
    "duration": 2197,
    "has": [
+    "transcript",
     "align",
     "summary",
-    "transcript"
+    "questions"
    ],
    "work": "fadelJuz30",
    "ytTitle": "فيديو # ٦٣٢ من مقاطع حظر التجول  تدبر سورة الأعلى حلقة # ٢  الآيات ٧-١٩"
@@ -15914,9 +15994,10 @@
    ],
    "duration": 2210,
    "has": [
+    "transcript",
     "align",
     "summary",
-    "transcript"
+    "questions"
    ],
    "work": "fadelJuz30",
    "ytTitle": "فيديو # ٦٣٣ من مقاطع حظر التجول  تدبر سورة الغاشية"
@@ -15930,9 +16011,10 @@
    ],
    "duration": 1898,
    "has": [
+    "transcript",
     "align",
     "summary",
-    "transcript"
+    "questions"
    ],
    "work": "fadelJuz30",
    "ytTitle": "فيديو # ٦٣٤ من مقاطع حظر التجول تدبر سورة الفجر  الآيات ١-١٤"
@@ -15946,9 +16028,10 @@
    ],
    "duration": 2336,
    "has": [
+    "transcript",
     "align",
     "summary",
-    "transcript"
+    "questions"
    ],
    "work": "fadelJuz30",
    "ytTitle": "فيديو # ٦٣٥ من مقاطع حظر التجول   تدبر سورة الفجر حلقة # ٢   الآيات ١٥-٣٠"
@@ -15962,9 +16045,10 @@
    ],
    "duration": 2349,
    "has": [
+    "transcript",
     "align",
     "summary",
-    "transcript"
+    "questions"
    ],
    "work": "fadelJuz30",
    "ytTitle": "فيديو # ٦٣٦ من مقاطع حظر التجول   تدبر سورة البلد"
@@ -15978,9 +16062,10 @@
    ],
    "duration": 2074,
    "has": [
+    "transcript",
     "align",
     "summary",
-    "transcript"
+    "questions"
    ],
    "work": "fadelJuz30",
    "ytTitle": "فيديو # ٦٣٧ من مقاطع حظر التجول   تدبر سورة الشمس"
@@ -15994,9 +16079,10 @@
    ],
    "duration": 2086,
    "has": [
+    "transcript",
     "align",
     "summary",
-    "transcript"
+    "questions"
    ],
    "work": "fadelJuz30",
    "ytTitle": "فيديو # ٦٣٨ من مقاطع حظر التجول   تدبر سورة الليل"
@@ -16010,9 +16096,10 @@
    ],
    "duration": 2325,
    "has": [
+    "transcript",
     "align",
     "summary",
-    "transcript"
+    "questions"
    ],
    "work": "fadelJuz30",
    "ytTitle": "فيديو # ٦٣٩ من مقاطع حظر التجول   تدبر سورة الضحى"
@@ -16026,9 +16113,10 @@
    ],
    "duration": 1826,
    "has": [
+    "transcript",
     "align",
     "summary",
-    "transcript"
+    "questions"
    ],
    "work": "fadelJuz30",
    "ytTitle": "فيديو # ٦٤٠ من مقاطع حظر التجول   تدبر سورة الشرح"
@@ -16042,9 +16130,10 @@
    ],
    "duration": 2030,
    "has": [
+    "transcript",
     "align",
     "summary",
-    "transcript"
+    "questions"
    ],
    "work": "fadelJuz30",
    "ytTitle": "فيديو # ٦٤١ من مقاطع حظر التجول   تدبر سورة التين"
@@ -16058,9 +16147,10 @@
    ],
    "duration": 2188,
    "has": [
+    "transcript",
     "align",
     "summary",
-    "transcript"
+    "questions"
    ],
    "work": "fadelJuz30",
    "ytTitle": "فيديو # ٦٤٢ من مقاطع حظر التجول   تدبر سورة العلق الآيات ١-٥"
@@ -16074,9 +16164,10 @@
    ],
    "duration": 1911,
    "has": [
+    "transcript",
     "align",
     "summary",
-    "transcript"
+    "questions"
    ],
    "work": "fadelJuz30",
    "ytTitle": "فيديو # ٦٤٣ من مقاطع حظر التجول   تدبر سورة العلق # ٢ الآيات ٦-١٩"
@@ -16090,9 +16181,10 @@
    ],
    "duration": 2027,
    "has": [
+    "transcript",
     "align",
     "summary",
-    "transcript"
+    "questions"
    ],
    "work": "fadelJuz30",
    "ytTitle": "فيديو # ٦٤٤ من مقاطع حظر التجول  تدبر سورة القدر"
@@ -16106,9 +16198,10 @@
    ],
    "duration": 2482,
    "has": [
+    "transcript",
     "align",
     "summary",
-    "transcript"
+    "questions"
    ],
    "work": "fadelJuz30",
    "ytTitle": "فيديو # ٦٤٥ من مقاطع حظر التجول   تدبر سورة البينة"
@@ -16122,9 +16215,10 @@
    ],
    "duration": 2128,
    "has": [
+    "transcript",
     "align",
     "summary",
-    "transcript"
+    "questions"
    ],
    "work": "fadelJuz30",
    "ytTitle": "فيديو # ٦٤٦ من مقاطع حظر التجول    تدبر سورة الزلزلة"
@@ -16138,9 +16232,10 @@
    ],
    "duration": 1667,
    "has": [
+    "transcript",
     "align",
     "summary",
-    "transcript"
+    "questions"
    ],
    "work": "fadelJuz30",
    "ytTitle": "فيديو # ٦٤٧ من مقاطع حظر التجول   تدبر سورة العاديات"
@@ -16154,9 +16249,10 @@
    ],
    "duration": 1573,
    "has": [
+    "transcript",
     "align",
     "summary",
-    "transcript"
+    "questions"
    ],
    "work": "fadelJuz30",
    "ytTitle": "فيديو # ٦٤٨ من مقاطع حظر التجول   تدبر سورة القارعة"
@@ -16170,9 +16266,10 @@
    ],
    "duration": 1408,
    "has": [
+    "transcript",
     "align",
     "summary",
-    "transcript"
+    "questions"
    ],
    "work": "fadelJuz30",
    "ytTitle": "فيديو # ٦٤٩ من مقاطع حظر التجول   تدبر سورة التكاثر"
@@ -16186,9 +16283,10 @@
    ],
    "duration": 1843,
    "has": [
+    "transcript",
     "align",
     "summary",
-    "transcript"
+    "questions"
    ],
    "work": "fadelJuz30",
    "ytTitle": "فيديو # ٦٥٠ من مقاطع حظر التجول   تدبر سورة العصر"
@@ -16202,9 +16300,10 @@
    ],
    "duration": 1945,
    "has": [
+    "transcript",
     "align",
     "summary",
-    "transcript"
+    "questions"
    ],
    "work": "fadelJuz30",
    "ytTitle": "فيديو # ٦٥١ من مقاطع حظر التجول   تدبر سورة الهمزة"
@@ -16218,9 +16317,10 @@
    ],
    "duration": 2541,
    "has": [
+    "transcript",
     "align",
     "summary",
-    "transcript"
+    "questions"
    ],
    "work": "fadelJuz30",
    "ytTitle": "فيديو # ٦٥٢ من مقاطع حظر التجول   تدبر سورة الفيل"
@@ -16234,9 +16334,10 @@
    ],
    "duration": 1760,
    "has": [
+    "transcript",
     "align",
     "summary",
-    "transcript"
+    "questions"
    ],
    "work": "fadelJuz30",
    "ytTitle": "فيديو # ٦٥٣ من مقاطع حظر التجول   تدبر سورة قريش"
@@ -16250,9 +16351,10 @@
    ],
    "duration": 1789,
    "has": [
+    "transcript",
     "align",
     "summary",
-    "transcript"
+    "questions"
    ],
    "work": "fadelJuz30",
    "ytTitle": "فيديو # ٦٥٤ من مقاطع حظر التجول  تدبر سورة الماعون"
@@ -16266,9 +16368,10 @@
    ],
    "duration": 1543,
    "has": [
+    "transcript",
     "align",
     "summary",
-    "transcript"
+    "questions"
    ],
    "work": "fadelJuz30",
    "ytTitle": "فيديو # ٦٥٥ من مقاطع حظر التجول   تدبر سورة الكوثر"
@@ -16282,9 +16385,10 @@
    ],
    "duration": 1866,
    "has": [
+    "transcript",
     "align",
     "summary",
-    "transcript"
+    "questions"
    ],
    "work": "fadelJuz30",
    "ytTitle": "فيديو # ٦٥٦ من مقاطع حظر التجول   تدبر سورة الكافرون"
@@ -16298,9 +16402,10 @@
    ],
    "duration": 2175,
    "has": [
+    "transcript",
     "align",
     "summary",
-    "transcript"
+    "questions"
    ],
    "work": "fadelJuz30",
    "ytTitle": "فيديو # ٦٥٧ من مقاطع حظر التجول   تدبر سورة النصر"
@@ -16314,9 +16419,10 @@
    ],
    "duration": 2143,
    "has": [
+    "transcript",
     "align",
     "summary",
-    "transcript"
+    "questions"
    ],
    "work": "fadelJuz30",
    "ytTitle": "فيديو # ٦٥٨ من مقاطع حظر التجول   تدبر سورة المسد"
@@ -16330,9 +16436,10 @@
    ],
    "duration": 1801,
    "has": [
+    "transcript",
     "align",
     "summary",
-    "transcript"
+    "questions"
    ],
    "work": "fadelJuz30",
    "ytTitle": "فيديو # ٦٥٩ من مقاطع حظر التجول    الحلقة الأولى من تدبر سورة الإخلاص"
@@ -16346,9 +16453,10 @@
    ],
    "duration": 1701,
    "has": [
+    "transcript",
     "align",
     "summary",
-    "transcript"
+    "questions"
    ],
    "work": "fadelJuz30",
    "ytTitle": "فيديو # ٦٦٠ من مقاطع حظر التجول   الحلقة الثانية من تدبر سورة الإخلاص"
@@ -16362,9 +16470,10 @@
    ],
    "duration": 1972,
    "has": [
+    "transcript",
     "align",
     "summary",
-    "transcript"
+    "questions"
    ],
    "work": "fadelJuz30",
    "ytTitle": "فيديو # ٦٦١ من مقاطع حظر التجول   تدبر سورة الفلق"
@@ -16378,9 +16487,10 @@
    ],
    "duration": 2033,
    "has": [
+    "transcript",
     "align",
     "summary",
-    "transcript"
+    "questions"
    ],
    "work": "fadelJuz30",
    "ytTitle": "فيديو # ٦٦٢ من مقاطع حظر التجول   تدبر سورة الناس"
@@ -16404,7 +16514,10 @@
     "abdelwahid"
    ],
    "duration": 7624,
-   "has": [],
+   "has": [
+    "transcript",
+    "questions"
+   ],
    "work": "tawassul"
   },
   {
@@ -16415,7 +16528,10 @@
     "abdelwahid"
    ],
    "duration": 7399,
-   "has": [],
+   "has": [
+    "transcript",
+    "questions"
+   ],
    "work": "tawassul"
   },
   {
