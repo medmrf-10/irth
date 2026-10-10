@@ -10125,7 +10125,8 @@
    "has": [
     "transcript",
     "align",
-    "summary"
+    "summary",
+    "questions"
    ],
    "work": "abdelwahidTawassul",
    "ytTitle": "01 - مسالك بعض النابتة في النقل عن أهل العلم وتحريف مقاصدهم وتدليس كلامهم لتوافق قول النابتة الشاذ"
@@ -10141,7 +10142,8 @@
    "has": [
     "transcript",
     "align",
-    "summary"
+    "summary",
+    "questions"
    ],
    "work": "abdelwahidTawassul",
    "ytTitle": "02 - مسالك بعض النابتة في النقل عن أهل العلم وتحريف مقاصدهم وتدليس كلامهم لتوافق قول النابتة الشاذ"
@@ -10157,7 +10159,8 @@
    "has": [
     "transcript",
     "align",
-    "summary"
+    "summary",
+    "questions"
    ],
    "work": "abdelwahidTawassul",
    "ytTitle": "01 - الرد على بعض اعتراضات وإشكالات عن مسائل زيارة القبور والتبرك والاستغاثة ونحوها"
@@ -10173,7 +10176,8 @@
    "has": [
     "transcript",
     "align",
-    "summary"
+    "summary",
+    "questions"
    ],
    "work": "abdelwahidTawassul",
    "ytTitle": "01 - تعريف العبادة والرد على شبهات الخوارج #النابتة وإشكالاتهم من الكتاب والسنة وكلام أئمة الدين"
@@ -10189,7 +10193,8 @@
    "has": [
     "transcript",
     "align",
-    "summary"
+    "summary",
+    "questions"
    ],
    "work": "abdelwahidTawassul",
    "ytTitle": "02 - الرد على بعض اعتراضات وإشكالات عن مسائل زيارة القبور والتبرك والاستغاثة ونحوها"
@@ -10205,7 +10210,8 @@
    "has": [
     "transcript",
     "align",
-    "summary"
+    "summary",
+    "questions"
    ],
    "work": "abdelwahidTawassul",
    "ytTitle": "02 - تعريف العبادة والرد على شبهات الخوارج #النابتة وإشكالاتهم من الكتاب والسنة وكلام أئمة الدين"
@@ -10221,7 +10227,8 @@
    "has": [
     "transcript",
     "align",
-    "summary"
+    "summary",
+    "questions"
    ],
    "work": "abdelwahidTawassul",
    "ytTitle": "04 - تعريف العبادة والرد على شبهات الخوارج #النابتة وإشكالاتهم من الكتاب والسنة وكلام أئمة الدين"
@@ -10251,7 +10258,8 @@
    ],
    "duration": 3747,
    "has": [
-    "transcript"
+    "transcript",
+    "summary"
    ],
    "work": "abdelwahidTawassul",
    "ytTitle": "06 - تعريف العبادة والرد على شبهات الخوارج #النابتة وإشكالاتهم من الكتاب والسنة وكلام أئمة الدين"
@@ -10297,7 +10305,8 @@
    ],
    "duration": 5362,
    "has": [
-    "transcript"
+    "transcript",
+    "summary"
    ],
    "work": "abdelwahidTawassul",
    "ytTitle": "13 - تعريف العبادة والرد على شبهات الخوارج #النابتة وإشكالاتهم من الكتاب والسنة وكلام أئمة الدين"
@@ -10327,7 +10336,8 @@
    ],
    "duration": 5913,
    "has": [
-    "transcript"
+    "transcript",
+    "summary"
    ],
    "work": "abdelwahidTawassul",
    "ytTitle": "15 - تعريف العبادة والرد على شبهات الخوارج #النابتة وإشكالاتهم من الكتاب والسنة وكلام أئمة الدين"
@@ -10389,7 +10399,8 @@
    ],
    "duration": 5863,
    "has": [
-    "transcript"
+    "transcript",
+    "summary"
    ],
    "work": "abdelwahidTawassul",
    "ytTitle": "20 - تعريف العبادة والرد على شبهات الخوارج #النابتة وإشكالاتهم من الكتاب والسنة وكلام أئمة الدين"
@@ -10579,10 +10590,3726 @@
    ],
    "duration": 5451,
    "has": [
-    "transcript"
+    "transcript",
+    "summary"
    ],
    "work": "abdelwahidTawassul",
    "ytTitle": "03 - الدفاع عن البردة الشريفة والتعليق على بعض الأبيات التي يكفر بها الوهابية العلماء"
+  },
+  {
+   "id": "alamriAdabMurid-001",
+   "title": "رسالة آداب سلوك المريد_ المجلس السادس عشر _ للإمام الحبيب عبد الله بن علوي الحداد الحضرمي الشافعي.",
+   "yt": "chPusxkHC0o",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 4529,
+   "has": [
+    "transcript",
+    "align",
+    "summary"
+   ],
+   "work": "alamriAdabMurid",
+   "ytTitle": "رسالة آداب سلوك المريد_ المجلس السادس عشر _ للإمام الحبيب عبد الله بن علوي الحداد الحضرمي الشافعي."
+  },
+  {
+   "id": "alamriAdabMurid-002",
+   "title": "رسالة آداب سلوك المريد_ المجلس الحادي عشر_ للإمام الحبيب عبد الله بن علوي الحداد الحضرمي الشافعي.",
+   "yt": "y-npDUAlfkk",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 5634,
+   "has": [
+    "transcript",
+    "align",
+    "summary"
+   ],
+   "work": "alamriAdabMurid",
+   "ytTitle": "رسالة آداب سلوك المريد_ المجلس الحادي عشر_ للإمام الحبيب عبد الله بن علوي الحداد الحضرمي الشافعي."
+  },
+  {
+   "id": "alamriAdabMurid-003",
+   "title": "رسالة آداب سلوك المريد_ المجلس الخامس عشر_ للإمام الحبيب عبد الله بن علوي الحداد الحضرمي الشافعي.",
+   "yt": "9RrQA-VrpLc",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 4492,
+   "has": [
+    "transcript",
+    "align",
+    "summary"
+   ],
+   "work": "alamriAdabMurid",
+   "ytTitle": "رسالة آداب سلوك المريد_ المجلس الخامس عشر_ للإمام الحبيب عبد الله بن علوي الحداد الحضرمي الشافعي."
+  },
+  {
+   "id": "alamriAdabMurid-004",
+   "title": "رسالة آداب سلوك المريد_ المجلس الثالث عشر_ للإمام الحبيب عبد الله بن علوي الحداد الحضرمي الشافعي.",
+   "yt": "Ytao-FraUG8",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 3922,
+   "has": [
+    "transcript",
+    "align",
+    "summary"
+   ],
+   "work": "alamriAdabMurid",
+   "ytTitle": "رسالة آداب سلوك المريد_ المجلس الثالث عشر_ للإمام الحبيب عبد الله بن علوي الحداد الحضرمي الشافعي."
+  },
+  {
+   "id": "alamriAdabMurid-005",
+   "title": "رسالة آداب سلوك المريد_ المجلس الثاني عشر_ للإمام الحبيب عبد الله بن علوي الحداد الحضرمي الشافعي.",
+   "yt": "i9yaPMSJxDM",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 3706,
+   "has": [
+    "transcript",
+    "align",
+    "summary"
+   ],
+   "work": "alamriAdabMurid",
+   "ytTitle": "رسالة آداب سلوك المريد_ المجلس الثاني عشر_ للإمام الحبيب عبد الله بن علوي الحداد الحضرمي الشافعي."
+  },
+  {
+   "id": "alamriAdabMurid-006",
+   "title": "رسالة آداب سلوك المريد_ المجلس العاشر_ للإمام الحبيب عبد الله بن علوي الحداد الحضرمي الشافعي.",
+   "yt": "_qlnPf4qPWQ",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 4755,
+   "has": [
+    "transcript",
+    "align",
+    "summary"
+   ],
+   "work": "alamriAdabMurid",
+   "ytTitle": "رسالة آداب سلوك المريد_ المجلس العاشر_ للإمام الحبيب عبد الله بن علوي الحداد الحضرمي الشافعي."
+  },
+  {
+   "id": "alamriAdabMurid-007",
+   "title": "رسالة آداب سلوك المريد_ المجلس الخامس _ للإمام الحبيب عبد الله بن علوي الحداد الحضرمي الشافعي.",
+   "yt": "zI02caGg7nU",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 4217,
+   "has": [
+    "transcript",
+    "align",
+    "summary"
+   ],
+   "work": "alamriAdabMurid",
+   "ytTitle": "رسالة آداب سلوك المريد_ المجلس الخامس _ للإمام الحبيب عبد الله بن علوي الحداد الحضرمي الشافعي."
+  },
+  {
+   "id": "alamriAdabMurid-008",
+   "title": "رسالة آداب سلوك المريد_ المجلس الرابع _ للإمام الحبيب عبد الله بن علوي الحداد الحضرمي الشافعي.",
+   "yt": "aQNIewLAf6k",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 2839,
+   "has": [
+    "transcript",
+    "align",
+    "summary"
+   ],
+   "work": "alamriAdabMurid",
+   "ytTitle": "رسالة آداب سلوك المريد_ المجلس الرابع _ للإمام الحبيب عبد الله بن علوي الحداد الحضرمي الشافعي."
+  },
+  {
+   "id": "alamriAdabMurid-009",
+   "title": "رسالة آداب سلوك المريد_ المجلس الثالث _ للإمام الحبيب عبد الله بن علوي الحداد الحضرمي الشافعي.",
+   "yt": "eTJ_2yu5fps",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 3243,
+   "has": [
+    "transcript",
+    "align",
+    "summary"
+   ],
+   "work": "alamriAdabMurid",
+   "ytTitle": "رسالة آداب سلوك المريد_ المجلس الثالث _ للإمام الحبيب عبد الله بن علوي الحداد الحضرمي الشافعي."
+  },
+  {
+   "id": "alamriAdabMurid-010",
+   "title": "رسالة آداب سلوك المريد_ المجلس السادس _ للإمام الحبيب عبد الله بن علوي الحداد الحضرمي الشافعي.",
+   "yt": "5EjFJzaJT8A",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 1789,
+   "has": [
+    "transcript",
+    "align",
+    "summary"
+   ],
+   "work": "alamriAdabMurid",
+   "ytTitle": "رسالة آداب سلوك المريد_ المجلس السادس _ للإمام الحبيب عبد الله بن علوي الحداد الحضرمي الشافعي."
+  },
+  {
+   "id": "alamriAdabMurid-011",
+   "title": "رسالة آداب سلوك المريد_ المجلس الثاني _ للإمام الحبيب عبد الله بن علوي الحداد الحضرمي الشافعي.",
+   "yt": "G5n5sONJDio",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 2294,
+   "has": [
+    "transcript",
+    "align",
+    "summary"
+   ],
+   "work": "alamriAdabMurid",
+   "ytTitle": "رسالة آداب سلوك المريد_ المجلس الثاني _ للإمام الحبيب عبد الله بن علوي الحداد الحضرمي الشافعي."
+  },
+  {
+   "id": "alamriAdabMurid-012",
+   "title": "رسالة آداب سلوك المريد_ المجلس الأوَّل _ للإمام الحبيب عبد الله بن علوي الحداد الحضرمي الشافعي.",
+   "yt": "pBvfBNnfEFU",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 3978,
+   "has": [
+    "transcript",
+    "align",
+    "summary"
+   ],
+   "work": "alamriAdabMurid",
+   "ytTitle": "رسالة آداب سلوك المريد_ المجلس الأوَّل _ للإمام الحبيب عبد الله بن علوي الحداد الحضرمي الشافعي."
+  },
+  {
+   "id": "alamriBarahinKitab-001",
+   "title": "الدرس الأول كتاب  أم البراهين",
+   "yt": "uAPeXDhxumk",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 3992,
+   "has": [
+    "transcript",
+    "align"
+   ],
+   "work": "alamriBarahinKitab",
+   "ytTitle": "الدرس الأول كتاب  أم البراهين"
+  },
+  {
+   "id": "alamriBarahinKitab-002",
+   "title": "الدرس الثاني كتاب أم البراهين",
+   "yt": "lGA9YxOehJY",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 3363,
+   "has": [
+    "transcript",
+    "align"
+   ],
+   "work": "alamriBarahinKitab",
+   "ytTitle": "الدرس الثاني كتاب أم البراهين"
+  },
+  {
+   "id": "alamriBarahinKitab-003",
+   "title": "الدرس الثالث كتاب أم البراهين",
+   "yt": "bsSCF9PleRI",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 5012,
+   "has": [
+    "transcript",
+    "align"
+   ],
+   "work": "alamriBarahinKitab",
+   "ytTitle": "الدرس الثالث كتاب أم البراهين"
+  },
+  {
+   "id": "alamriBarahinKitab-004",
+   "title": "الدرس الرابع كتاب أم البراهين",
+   "yt": "Rx78ruxCD3A",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 4280,
+   "has": [
+    "transcript",
+    "align"
+   ],
+   "work": "alamriBarahinKitab",
+   "ytTitle": "الدرس الرابع كتاب أم البراهين"
+  },
+  {
+   "id": "alamriBarahinKitab-005",
+   "title": "الدرس الخامس كتاب أم البراهين",
+   "yt": "odGu2wgr0q4",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 5038,
+   "has": [
+    "transcript",
+    "align"
+   ],
+   "work": "alamriBarahinKitab",
+   "ytTitle": "الدرس الخامس كتاب أم البراهين"
+  },
+  {
+   "id": "alamriBarahinKitab-006",
+   "title": "الدرس السادس كتاب أم البراهين",
+   "yt": "G7lDQ5vXWb0",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 5010,
+   "has": [
+    "transcript",
+    "align"
+   ],
+   "work": "alamriBarahinKitab",
+   "ytTitle": "الدرس السادس كتاب أم البراهين"
+  },
+  {
+   "id": "alamriBarahinKitab-007",
+   "title": "الدرس السابع كتاب أم البراهين",
+   "yt": "8H_yIxJwpq0",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 3598,
+   "has": [
+    "transcript",
+    "align"
+   ],
+   "work": "alamriBarahinKitab",
+   "ytTitle": "الدرس السابع كتاب أم البراهين"
+  },
+  {
+   "id": "alamriBarahinKitab-008",
+   "title": "الدرس الثامن كتاب أم البراهين",
+   "yt": "UofQQtKEghE",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 4907,
+   "has": [
+    "transcript",
+    "align"
+   ],
+   "work": "alamriBarahinKitab",
+   "ytTitle": "الدرس الثامن كتاب أم البراهين"
+  },
+  {
+   "id": "alamriBarahinKitab-009",
+   "title": "الدرس التاسع كتاب أم البراهين",
+   "yt": "bGZ1FlNQdZA",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 4180,
+   "has": [
+    "transcript",
+    "align"
+   ],
+   "work": "alamriBarahinKitab",
+   "ytTitle": "الدرس التاسع كتاب أم البراهين"
+  },
+  {
+   "id": "alamriBarahinKitab-010",
+   "title": "الدرس العاشر كتاب أم البراهين",
+   "yt": "fUzzlyXg9_Y",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 4640,
+   "has": [
+    "transcript",
+    "align"
+   ],
+   "work": "alamriBarahinKitab",
+   "ytTitle": "الدرس العاشر كتاب أم البراهين"
+  },
+  {
+   "id": "alamriBarahinKitab-011",
+   "title": "الدرس الحادي عشر  كتاب أم البراهين",
+   "yt": "MzDE8Qmt6Fs",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 4060,
+   "has": [
+    "transcript",
+    "align"
+   ],
+   "work": "alamriBarahinKitab",
+   "ytTitle": "الدرس الحادي عشر  كتاب أم البراهين"
+  },
+  {
+   "id": "alamriBarahinKitab-012",
+   "title": "الدرس الثاني عشر كتاب أم البراهين",
+   "yt": "WzJktD1POlQ",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 4939,
+   "has": [
+    "transcript",
+    "align"
+   ],
+   "work": "alamriBarahinKitab",
+   "ytTitle": "الدرس الثاني عشر كتاب أم البراهين"
+  },
+  {
+   "id": "alamriBarahinKitab-013",
+   "title": "الدرس الثالث عشر كتاب أم البراهين",
+   "yt": "K7ScKcwraWA",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 4949,
+   "has": [
+    "transcript",
+    "align"
+   ],
+   "work": "alamriBarahinKitab",
+   "ytTitle": "الدرس الثالث عشر كتاب أم البراهين"
+  },
+  {
+   "id": "alamriBarahinKitab-014",
+   "title": "الدرس الرابع عشر كتاب أم البراهين",
+   "yt": "AvUqdAhClNQ",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 5421,
+   "has": [
+    "transcript",
+    "align"
+   ],
+   "work": "alamriBarahinKitab",
+   "ytTitle": "الدرس الرابع عشر كتاب أم البراهين"
+  },
+  {
+   "id": "alamriBarahinMuqtatafat-001",
+   "title": "فهم العالم",
+   "yt": "1SJb3wcgEL4",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 532,
+   "has": [
+    "transcript",
+    "align",
+    "questions"
+   ],
+   "work": "alamriBarahinMuqtatafat",
+   "ytTitle": "فهم العالم"
+  },
+  {
+   "id": "alamriBarahinMuqtatafat-002",
+   "title": "إدراك حقائق الصفات السلبية",
+   "yt": "zK73KLgXnEA",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 74,
+   "has": [
+    "transcript",
+    "align",
+    "summary",
+    "questions"
+   ],
+   "work": "alamriBarahinMuqtatafat",
+   "ytTitle": "إدراك حقائق الصفات السلبية"
+  },
+  {
+   "id": "alamriBarahinMuqtatafat-003",
+   "title": "شروط بطلان التسلسل",
+   "yt": "O03dATiQWZI",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 142,
+   "has": [
+    "transcript",
+    "align",
+    "summary",
+    "questions"
+   ],
+   "work": "alamriBarahinMuqtatafat",
+   "ytTitle": "شروط بطلان التسلسل"
+  },
+  {
+   "id": "alamriBarahinMuqtatafat-004",
+   "title": "معنى الوجود الذاتي لله",
+   "yt": "TalS9A9zZAk",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 165,
+   "has": [
+    "transcript",
+    "align",
+    "questions"
+   ],
+   "work": "alamriBarahinMuqtatafat",
+   "ytTitle": "معنى الوجود الذاتي لله"
+  },
+  {
+   "id": "alamriBarahinMuqtatafat-005",
+   "title": "هل الوجود معنى كلي",
+   "yt": "UOvVNjyltzA",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 381,
+   "has": [
+    "transcript",
+    "align",
+    "questions"
+   ],
+   "work": "alamriBarahinMuqtatafat",
+   "ytTitle": "هل الوجود معنى كلي"
+  },
+  {
+   "id": "alamriBarahinMuqtatafat-006",
+   "title": "الخلاف في كلية الوجود بين أهل السنة والفلاسفة والمعتزلة",
+   "yt": "0qytXoaRFew",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 327,
+   "has": [
+    "transcript",
+    "align",
+    "questions"
+   ],
+   "work": "alamriBarahinMuqtatafat",
+   "ytTitle": "الخلاف في كلية الوجود بين أهل السنة والفلاسفة والمعتزلة"
+  },
+  {
+   "id": "alamriBarahinMuqtatafat-007",
+   "title": "سبب الخلاف في جواز التكليف بما لا يطاق",
+   "yt": "_9sXHzrF_d4",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 280,
+   "has": [
+    "transcript",
+    "align",
+    "questions"
+   ],
+   "work": "alamriBarahinMuqtatafat",
+   "ytTitle": "سبب الخلاف في جواز التكليف بما لا يطاق"
+  },
+  {
+   "id": "alamriBarahinMuqtatafat-008",
+   "title": "عدد الصفات عند الأشاعرة",
+   "yt": "bJurrzGPKeA",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 115,
+   "has": [
+    "transcript",
+    "align",
+    "summary",
+    "questions"
+   ],
+   "work": "alamriBarahinMuqtatafat",
+   "ytTitle": "عدد الصفات عند الأشاعرة"
+  },
+  {
+   "id": "alamriBarahinMuqtatafat-009",
+   "title": "من هو المقلد الذي كفره الإمام السنوسي",
+   "yt": "paBjJwYozhU",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 327,
+   "has": [
+    "transcript",
+    "align",
+    "questions"
+   ],
+   "work": "alamriBarahinMuqtatafat",
+   "ytTitle": "من هو المقلد الذي كفره الإمام السنوسي"
+  },
+  {
+   "id": "alamriBarahinMuqtatafat-010",
+   "title": "الفرق بين الصفات السلبية والمعاني من حيث جواز اتصاف الخلق بها",
+   "yt": "XG1qXIm5lLo",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 215,
+   "has": [
+    "transcript",
+    "align",
+    "questions"
+   ],
+   "work": "alamriBarahinMuqtatafat",
+   "ytTitle": "الفرق بين الصفات السلبية والمعاني من حيث جواز اتصاف الخلق بها"
+  },
+  {
+   "id": "alamriBarahinMuqtatafat-011",
+   "title": "الأطفال فلاسفة فمالذي يقلل من إبداعهم ومايزيد فيه",
+   "yt": "8w9oBYXruWo",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 104,
+   "has": [
+    "transcript",
+    "align",
+    "questions"
+   ],
+   "work": "alamriBarahinMuqtatafat",
+   "ytTitle": "الأطفال فلاسفة فمالذي يقلل من إبداعهم ومايزيد فيه"
+  },
+  {
+   "id": "alamriBarahinMuqtatafat-012",
+   "title": "كيف نميز الذكي من البليد",
+   "yt": "Srhjq_zNhH0",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 180,
+   "has": [
+    "transcript",
+    "align",
+    "questions"
+   ],
+   "work": "alamriBarahinMuqtatafat",
+   "ytTitle": "كيف نميز الذكي من البليد"
+  },
+  {
+   "id": "alamriBarahinMuqtatafat-013",
+   "title": "المقصود بمعرفة صفات الله",
+   "yt": "4T1xJGwUxWs",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 43,
+   "has": [
+    "transcript",
+    "align",
+    "summary",
+    "questions"
+   ],
+   "work": "alamriBarahinMuqtatafat",
+   "ytTitle": "المقصود بمعرفة صفات الله"
+  },
+  {
+   "id": "alamriBarahinMuqtatafat-014",
+   "title": "أساس الشبه التي تثار حول الدين",
+   "yt": "kY6Uu3wxoYA",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 250,
+   "has": [
+    "transcript",
+    "align",
+    "questions"
+   ],
+   "work": "alamriBarahinMuqtatafat",
+   "ytTitle": "أساس الشبه التي تثار حول الدين"
+  },
+  {
+   "id": "alamriBarahinMuqtatafat-015",
+   "title": "الجواب عن المقطع الذي يعتبره الملحدون طعن في الإسلام",
+   "yt": "uuTZ4NUAegI",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 337,
+   "has": [
+    "transcript",
+    "align",
+    "questions"
+   ],
+   "work": "alamriBarahinMuqtatafat",
+   "ytTitle": "الجواب عن المقطع الذي يعتبره الملحدون طعن في الإسلام"
+  },
+  {
+   "id": "alamriBarahinMuqtatafat-016",
+   "title": "عبارات بعض الصوفية التي ظاهرها الحلول",
+   "yt": "A4z5bdlY7No",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 181,
+   "has": [
+    "transcript",
+    "align",
+    "questions"
+   ],
+   "work": "alamriBarahinMuqtatafat",
+   "ytTitle": "عبارات بعض الصوفية التي ظاهرها الحلول"
+  },
+  {
+   "id": "alamriBarahinMuqtatafat-017",
+   "title": "لماذا الصعوبة في كتب علم الكلام",
+   "yt": "jmtIrE4ULE8",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 179,
+   "has": [
+    "transcript",
+    "align",
+    "questions"
+   ],
+   "work": "alamriBarahinMuqtatafat",
+   "ytTitle": "لماذا الصعوبة في كتب علم الكلام"
+  },
+  {
+   "id": "alamriBarahinSharh-001",
+   "title": "الدرس الأول شرح كتاب أم البراهين للشيخ أبي عبد الله السَّنوسي رضي الله عنه",
+   "yt": "y7msC4NbzVU",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 4967,
+   "has": [
+    "transcript",
+    "align",
+    "summary",
+    "questions"
+   ],
+   "work": "alamriBarahinSharh",
+   "ytTitle": "الدرس الأول شرح كتاب أم البراهين للشيخ أبي عبد الله السَّنوسي رضي الله عنه"
+  },
+  {
+   "id": "alamriBarahinSharh-002",
+   "title": "الدَّرس الثاني شرح كتاب أم البراهين للشَّيخ أبي عبد الله السَّنوسي رضي الله عنه",
+   "yt": "u67_GOMsKjw",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 4594,
+   "has": [
+    "transcript",
+    "align",
+    "summary",
+    "questions"
+   ],
+   "work": "alamriBarahinSharh",
+   "ytTitle": "الدَّرس الثاني شرح كتاب أم البراهين للشَّيخ أبي عبد الله السَّنوسي رضي الله عنه"
+  },
+  {
+   "id": "alamriBarahinSharh-003",
+   "title": "الدَّرس الثالث شرح أم البراهين للشيخ أبي عبد الله السَّنوسي رضي الله عنه",
+   "yt": "9g9HsW7mi00",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 6089,
+   "has": [
+    "transcript",
+    "align",
+    "summary",
+    "questions"
+   ],
+   "work": "alamriBarahinSharh",
+   "ytTitle": "الدَّرس الثالث شرح أم البراهين للشيخ أبي عبد الله السَّنوسي رضي الله عنه"
+  },
+  {
+   "id": "alamriBarahinSharh-004",
+   "title": "الدَّرس الرَّابع شرح أم البَّراهين للشيخ أبي عبد الله السَّنوسي رضي الله عنه",
+   "yt": "mX217N8b7Wc",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 5741,
+   "has": [
+    "transcript",
+    "align",
+    "summary",
+    "questions"
+   ],
+   "work": "alamriBarahinSharh",
+   "ytTitle": "الدَّرس الرَّابع شرح أم البَّراهين للشيخ أبي عبد الله السَّنوسي رضي الله عنه"
+  },
+  {
+   "id": "alamriBarahinSharh-005",
+   "title": "الدَّرس الخامس شرح أم البراهين للشَّيخ أبي عبد الله السَّنوسي رضي الله عنه",
+   "yt": "gze5UiPUaGs",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 5513,
+   "has": [
+    "transcript",
+    "align",
+    "summary",
+    "questions"
+   ],
+   "work": "alamriBarahinSharh",
+   "ytTitle": "الدَّرس الخامس شرح أم البراهين للشَّيخ أبي عبد الله السَّنوسي رضي الله عنه"
+  },
+  {
+   "id": "alamriBarahinSharh-006",
+   "title": "الدَّرس السَّادس شرح  أم البراهين للشَّيخ أبي عبد الله السَّنوسي رضي الله عنه",
+   "yt": "k39HfcrD3Ek",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 4934,
+   "has": [
+    "transcript",
+    "align",
+    "summary",
+    "questions"
+   ],
+   "work": "alamriBarahinSharh",
+   "ytTitle": "الدَّرس السَّادس شرح  أم البراهين للشَّيخ أبي عبد الله السَّنوسي رضي الله عنه"
+  },
+  {
+   "id": "alamriBarahinSharh-007",
+   "title": "الدَّرس السَّابع شرح أمِّ البراهين للشَّيخ أبي عبد الله السَّنوسي رضي الله عنه",
+   "yt": "TwCavoo-2Ds",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 5404,
+   "has": [
+    "transcript",
+    "align",
+    "summary",
+    "questions"
+   ],
+   "work": "alamriBarahinSharh",
+   "ytTitle": "الدَّرس السَّابع شرح أمِّ البراهين للشَّيخ أبي عبد الله السَّنوسي رضي الله عنه"
+  },
+  {
+   "id": "alamriBarahinSharh-008",
+   "title": "الدَّرس الثَّامن شرح أمِّ البراهين للشَّيخ أبي عبد الله السَّنوسي رضي الله عنه",
+   "yt": "rvblzbudkmg",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 3969,
+   "has": [
+    "transcript",
+    "align",
+    "summary",
+    "questions"
+   ],
+   "work": "alamriBarahinSharh",
+   "ytTitle": "الدَّرس الثَّامن شرح أمِّ البراهين للشَّيخ أبي عبد الله السَّنوسي رضي الله عنه"
+  },
+  {
+   "id": "alamriBarahinSharh-009",
+   "title": "الدَّرس التَّاسع شرح أمِّ البراهين للشَّيخ أبي عبد الله السَّنوسي رضي الله عنه",
+   "yt": "n4_aBQnm9Zc",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 5351,
+   "has": [
+    "transcript",
+    "align",
+    "summary",
+    "questions"
+   ],
+   "work": "alamriBarahinSharh",
+   "ytTitle": "الدَّرس التَّاسع شرح أمِّ البراهين للشَّيخ أبي عبد الله السَّنوسي رضي الله عنه"
+  },
+  {
+   "id": "alamriBarahinSharh-010",
+   "title": "الدَرس العاشر شرح أمِّ البراهين للشَّيخ أبي عبد الله السَّنوسي رضي الله عنه",
+   "yt": "32vpSGaSZBc",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 4587,
+   "has": [
+    "transcript",
+    "align",
+    "summary",
+    "questions"
+   ],
+   "work": "alamriBarahinSharh",
+   "ytTitle": "الدَرس العاشر شرح أمِّ البراهين للشَّيخ أبي عبد الله السَّنوسي رضي الله عنه"
+  },
+  {
+   "id": "alamriBarahinSharh-011",
+   "title": "الدَّرس الحادي عشر شرح أمِّ البراهين للشَّيخ أبي عبد الله السَّنوسي ررضي الله عنه",
+   "yt": "ZeAlkM5NlVA",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 3521,
+   "has": [
+    "transcript",
+    "align",
+    "summary",
+    "questions"
+   ],
+   "work": "alamriBarahinSharh",
+   "ytTitle": "الدَّرس الحادي عشر شرح أمِّ البراهين للشَّيخ أبي عبد الله السَّنوسي ررضي الله عنه"
+  },
+  {
+   "id": "alamriBarahinSharh-012",
+   "title": "الدَّرس الثاني عشر شرح أمِّ البراهين للشَّيخ أبي عبد الله السَّنوسي رضي الله عنه",
+   "yt": "uEfuyrlJwq8",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 3776,
+   "has": [
+    "transcript",
+    "align",
+    "summary",
+    "questions"
+   ],
+   "work": "alamriBarahinSharh",
+   "ytTitle": "الدَّرس الثاني عشر شرح أمِّ البراهين للشَّيخ أبي عبد الله السَّنوسي رضي الله عنه"
+  },
+  {
+   "id": "alamriBarahinSharh-013",
+   "title": "الدرس الثالث عشر شرح أمِّ البراهين للشَّيخ أبي عبد الله السَّنوسي رضي الله عنه",
+   "yt": "w7Ak7iOGZ6Q",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 4129,
+   "has": [
+    "transcript",
+    "align",
+    "summary",
+    "questions"
+   ],
+   "work": "alamriBarahinSharh",
+   "ytTitle": "الدرس الثالث عشر شرح أمِّ البراهين للشَّيخ أبي عبد الله السَّنوسي رضي الله عنه"
+  },
+  {
+   "id": "alamriBarahinSharh-014",
+   "title": "الدَّرس الرابع عشر شرح أمِّ البراهين للشَّيخ أبي عبد الله السَّنوسي رضي الله عنه",
+   "yt": "_pmqgfyh_mk",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 4162,
+   "has": [
+    "transcript",
+    "align",
+    "summary",
+    "questions"
+   ],
+   "work": "alamriBarahinSharh",
+   "ytTitle": "الدَّرس الرابع عشر شرح أمِّ البراهين للشَّيخ أبي عبد الله السَّنوسي رضي الله عنه"
+  },
+  {
+   "id": "alamriBarahinSharh-015",
+   "title": "الدَّرس الخامس عشر شرح أمِّ البراهين للشّيخ أبي عبد الله السَّنوسي رضي الله عنه",
+   "yt": "8U1fPENdRPQ",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 3054,
+   "has": [
+    "transcript",
+    "align",
+    "summary",
+    "questions"
+   ],
+   "work": "alamriBarahinSharh",
+   "ytTitle": "الدَّرس الخامس عشر شرح أمِّ البراهين للشّيخ أبي عبد الله السَّنوسي رضي الله عنه"
+  },
+  {
+   "id": "alamriBarahinSharh-016",
+   "title": "الدَّرس السادس عشر شرح أمُّ البراهين للشَّيخ أبي عبد الله السَّنوسي رضي الله عنه",
+   "yt": "VbwEGImB-Lc",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 3932,
+   "has": [
+    "transcript",
+    "align",
+    "summary"
+   ],
+   "work": "alamriBarahinSharh",
+   "ytTitle": "الدَّرس السادس عشر شرح أمُّ البراهين للشَّيخ أبي عبد الله السَّنوسي رضي الله عنه"
+  },
+  {
+   "id": "alamriBarahinSharh-017",
+   "title": "الدَّرس السَّابع عشر شرح أمِّ البراهين  للشَّيخ أبي عبد الله السَّنوسي رضي الله عنه",
+   "yt": "H8gx3Pm9KvE",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 3376,
+   "has": [
+    "transcript",
+    "align",
+    "summary"
+   ],
+   "work": "alamriBarahinSharh",
+   "ytTitle": "الدَّرس السَّابع عشر شرح أمِّ البراهين  للشَّيخ أبي عبد الله السَّنوسي رضي الله عنه"
+  },
+  {
+   "id": "alamriBarahinSharh-018",
+   "title": "الدَّرس الثامن عشر شرح أمِّ البراهين للشَّيخ أبي عبد الله السَّنوسي رضي الله عنه",
+   "yt": "RH_9UcH38Bs",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 3351,
+   "has": [
+    "transcript",
+    "align",
+    "summary"
+   ],
+   "work": "alamriBarahinSharh",
+   "ytTitle": "الدَّرس الثامن عشر شرح أمِّ البراهين للشَّيخ أبي عبد الله السَّنوسي رضي الله عنه"
+  },
+  {
+   "id": "alamriBarahinSharh-019",
+   "title": "الدَّرس التَّاسع عشر شرح أمِّ البراهين للشَّيخ أبي عبد الله السَّنوسي رضي الله عنه",
+   "yt": "coBwLBet-dM",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 3584,
+   "has": [
+    "transcript",
+    "align",
+    "summary"
+   ],
+   "work": "alamriBarahinSharh",
+   "ytTitle": "الدَّرس التَّاسع عشر شرح أمِّ البراهين للشَّيخ أبي عبد الله السَّنوسي رضي الله عنه"
+  },
+  {
+   "id": "alamriBarahinSharh-020",
+   "title": "الدَّرس العشرون شرح أمِّ البراهين للشَّيخ أبي عبد الله السَّنوسي رضي الله عنه",
+   "yt": "0VbcZjS6_T0",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 3535,
+   "has": [
+    "transcript",
+    "align",
+    "summary"
+   ],
+   "work": "alamriBarahinSharh",
+   "ytTitle": "الدَّرس العشرون شرح أمِّ البراهين للشَّيخ أبي عبد الله السَّنوسي رضي الله عنه"
+  },
+  {
+   "id": "alamriBarahinSharh-021",
+   "title": "الدَّرس الحادي والعشرون شرح أمِّ البراهين للشَّيخ أبي عبد الله السَّنوسي رضي الله عنه",
+   "yt": "shTztiPFzho",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 3884,
+   "has": [
+    "transcript",
+    "align",
+    "summary"
+   ],
+   "work": "alamriBarahinSharh",
+   "ytTitle": "الدَّرس الحادي والعشرون شرح أمِّ البراهين للشَّيخ أبي عبد الله السَّنوسي رضي الله عنه"
+  },
+  {
+   "id": "alamriBarahinSharh-022",
+   "title": "الدَّرس الثاني والعشرون شرح أمِّ البراهين للشّيخ أبي عبد الله السَّنوسي رضي الله عنه",
+   "yt": "ARkX3FaTYn8",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 2959,
+   "has": [
+    "transcript",
+    "align",
+    "summary"
+   ],
+   "work": "alamriBarahinSharh",
+   "ytTitle": "الدَّرس الثاني والعشرون شرح أمِّ البراهين للشّيخ أبي عبد الله السَّنوسي رضي الله عنه"
+  },
+  {
+   "id": "alamriBarahinSharh-023",
+   "title": "الدَّرس الثالث والعشرون شرح أمِّ البراهين للشَّيخ أبي عبد الله السَّنوسي رضي الله عنه",
+   "yt": "B_nTfqWrr2I",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 2630,
+   "has": [
+    "transcript",
+    "align",
+    "summary"
+   ],
+   "work": "alamriBarahinSharh",
+   "ytTitle": "الدَّرس الثالث والعشرون شرح أمِّ البراهين للشَّيخ أبي عبد الله السَّنوسي رضي الله عنه"
+  },
+  {
+   "id": "alamriBarahinSharh-024",
+   "title": "الدَّرس الرابع والعشرون شرح أمِّ البراهين للشَّيخ أبي عبد الله السَّنوسي رضي الله عنه",
+   "yt": "E4Jb_YqA2a8",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 6770,
+   "has": [
+    "transcript",
+    "align",
+    "summary"
+   ],
+   "work": "alamriBarahinSharh",
+   "ytTitle": "الدَّرس الرابع والعشرون شرح أمِّ البراهين للشَّيخ أبي عبد الله السَّنوسي رضي الله عنه"
+  },
+  {
+   "id": "alamriBath-001",
+   "title": "اللقاء الأوَّل مع الدكتور علي العمري للإجابة على أسئلتكم",
+   "yt": "lPtD_9iOBOU",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 5258,
+   "has": [
+    "transcript",
+    "align",
+    "summary"
+   ],
+   "work": "alamriBath",
+   "ytTitle": "اللقاء الأوَّل مع الدكتور علي العمري للإجابة على أسئلتكم"
+  },
+  {
+   "id": "alamriDurusAmma-001",
+   "title": "منهجية التفكير المنطقي",
+   "yt": "Xp0mKMYsZGo",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 5693,
+   "has": [
+    "transcript",
+    "align",
+    "summary"
+   ],
+   "work": "alamriDurusAmma",
+   "ytTitle": "منهجية التفكير المنطقي"
+  },
+  {
+   "id": "alamriDurusAmma-002",
+   "title": "العقل الكلامي والعقل الحداثي",
+   "yt": "pEL9yKeSyWs",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 5131,
+   "has": [
+    "transcript",
+    "align",
+    "summary"
+   ],
+   "work": "alamriDurusAmma",
+   "ytTitle": "العقل الكلامي والعقل الحداثي"
+  },
+  {
+   "id": "alamriDurusAmma-003",
+   "title": "الكلام الماتريدي ومشكلات معاصرة",
+   "yt": "ZASIP_0asCQ",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 1964,
+   "has": [
+    "transcript",
+    "align",
+    "summary"
+   ],
+   "work": "alamriDurusAmma",
+   "ytTitle": "الكلام الماتريدي ومشكلات معاصرة"
+  },
+  {
+   "id": "alamriDurusAmma-004",
+   "title": "العقل الكلامي والعقل الحداثي، دراسة مقارنة    الشيخ الدكتور علي العمري",
+   "yt": "8PRCf-iVj38",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 5131,
+   "has": [
+    "transcript",
+    "align",
+    "summary"
+   ],
+   "work": "alamriDurusAmma",
+   "ytTitle": "العقل الكلامي والعقل الحداثي، دراسة مقارنة    الشيخ الدكتور علي العمري"
+  },
+  {
+   "id": "alamriFalsafaDin-001",
+   "title": "محاضرات في فلسفة الدين/ المحاضرة الرابعة.",
+   "yt": "k1FtD4-a8SU",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 4724,
+   "has": [
+    "transcript",
+    "align",
+    "summary"
+   ],
+   "work": "alamriFalsafaDin",
+   "ytTitle": "محاضرات في فلسفة الدين/ المحاضرة الرابعة."
+  },
+  {
+   "id": "alamriFalsafaDin-002",
+   "title": "محاضرات في فلسفة الدين/ المحاضرة الثالثة",
+   "yt": "bcFvpAy2uz4",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 5096,
+   "has": [
+    "transcript",
+    "align",
+    "summary"
+   ],
+   "work": "alamriFalsafaDin",
+   "ytTitle": "محاضرات في فلسفة الدين/ المحاضرة الثالثة"
+  },
+  {
+   "id": "alamriFalsafaDin-003",
+   "title": "محاضرات في فلسفة الدين/ المحاضرة الثانية",
+   "yt": "PMcHiqpg3O4",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 4908,
+   "has": [
+    "transcript",
+    "align",
+    "summary"
+   ],
+   "work": "alamriFalsafaDin",
+   "ytTitle": "محاضرات في فلسفة الدين/ المحاضرة الثانية"
+  },
+  {
+   "id": "alamriFalsafaDin-004",
+   "title": "محاضرات في فلسفة الدين/ المحاضرة الأولى: مدخل.",
+   "yt": "C_FeuCG-ZgM",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 4789,
+   "has": [
+    "transcript",
+    "align",
+    "summary"
+   ],
+   "work": "alamriFalsafaDin",
+   "ytTitle": "محاضرات في فلسفة الدين/ المحاضرة الأولى: مدخل."
+  },
+  {
+   "id": "alamriFalsafaHaditha-001",
+   "title": "( 1 ) دروس في الفلسفة",
+   "yt": "CpDhOFf-DA0",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 4869,
+   "has": [
+    "transcript",
+    "align",
+    "summary"
+   ],
+   "work": "alamriFalsafaHaditha",
+   "ytTitle": "( 1 ) دروس في الفلسفة"
+  },
+  {
+   "id": "alamriFalsafaHaditha-002",
+   "title": "( 2 ) دروس في الفلسفة",
+   "yt": "zJcIgcge248",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 4778,
+   "has": [
+    "transcript",
+    "align",
+    "summary"
+   ],
+   "work": "alamriFalsafaHaditha",
+   "ytTitle": "( 2 ) دروس في الفلسفة"
+  },
+  {
+   "id": "alamriFalsafaHaditha-003",
+   "title": "( 3 ) دروس في الفلسفة",
+   "yt": "o5FWdHMO6rA",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 5150,
+   "has": [
+    "transcript",
+    "align",
+    "summary"
+   ],
+   "work": "alamriFalsafaHaditha",
+   "ytTitle": "( 3 ) دروس في الفلسفة"
+  },
+  {
+   "id": "alamriFalsafaHaditha-004",
+   "title": "( 4 ) دروس في الفلسفة",
+   "yt": "mezR3_jY-A0",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 5849,
+   "has": [
+    "transcript",
+    "align",
+    "summary"
+   ],
+   "work": "alamriFalsafaHaditha",
+   "ytTitle": "( 4 ) دروس في الفلسفة"
+  },
+  {
+   "id": "alamriFalsafaHaditha-005",
+   "title": "( 5 ) دروس في الفلسفة",
+   "yt": "RO8SIwNcDIs",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 5547,
+   "has": [
+    "transcript",
+    "align",
+    "summary"
+   ],
+   "work": "alamriFalsafaHaditha",
+   "ytTitle": "( 5 ) دروس في الفلسفة"
+  },
+  {
+   "id": "alamriFalsafaHaditha-006",
+   "title": "( 6 ) دروس في الفلسفة",
+   "yt": "6Tm34X-tSwI",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 4586,
+   "has": [
+    "transcript",
+    "align",
+    "summary"
+   ],
+   "work": "alamriFalsafaHaditha",
+   "ytTitle": "( 6 ) دروس في الفلسفة"
+  },
+  {
+   "id": "alamriFalsafaHaditha-007",
+   "title": "( 7 ) دروس في الفلسفة",
+   "yt": "p-Z3IlALPRM",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 5116,
+   "has": [
+    "transcript",
+    "align",
+    "summary"
+   ],
+   "work": "alamriFalsafaHaditha",
+   "ytTitle": "( 7 ) دروس في الفلسفة"
+  },
+  {
+   "id": "alamriFalsafaHaditha-008",
+   "title": "( 8 ) دروس في الفلسفة",
+   "yt": "stN30w_BZq8",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 3682,
+   "has": [
+    "transcript",
+    "align",
+    "summary"
+   ],
+   "work": "alamriFalsafaHaditha",
+   "ytTitle": "( 8 ) دروس في الفلسفة"
+  },
+  {
+   "id": "alamriFalsafaHaditha-009",
+   "title": "( 9 ) دروس في الفلسفة",
+   "yt": "oCL9mpH4aU0",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 4974,
+   "has": [
+    "transcript",
+    "align",
+    "summary"
+   ],
+   "work": "alamriFalsafaHaditha",
+   "ytTitle": "( 9 ) دروس في الفلسفة"
+  },
+  {
+   "id": "alamriFalsafaHaditha-010",
+   "title": "( 10 ) دروس في الفلسفة",
+   "yt": "ZxZSOcLhFjs",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 5130,
+   "has": [
+    "transcript",
+    "align",
+    "summary"
+   ],
+   "work": "alamriFalsafaHaditha",
+   "ytTitle": "( 10 ) دروس في الفلسفة"
+  },
+  {
+   "id": "alamriHisam-001",
+   "title": "( 1 ) ج١ شرح الحسام الكاتي",
+   "yt": "0iqR6_d5yfA",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 1690,
+   "has": [
+    "transcript",
+    "align",
+    "summary"
+   ],
+   "work": "alamriHisam",
+   "ytTitle": "( 1 ) ج١ شرح الحسام الكاتي"
+  },
+  {
+   "id": "alamriHisam-002",
+   "title": "( 1 ) ج٢ شرح الحسام الكاتي على إيساغوجي",
+   "yt": "0gTFniHygN8",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 1317,
+   "has": [
+    "transcript",
+    "align",
+    "summary"
+   ],
+   "work": "alamriHisam",
+   "ytTitle": "( 1 ) ج٢ شرح الحسام الكاتي على إيساغوجي"
+  },
+  {
+   "id": "alamriHisam-003",
+   "title": "( 1 ) ج٣ شرح الحسام الكاتي على إيساغوجي",
+   "yt": "277l4Vi6fz8",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 1020,
+   "has": [
+    "transcript",
+    "align",
+    "summary"
+   ],
+   "work": "alamriHisam",
+   "ytTitle": "( 1 ) ج٣ شرح الحسام الكاتي على إيساغوجي"
+  },
+  {
+   "id": "alamriHisam-004",
+   "title": "(2)ج١ شرح الحسام الكاتي",
+   "yt": "PNKEW_8pjIg",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 1499,
+   "has": [
+    "transcript",
+    "align",
+    "summary"
+   ],
+   "work": "alamriHisam",
+   "ytTitle": "(2)ج١ شرح الحسام الكاتي"
+  },
+  {
+   "id": "alamriHisam-005",
+   "title": "(8) ج٣ شرح الحسام الكاتي على إيساغوجي",
+   "yt": "0CSZgTvgafk",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 550,
+   "has": [
+    "transcript",
+    "align",
+    "summary"
+   ],
+   "work": "alamriHisam",
+   "ytTitle": "(8) ج٣ شرح الحسام الكاتي على إيساغوجي"
+  },
+  {
+   "id": "alamriHisam-006",
+   "title": "( 8 )ج٢ شرح الحسام الكاتي على إيساغوجي",
+   "yt": "u8OAoiTEQeM",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 1150,
+   "has": [
+    "transcript",
+    "align",
+    "summary"
+   ],
+   "work": "alamriHisam",
+   "ytTitle": "( 8 )ج٢ شرح الحسام الكاتي على إيساغوجي"
+  },
+  {
+   "id": "alamriHisam-007",
+   "title": "( 8 )ج١ العكس . شرح الحسام الكاتي على إيساغوجي",
+   "yt": "V_gE6Y2w3IQ",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 1415,
+   "has": [
+    "transcript",
+    "align",
+    "summary"
+   ],
+   "work": "alamriHisam",
+   "ytTitle": "( 8 )ج١ العكس . شرح الحسام الكاتي على إيساغوجي"
+  },
+  {
+   "id": "alamriHisam-008",
+   "title": "( 11 )ج١ القياس الاستثنائي . شرح الحسام الكاتي على إيساغوجي",
+   "yt": "NYgVq5lhvfw",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 916,
+   "has": [
+    "transcript",
+    "align",
+    "summary"
+   ],
+   "work": "alamriHisam",
+   "ytTitle": "( 11 )ج١ القياس الاستثنائي . شرح الحسام الكاتي على إيساغوجي"
+  },
+  {
+   "id": "alamriHisam-009",
+   "title": "( 9) ج٣ شرح الحسام الكاتي على إيساغوجي",
+   "yt": "uFlPu54Clq8",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 463,
+   "has": [
+    "transcript",
+    "align",
+    "summary"
+   ],
+   "work": "alamriHisam",
+   "ytTitle": "( 9) ج٣ شرح الحسام الكاتي على إيساغوجي"
+  },
+  {
+   "id": "alamriHisam-010",
+   "title": "(9)١مبحث القياس ..... شرح الحسام الكاتي على إيساغوجي",
+   "yt": "e_dNhz_nKGA",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 1726,
+   "has": [
+    "transcript",
+    "align",
+    "summary"
+   ],
+   "work": "alamriHisam",
+   "ytTitle": "(9)١مبحث القياس ..... شرح الحسام الكاتي على إيساغوجي"
+  },
+  {
+   "id": "alamriHisam-011",
+   "title": "( 9 ) ج٢ شرح الحسام الكاتي على إيساغوجي",
+   "yt": "6PMY8aMAqt4",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 863,
+   "has": [
+    "transcript",
+    "align",
+    "summary"
+   ],
+   "work": "alamriHisam",
+   "ytTitle": "( 9 ) ج٢ شرح الحسام الكاتي على إيساغوجي"
+  },
+  {
+   "id": "alamriHisam-012",
+   "title": "(10) ج٤ شرح الحسام الكاتي على إيساغوجي",
+   "yt": "QQbU7b2ac54",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 547,
+   "has": [
+    "transcript",
+    "align",
+    "summary"
+   ],
+   "work": "alamriHisam",
+   "ytTitle": "(10) ج٤ شرح الحسام الكاتي على إيساغوجي"
+  },
+  {
+   "id": "alamriHisam-013",
+   "title": "( 10 )٣شرح الحسام الكاتي على إيساغوجي",
+   "yt": "kEUeVav0Y9E",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 972,
+   "has": [
+    "transcript",
+    "align",
+    "summary"
+   ],
+   "work": "alamriHisam",
+   "ytTitle": "( 10 )٣شرح الحسام الكاتي على إيساغوجي"
+  },
+  {
+   "id": "alamriHisam-014",
+   "title": "( 10 ) ج٢شرح الحسام الكاتي على إيساغوجي",
+   "yt": "BqPXggL22xs",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 1036,
+   "has": [
+    "transcript",
+    "align",
+    "summary"
+   ],
+   "work": "alamriHisam",
+   "ytTitle": "( 10 ) ج٢شرح الحسام الكاتي على إيساغوجي"
+  },
+  {
+   "id": "alamriHisam-015",
+   "title": "(10)ج١ شرح الحسام الكاتي على إيساغوجي",
+   "yt": "Lg6T0puJccg",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 846,
+   "has": [
+    "transcript",
+    "align",
+    "summary"
+   ],
+   "work": "alamriHisam",
+   "ytTitle": "(10)ج١ شرح الحسام الكاتي على إيساغوجي"
+  },
+  {
+   "id": "alamriHisam-016",
+   "title": "( 7 ) ج٣ شرح الحسام الكاتي",
+   "yt": "fngP7ZLxI-A",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 353,
+   "has": [
+    "transcript",
+    "align",
+    "summary"
+   ],
+   "work": "alamriHisam",
+   "ytTitle": "( 7 ) ج٣ شرح الحسام الكاتي"
+  },
+  {
+   "id": "alamriHisam-017",
+   "title": "( 7 )ج٢ شرح الحسام الكاتي",
+   "yt": "M0I8FRfCtlM",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 1880,
+   "has": [
+    "transcript",
+    "align",
+    "summary"
+   ],
+   "work": "alamriHisam",
+   "ytTitle": "( 7 )ج٢ شرح الحسام الكاتي"
+  },
+  {
+   "id": "alamriHisam-018",
+   "title": "( 7 ) ج١ شرح الحسام الكاتي",
+   "yt": "QakuUEhjyHM",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 1663,
+   "has": [
+    "transcript",
+    "align",
+    "summary"
+   ],
+   "work": "alamriHisam",
+   "ytTitle": "( 7 ) ج١ شرح الحسام الكاتي"
+  },
+  {
+   "id": "alamriHisam-019",
+   "title": "( 6 )ج١ شرح الحسام الكاتي",
+   "yt": "HdUFosrnyUk",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 1015,
+   "has": [
+    "transcript",
+    "align",
+    "summary"
+   ],
+   "work": "alamriHisam",
+   "ytTitle": "( 6 )ج١ شرح الحسام الكاتي"
+  },
+  {
+   "id": "alamriHisam-020",
+   "title": "( 6 )ج١ شرح الحسام الكاتي",
+   "yt": "UTvqanaXqWg",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 1431,
+   "has": [
+    "transcript",
+    "align",
+    "summary"
+   ],
+   "work": "alamriHisam",
+   "ytTitle": "( 6 )ج١ شرح الحسام الكاتي"
+  },
+  {
+   "id": "alamriHisam-021",
+   "title": "( 5 )ج٣ شرح الحسام الكاتي",
+   "yt": "ykKpQ-u2lI8",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 603,
+   "has": [
+    "transcript",
+    "align",
+    "summary"
+   ],
+   "work": "alamriHisam",
+   "ytTitle": "( 5 )ج٣ شرح الحسام الكاتي"
+  },
+  {
+   "id": "alamriHisam-022",
+   "title": "( 5 ) ج٢ شرح الحسام الكاتي",
+   "yt": "SlagjFpiGOg",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 2455,
+   "has": [
+    "transcript",
+    "align",
+    "summary"
+   ],
+   "work": "alamriHisam",
+   "ytTitle": "( 5 ) ج٢ شرح الحسام الكاتي"
+  },
+  {
+   "id": "alamriHisam-023",
+   "title": "( 5 )ج١ شرح الحسام الكاتي",
+   "yt": "K_UxVvhDcAM",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 1577,
+   "has": [
+    "transcript",
+    "align",
+    "summary"
+   ],
+   "work": "alamriHisam",
+   "ytTitle": "( 5 )ج١ شرح الحسام الكاتي"
+  },
+  {
+   "id": "alamriHisam-024",
+   "title": "( 4 )ج٣ شرح الحسام الكاتي",
+   "yt": "rTEHLZQ-DN8",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 1146,
+   "has": [
+    "transcript",
+    "align",
+    "summary"
+   ],
+   "work": "alamriHisam",
+   "ytTitle": "( 4 )ج٣ شرح الحسام الكاتي"
+  },
+  {
+   "id": "alamriHisam-025",
+   "title": "( 4 ) ج٢ شرح الحسام الكاتي",
+   "yt": "3O-8shfVoS8",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 289,
+   "has": [
+    "transcript",
+    "align",
+    "summary"
+   ],
+   "work": "alamriHisam",
+   "ytTitle": "( 4 ) ج٢ شرح الحسام الكاتي"
+  },
+  {
+   "id": "alamriHisam-026",
+   "title": "( 4 )ج١ شرح الحسام الكاتي",
+   "yt": "76sqki7Onvo",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 1695,
+   "has": [
+    "transcript",
+    "align",
+    "summary"
+   ],
+   "work": "alamriHisam",
+   "ytTitle": "( 4 )ج١ شرح الحسام الكاتي"
+  },
+  {
+   "id": "alamriHisam-027",
+   "title": "( 3 )ج٣ شرح الحسام الكاتي....... العرض والخاصة",
+   "yt": "KbWkSqNVi1U",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 950,
+   "has": [
+    "transcript",
+    "align",
+    "summary"
+   ],
+   "work": "alamriHisam",
+   "ytTitle": "( 3 )ج٣ شرح الحسام الكاتي....... العرض والخاصة"
+  },
+  {
+   "id": "alamriHisam-028",
+   "title": "( 3 ) ج٢ شرح الحسام الكاتي",
+   "yt": "CEENLfVOm50",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 870,
+   "has": [
+    "transcript",
+    "align",
+    "summary"
+   ],
+   "work": "alamriHisam",
+   "ytTitle": "( 3 ) ج٢ شرح الحسام الكاتي"
+  },
+  {
+   "id": "alamriHisam-029",
+   "title": "( 3 )تتمة ج١ شرح الحسام الكاتي",
+   "yt": "NubpQpGJBYM",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 97,
+   "has": [
+    "transcript",
+    "align",
+    "summary"
+   ],
+   "work": "alamriHisam",
+   "ytTitle": "( 3 )تتمة ج١ شرح الحسام الكاتي"
+  },
+  {
+   "id": "alamriHisam-030",
+   "title": "( 3 )ج١ شرح الحسام الكاتي على إيساغوجي",
+   "yt": "EmHLXPhnDX0",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 1695,
+   "has": [
+    "transcript",
+    "align",
+    "summary"
+   ],
+   "work": "alamriHisam",
+   "ytTitle": "( 3 )ج١ شرح الحسام الكاتي على إيساغوجي"
+  },
+  {
+   "id": "alamriHisam-031",
+   "title": "( 2 )ج٣شرح الحسام الكاتي على إيساغوجي",
+   "yt": "ZaDWx_NWTqg",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 707,
+   "has": [
+    "transcript",
+    "align",
+    "summary"
+   ],
+   "work": "alamriHisam",
+   "ytTitle": "( 2 )ج٣شرح الحسام الكاتي على إيساغوجي"
+  },
+  {
+   "id": "alamriHisam-032",
+   "title": "(2)ج٢ شرح الحسام الكاتي على إيساغوجي",
+   "yt": "DXkDJWJNlr4",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 1478,
+   "has": [
+    "transcript",
+    "align",
+    "summary"
+   ],
+   "work": "alamriHisam",
+   "ytTitle": "(2)ج٢ شرح الحسام الكاتي على إيساغوجي"
+  },
+  {
+   "id": "alamriIqtisad-001",
+   "title": "الدَّرس الأول شرح كتاب الاقتصاد في الاعتقاد لحجَّة الإسلام الإمام الغزالي رحمه الله تعالى",
+   "yt": "dkMHU47cQzE",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 4652,
+   "has": [
+    "transcript",
+    "align",
+    "summary"
+   ],
+   "work": "alamriIqtisad",
+   "ytTitle": "الدَّرس الأول شرح كتاب الاقتصاد في الاعتقاد لحجَّة الإسلام الإمام الغزالي رحمه الله تعالى"
+  },
+  {
+   "id": "alamriIqtisad-002",
+   "title": "الدَّرس الثَّاني شرح كتاب الاقتصاد في الاعتقاد لحجَّة الإسلام الإمام الغزالي رحمه الله تعالى",
+   "yt": "L6-IQ9oKXGA",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 5185,
+   "has": [
+    "transcript",
+    "align",
+    "summary"
+   ],
+   "work": "alamriIqtisad",
+   "ytTitle": "الدَّرس الثَّاني شرح كتاب الاقتصاد في الاعتقاد لحجَّة الإسلام الإمام الغزالي رحمه الله تعالى"
+  },
+  {
+   "id": "alamriIqtisad-003",
+   "title": "الدرس الثَّالث شرح كتاب الاقتصاد في الاعتقاد لحجَّة الإسلام الإمام الغزالي رحمه الله تعالى",
+   "yt": "2FJOKsIXVRE",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 3751,
+   "has": [
+    "transcript",
+    "align",
+    "summary"
+   ],
+   "work": "alamriIqtisad",
+   "ytTitle": "الدرس الثَّالث شرح كتاب الاقتصاد في الاعتقاد لحجَّة الإسلام الإمام الغزالي رحمه الله تعالى"
+  },
+  {
+   "id": "alamriIqtisad-004",
+   "title": "الدرس الرابع شرح كتاب الاقتصاد في الاعتقاد لحجَّة الإسلام الإمام الغزالي رحمه الله تعالى",
+   "yt": "OsVMKRtOYaA",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 3304,
+   "has": [
+    "transcript",
+    "align",
+    "summary"
+   ],
+   "work": "alamriIqtisad",
+   "ytTitle": "الدرس الرابع شرح كتاب الاقتصاد في الاعتقاد لحجَّة الإسلام الإمام الغزالي رحمه الله تعالى"
+  },
+  {
+   "id": "alamriIqtisad-005",
+   "title": "الدرس الخامس شرح كتاب الاقتصاد في الاعتقاد لحجَّة الإسلام الإمام الغزالي رحمه الله تعالى",
+   "yt": "XIoAaqOt02c",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 4939,
+   "has": [
+    "transcript",
+    "align",
+    "summary"
+   ],
+   "work": "alamriIqtisad",
+   "ytTitle": "الدرس الخامس شرح كتاب الاقتصاد في الاعتقاد لحجَّة الإسلام الإمام الغزالي رحمه الله تعالى"
+  },
+  {
+   "id": "alamriIqtisad-006",
+   "title": "الدَّرس السَّادس شرح كتاب الاقتصاد في الاعتقاد لحجَّة الإسلام الإمام الغزالي رحمه الله تعالى",
+   "yt": "0sC8HT0K1lg",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 3945,
+   "has": [
+    "transcript",
+    "align",
+    "summary"
+   ],
+   "work": "alamriIqtisad",
+   "ytTitle": "الدَّرس السَّادس شرح كتاب الاقتصاد في الاعتقاد لحجَّة الإسلام الإمام الغزالي رحمه الله تعالى"
+  },
+  {
+   "id": "alamriIqtisad-007",
+   "title": "الدَّرس السَّابع شرح كتاب الاقتصاد في الاعتقاد لحجَّة الإسلام الإمام الغزالي رحمه الله تعالى",
+   "yt": "p2TneMO3LcQ",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 4777,
+   "has": [
+    "transcript",
+    "align",
+    "summary"
+   ],
+   "work": "alamriIqtisad",
+   "ytTitle": "الدَّرس السَّابع شرح كتاب الاقتصاد في الاعتقاد لحجَّة الإسلام الإمام الغزالي رحمه الله تعالى"
+  },
+  {
+   "id": "alamriIqtisad-008",
+   "title": "الدَّرس الثَّامن الاقتصاد في الاعتقاد_القطب الأول_ تتمة الدَّعوى الأولى و الدعوة الثانيَّة والثالثة",
+   "yt": "j1cPdIEysw0",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 3670,
+   "has": [
+    "transcript",
+    "align",
+    "summary"
+   ],
+   "work": "alamriIqtisad",
+   "ytTitle": "الدَّرس الثَّامن الاقتصاد في الاعتقاد_القطب الأول_ تتمة الدَّعوى الأولى و الدعوة الثانيَّة والثالثة"
+  },
+  {
+   "id": "alamriIqtisad-009",
+   "title": "الدَّرس التَّاسع_ القطب الأول_ الدَّعوى الرَّابعة والخامسة",
+   "yt": "zq4D8Pp84JU",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 2125,
+   "has": [
+    "transcript",
+    "align",
+    "summary"
+   ],
+   "work": "alamriIqtisad",
+   "ytTitle": "الدَّرس التَّاسع_ القطب الأول_ الدَّعوى الرَّابعة والخامسة"
+  },
+  {
+   "id": "alamriIqtisad-010",
+   "title": "الدَّرس العاشر_ القطب الأول_ الدَّعوى السَّادسة وبداية السَّابعة",
+   "yt": "Wi3gnvq8vb0",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 4394,
+   "has": [
+    "transcript",
+    "align",
+    "summary"
+   ],
+   "work": "alamriIqtisad",
+   "ytTitle": "الدَّرس العاشر_ القطب الأول_ الدَّعوى السَّادسة وبداية السَّابعة"
+  },
+  {
+   "id": "alamriIqtisad-011",
+   "title": "الدَّرس الحادي عشر _ القطب الأول_ تمام الدَّعوة  السَّابعة",
+   "yt": "Jch2AIXD2Jg",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 4628,
+   "has": [
+    "transcript",
+    "align",
+    "summary"
+   ],
+   "work": "alamriIqtisad",
+   "ytTitle": "الدَّرس الحادي عشر _ القطب الأول_ تمام الدَّعوة  السَّابعة"
+  },
+  {
+   "id": "alamriIqtisad-012",
+   "title": "الدَّرس الثَّاني عشر _ القطب الأول_ الدَّعوة الثَّامنة",
+   "yt": "a0M54CBocu0",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 4424,
+   "has": [
+    "transcript",
+    "align",
+    "summary"
+   ],
+   "work": "alamriIqtisad",
+   "ytTitle": "الدَّرس الثَّاني عشر _ القطب الأول_ الدَّعوة الثَّامنة"
+  },
+  {
+   "id": "alamriIqtisad-013",
+   "title": "الدَّرس الثَّالث عشر _ القطب الأول_ الدَّعوة العاشرة",
+   "yt": "7hE0cKvgpcU",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 4994,
+   "has": [
+    "transcript",
+    "align",
+    "summary"
+   ],
+   "work": "alamriIqtisad",
+   "ytTitle": "الدَّرس الثَّالث عشر _ القطب الأول_ الدَّعوة العاشرة"
+  },
+  {
+   "id": "alamriIqtisad-014",
+   "title": "الدَّرس الرَّابع عشر _ القطب الأول_ تتمَّة  الدَّعوة العاشرة",
+   "yt": "ScefZGddfCg",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 2802,
+   "has": [
+    "transcript",
+    "align",
+    "summary"
+   ],
+   "work": "alamriIqtisad",
+   "ytTitle": "الدَّرس الرَّابع عشر _ القطب الأول_ تتمَّة  الدَّعوة العاشرة"
+  },
+  {
+   "id": "alamriIqtisad-015",
+   "title": "الدَّرس الخامس عشر_ القطب الثَّاني _ إثبات صفة القدرة وبيان عموم تعلّقها",
+   "yt": "sPr0rT35tV8",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 3658,
+   "has": [
+    "transcript",
+    "align",
+    "summary"
+   ],
+   "work": "alamriIqtisad",
+   "ytTitle": "الدَّرس الخامس عشر_ القطب الثَّاني _ إثبات صفة القدرة وبيان عموم تعلّقها"
+  },
+  {
+   "id": "alamriIqtisad-016",
+   "title": "الدَّرس السَّادس عشر_ القطب الثَّاني_ الكلام على الفرع الثَّاني من الفروع المترتبة على صفة  القدرة",
+   "yt": "Q59XahpNuZM",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 2906,
+   "has": [
+    "transcript",
+    "align",
+    "summary"
+   ],
+   "work": "alamriIqtisad",
+   "ytTitle": "الدَّرس السَّادس عشر_ القطب الثَّاني_ الكلام على الفرع الثَّاني من الفروع المترتبة على صفة  القدرة"
+  },
+  {
+   "id": "alamriIqtisad-017",
+   "title": "الدَّرس السَّابع عشر_ القطب الثَّاني _ الكلام على معنى الكسب عند أهل السُّنة والجماعة.",
+   "yt": "EiPKfuhyYcs",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 4089,
+   "has": [
+    "transcript",
+    "align",
+    "summary"
+   ],
+   "work": "alamriIqtisad",
+   "ytTitle": "الدَّرس السَّابع عشر_ القطب الثَّاني _ الكلام على معنى الكسب عند أهل السُّنة والجماعة."
+  },
+  {
+   "id": "alamriIqtisad-018",
+   "title": "الدَّرس الثامن عشر_ القطب الثَّاني_ صفة القدرة: الفرع الثَّالث",
+   "yt": "2H2FKnQInes",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 3252,
+   "has": [
+    "transcript",
+    "align",
+    "summary"
+   ],
+   "work": "alamriIqtisad",
+   "ytTitle": "الدَّرس الثامن عشر_ القطب الثَّاني_ صفة القدرة: الفرع الثَّالث"
+  },
+  {
+   "id": "alamriIqtisad-019",
+   "title": "الدَّرس التَّاسع عشر _القطب الثَّاني_ صفة العلم والحياة",
+   "yt": "LQbenSZoU00",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 3352,
+   "has": [
+    "transcript",
+    "align",
+    "summary"
+   ],
+   "work": "alamriIqtisad",
+   "ytTitle": "الدَّرس التَّاسع عشر _القطب الثَّاني_ صفة العلم والحياة"
+  },
+  {
+   "id": "alamriIqtisad-020",
+   "title": "الدرس العشرون_ القطب الثاني _ صفة الإرادة",
+   "yt": "nfeN01PF-E4",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 3962,
+   "has": [
+    "transcript",
+    "align",
+    "summary"
+   ],
+   "work": "alamriIqtisad",
+   "ytTitle": "الدرس العشرون_ القطب الثاني _ صفة الإرادة"
+  },
+  {
+   "id": "alamriIqtisad-021",
+   "title": "الدَّرس الواحد و العشرون_ القطب الثَّاني _ مناقشة الأقوال المتعلقة بصفة الإرادة وبيان الحق فيها",
+   "yt": "KfomMmrQEMo",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 6058,
+   "has": [
+    "transcript",
+    "align",
+    "summary"
+   ],
+   "work": "alamriIqtisad",
+   "ytTitle": "الدَّرس الواحد و العشرون_ القطب الثَّاني _ مناقشة الأقوال المتعلقة بصفة الإرادة وبيان الحق فيها"
+  },
+  {
+   "id": "alamriIqtisad-022",
+   "title": "الدَّرس الثّّاني والعشرون_ القطب الثاني_  صفتا السمع والبصر",
+   "yt": "GL0W4wmGALo",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 3796,
+   "has": [
+    "transcript",
+    "align",
+    "summary"
+   ],
+   "work": "alamriIqtisad",
+   "ytTitle": "الدَّرس الثّّاني والعشرون_ القطب الثاني_  صفتا السمع والبصر"
+  },
+  {
+   "id": "alamriIqtisad-023",
+   "title": "الدَّرس الثالث والعشرون_ القطب الثَّاني_ الكلام على صفة الإدراك وإثبات صفة الكلام",
+   "yt": "NPm0quE2H80",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 3378,
+   "has": [
+    "transcript",
+    "align",
+    "summary"
+   ],
+   "work": "alamriIqtisad",
+   "ytTitle": "الدَّرس الثالث والعشرون_ القطب الثَّاني_ الكلام على صفة الإدراك وإثبات صفة الكلام"
+  },
+  {
+   "id": "alamriIqtisad-024",
+   "title": "الدَّرس الرابع والعشرون_ القطب الثاني_  بيان معنى صفة الكلام عند أهل السنة",
+   "yt": "QkUq8Ai9X-M",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 3561,
+   "has": [
+    "transcript",
+    "align"
+   ],
+   "work": "alamriIqtisad",
+   "ytTitle": "الدَّرس الرابع والعشرون_ القطب الثاني_  بيان معنى صفة الكلام عند أهل السنة"
+  },
+  {
+   "id": "alamriIqtisad-025",
+   "title": "الدَّرس الخامس والعشرون_ القطب الثَّاني _ حلُّ إعتراضات على مسألة صفة الكلام",
+   "yt": "L2aHWin4vwo",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 4949,
+   "has": [
+    "transcript",
+    "align"
+   ],
+   "work": "alamriIqtisad",
+   "ytTitle": "الدَّرس الخامس والعشرون_ القطب الثَّاني _ حلُّ إعتراضات على مسألة صفة الكلام"
+  },
+  {
+   "id": "alamriIqtisad-026",
+   "title": "الدَّرس السَّادس والعشرون_ القطب الثاني_  خاتمة صفة الكلام والابتداء ببيان أحكام الصفات المشتركة",
+   "yt": "u8HF13PkCA0",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 3880,
+   "has": [
+    "transcript",
+    "align"
+   ],
+   "work": "alamriIqtisad",
+   "ytTitle": "الدَّرس السَّادس والعشرون_ القطب الثاني_  خاتمة صفة الكلام والابتداء ببيان أحكام الصفات المشتركة"
+  },
+  {
+   "id": "alamriIqtisad-027",
+   "title": "الدَّرس السابع والعشرون_ القطب الثَّاني_ تمام الحكم الأوَّل من الأحكام المشتركة بين الصفات",
+   "yt": "emN2K2N99Ig",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 5178,
+   "has": [
+    "transcript",
+    "align"
+   ],
+   "work": "alamriIqtisad",
+   "ytTitle": "الدَّرس السابع والعشرون_ القطب الثَّاني_ تمام الحكم الأوَّل من الأحكام المشتركة بين الصفات"
+  },
+  {
+   "id": "alamriIqtisad-028",
+   "title": "الدَّرس الثَّامن والعشرون_ القطب الثَّاني_ الحكم الثاني من أحكام الصِّفات المشتركة",
+   "yt": "NXb6QZrJfU8",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 4668,
+   "has": [
+    "transcript",
+    "align"
+   ],
+   "work": "alamriIqtisad",
+   "ytTitle": "الدَّرس الثَّامن والعشرون_ القطب الثَّاني_ الحكم الثاني من أحكام الصِّفات المشتركة"
+  },
+  {
+   "id": "alamriIqtisad-029",
+   "title": "الدَّرس التاسع والعشرون_ القطب الثَّاني_ تتمَّة الكلام على الحكم الثََّاني",
+   "yt": "cE0B1wjFOac",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 2213,
+   "has": [
+    "transcript",
+    "align"
+   ],
+   "work": "alamriIqtisad",
+   "ytTitle": "الدَّرس التاسع والعشرون_ القطب الثَّاني_ تتمَّة الكلام على الحكم الثََّاني"
+  },
+  {
+   "id": "alamriIqtisad-030",
+   "title": "الدَّرس الثلاثون_ القطب الثَّاني.",
+   "yt": "e2GhoXuBKzM",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 4879,
+   "has": [
+    "transcript",
+    "align"
+   ],
+   "work": "alamriIqtisad",
+   "ytTitle": "الدَّرس الثلاثون_ القطب الثَّاني."
+  },
+  {
+   "id": "alamriIqtisad-031",
+   "title": "الدَّرس الواحد والثلاثون_ نهاية القطب الثَّاني.",
+   "yt": "W2zyKxDf1AI",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 5457,
+   "has": [
+    "transcript",
+    "align"
+   ],
+   "work": "alamriIqtisad",
+   "ytTitle": "الدَّرس الواحد والثلاثون_ نهاية القطب الثَّاني."
+  },
+  {
+   "id": "alamriIqtisad-032",
+   "title": "الدرس الثاني والثلاثون_ القطب الثالث_ مقدِّمة القطب الثَّالث.",
+   "yt": "mXzaeii4TvU",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 4922,
+   "has": [
+    "transcript",
+    "align"
+   ],
+   "work": "alamriIqtisad",
+   "ytTitle": "الدرس الثاني والثلاثون_ القطب الثالث_ مقدِّمة القطب الثَّالث."
+  },
+  {
+   "id": "alamriIqtisad-033",
+   "title": "الدرس الثَّالث والثلاثون_ القطب الثالث_ تتمَّة مقدّمة القطب الثَّالث.",
+   "yt": "zu1ywrzYiWY",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 4944,
+   "has": [
+    "transcript",
+    "align",
+    "summary"
+   ],
+   "work": "alamriIqtisad",
+   "ytTitle": "الدرس الثَّالث والثلاثون_ القطب الثالث_ تتمَّة مقدّمة القطب الثَّالث."
+  },
+  {
+   "id": "alamriIqtisad-034",
+   "title": "الدَّرس الرابع والثلاثون _ القطب الثالث_ الدعوة الأولى والثَّانيَّة",
+   "yt": "hvlBlG3g5pI",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 4285,
+   "has": [
+    "transcript",
+    "align",
+    "summary"
+   ],
+   "work": "alamriIqtisad",
+   "ytTitle": "الدَّرس الرابع والثلاثون _ القطب الثالث_ الدعوة الأولى والثَّانيَّة"
+  },
+  {
+   "id": "alamriIqtisad-035",
+   "title": "الدرس الخامس والثلاثون_ القطب الثالث_ الدعوة الخامسة",
+   "yt": "PX-rkexWy-Y",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 4172,
+   "has": [
+    "transcript",
+    "align",
+    "summary"
+   ],
+   "work": "alamriIqtisad",
+   "ytTitle": "الدرس الخامس والثلاثون_ القطب الثالث_ الدعوة الخامسة"
+  },
+  {
+   "id": "alamriIqtisad-036",
+   "title": "الدرس السادس والثلاثون_ القطب الثالث_ تممَّة الدعوة السادسة ومقدمة الدعوى السابعة",
+   "yt": "josQXsA_5uM",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 4992,
+   "has": [
+    "transcript",
+    "align",
+    "summary"
+   ],
+   "work": "alamriIqtisad",
+   "ytTitle": "الدرس السادس والثلاثون_ القطب الثالث_ تممَّة الدعوة السادسة ومقدمة الدعوى السابعة"
+  },
+  {
+   "id": "alamriIqtisad-037",
+   "title": "الدَّرس السابع والثلاثون_ القطب الثالث_ الدعوى السَّابعة",
+   "yt": "JpEkgOu0J8o",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 3967,
+   "has": [
+    "transcript",
+    "align",
+    "summary"
+   ],
+   "work": "alamriIqtisad",
+   "ytTitle": "الدَّرس السابع والثلاثون_ القطب الثالث_ الدعوى السَّابعة"
+  },
+  {
+   "id": "alamriIqtisad-038",
+   "title": "الدَّرس الثامن والثلاثون_ القطب الأول_ مبحث الرؤية",
+   "yt": "UNFYxpcWpDA",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 4290,
+   "has": [
+    "transcript",
+    "align",
+    "summary"
+   ],
+   "work": "alamriIqtisad",
+   "ytTitle": "الدَّرس الثامن والثلاثون_ القطب الأول_ مبحث الرؤية"
+  },
+  {
+   "id": "alamriIqtisad-039",
+   "title": "الدّرس التاسع والثلاثون_ القطب الأوَّل_ تمام دعوى أنَّ الله سبحانه وتعالى مرئي",
+   "yt": "fQQmIJKLno4",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 3557,
+   "has": [
+    "transcript",
+    "align",
+    "summary"
+   ],
+   "work": "alamriIqtisad",
+   "ytTitle": "الدّرس التاسع والثلاثون_ القطب الأوَّل_ تمام دعوى أنَّ الله سبحانه وتعالى مرئي"
+  },
+  {
+   "id": "alamriIqtisad-040",
+   "title": "الدَّرس الأربعون_ القطب الرَّابع_ إثبات نبوة نبيّنا سيدنا محمد صلَّى الله عليه وسلم.",
+   "yt": "bjTWiIEKKxI",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 3977,
+   "has": [
+    "transcript",
+    "align",
+    "summary"
+   ],
+   "work": "alamriIqtisad",
+   "ytTitle": "الدَّرس الأربعون_ القطب الرَّابع_ إثبات نبوة نبيّنا سيدنا محمد صلَّى الله عليه وسلم."
+  },
+  {
+   "id": "alamriIqtisad-041",
+   "title": "الدَّرس الواحد والأربعون_ القطب الرابع_ تتمَّة الكلام على نبوة مولانا رسول الله صلى الله عليه وسلم",
+   "yt": "wKkyeiDZulw",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 3122,
+   "has": [
+    "transcript",
+    "align",
+    "summary"
+   ],
+   "work": "alamriIqtisad",
+   "ytTitle": "الدَّرس الواحد والأربعون_ القطب الرابع_ تتمَّة الكلام على نبوة مولانا رسول الله صلى الله عليه وسلم"
+  },
+  {
+   "id": "alamriIqtisad-042",
+   "title": "الدَّرس الثاني والأربعون_ القطب الرابع_ منهج التعامل مع السمعيات",
+   "yt": "ax73_ytmUeE",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 4081,
+   "has": [
+    "transcript",
+    "align",
+    "summary"
+   ],
+   "work": "alamriIqtisad",
+   "ytTitle": "الدَّرس الثاني والأربعون_ القطب الرابع_ منهج التعامل مع السمعيات"
+  },
+  {
+   "id": "alamriIqtisad-043",
+   "title": "الدَّرس الثالث والأربعون_ القطب الرَّابع_ تتمَّة منهج التعامل مع السمعيات والكلام على الإيمان",
+   "yt": "VjuBmaeeZYA",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 4209,
+   "has": [
+    "transcript",
+    "align",
+    "summary"
+   ],
+   "work": "alamriIqtisad",
+   "ytTitle": "الدَّرس الثالث والأربعون_ القطب الرَّابع_ تتمَّة منهج التعامل مع السمعيات والكلام على الإيمان"
+  },
+  {
+   "id": "alamriIqtisad-044",
+   "title": "الدَّرس الرابع والأربعون_ القطب الرَّابع_ الكلام عن أحكام الإمامة",
+   "yt": "oXsHy-LyL90",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 4655,
+   "has": [
+    "transcript",
+    "align",
+    "summary"
+   ],
+   "work": "alamriIqtisad",
+   "ytTitle": "الدَّرس الرابع والأربعون_ القطب الرَّابع_ الكلام عن أحكام الإمامة"
+  },
+  {
+   "id": "alamriIqtisad-045",
+   "title": "الدَّرس الخامس والأربعون_ القطب الرابع_  تتمَّة الكلام عن أحكام الإمامة",
+   "yt": "INo1oo7sO9M",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 3493,
+   "has": [
+    "transcript",
+    "align",
+    "summary"
+   ],
+   "work": "alamriIqtisad",
+   "ytTitle": "الدَّرس الخامس والأربعون_ القطب الرابع_  تتمَّة الكلام عن أحكام الإمامة"
+  },
+  {
+   "id": "alamriIqtisad-046",
+   "title": "الدَّرس السادس والأربعون_ القطب الرابع_ باب في من يجب تكفيره من الفرق",
+   "yt": "7qyDKS6E0WQ",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 5786,
+   "has": [
+    "transcript",
+    "align",
+    "summary"
+   ],
+   "work": "alamriIqtisad",
+   "ytTitle": "الدَّرس السادس والأربعون_ القطب الرابع_ باب في من يجب تكفيره من الفرق"
+  },
+  {
+   "id": "alamriLiqaat-001",
+   "title": "صناعة المتكلمين",
+   "yt": "I_VgNwF0MHk",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 5193,
+   "has": [
+    "transcript",
+    "align",
+    "summary",
+    "questions"
+   ],
+   "work": "alamriLiqaat",
+   "ytTitle": "صناعة المتكلمين"
+  },
+  {
+   "id": "alamriLiqaat-002",
+   "title": "منهج التعامل مع مشاكل الشباب من لقاء مناقشة رواية الدكتور: في ستَّة أيَّامٍ.",
+   "yt": "sbTAc8fJp2M",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 349,
+   "has": [
+    "transcript",
+    "align",
+    "summary",
+    "questions"
+   ],
+   "work": "alamriLiqaat",
+   "ytTitle": "منهج التعامل مع مشاكل الشباب من لقاء مناقشة رواية الدكتور: في ستَّة أيَّامٍ."
+  },
+  {
+   "id": "alamriLiqaat-003",
+   "title": "من لقاء مناقشة كتاب الدكتور علي محمود العمري: في ستَّة أيَّام",
+   "yt": "67oWqXf8ZZQ",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 628,
+   "has": [
+    "transcript",
+    "align",
+    "summary",
+    "questions"
+   ],
+   "work": "alamriLiqaat",
+   "ytTitle": "من لقاء مناقشة كتاب الدكتور علي محمود العمري: في ستَّة أيَّام"
+  },
+  {
+   "id": "alamriManhajIman-001",
+   "title": "شرح المنهاج في شعب الإيمان/ المجلس الرابع",
+   "yt": "N3aD3QWzlfI",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 4034,
+   "has": [
+    "transcript",
+    "align",
+    "summary"
+   ],
+   "work": "alamriManhajIman",
+   "ytTitle": "شرح المنهاج في شعب الإيمان/ المجلس الرابع"
+  },
+  {
+   "id": "alamriManhajIman-002",
+   "title": "شرح المنهاج في شعب الإيمان/ المجلس الثالث",
+   "yt": "rYttQ0hdUis",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 4053,
+   "has": [
+    "transcript",
+    "align",
+    "summary"
+   ],
+   "work": "alamriManhajIman",
+   "ytTitle": "شرح المنهاج في شعب الإيمان/ المجلس الثالث"
+  },
+  {
+   "id": "alamriManhajIman-003",
+   "title": "شرح المنهاج في شعب الإيمان/ المجلس الثاني",
+   "yt": "ELL39P9A15I",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 3656,
+   "has": [
+    "transcript",
+    "align",
+    "summary"
+   ],
+   "work": "alamriManhajIman",
+   "ytTitle": "شرح المنهاج في شعب الإيمان/ المجلس الثاني"
+  },
+  {
+   "id": "alamriManhajIman-004",
+   "title": "شرح المنهاج في شعب الإيمان د  علي محمود العمري  1",
+   "yt": "noUZ_sw7YVI",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 4312,
+   "has": [
+    "transcript",
+    "align",
+    "summary"
+   ],
+   "work": "alamriManhajIman",
+   "ytTitle": "شرح المنهاج في شعب الإيمان د  علي محمود العمري  1"
+  },
+  {
+   "id": "alamriMayarIlm-001",
+   "title": "( 2 ) معيار العلم",
+   "yt": "2ox1QLzZums",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 3836,
+   "has": [
+    "transcript",
+    "align",
+    "summary",
+    "questions"
+   ],
+   "work": "alamriMayarIlm",
+   "ytTitle": "( 2 ) معيار العلم"
+  },
+  {
+   "id": "alamriMayarIlm-002",
+   "title": "( 1 )معيار العلم مباحث الوجود",
+   "yt": "5epAHFNEuUY",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 3773,
+   "has": [
+    "transcript",
+    "align",
+    "summary",
+    "questions"
+   ],
+   "work": "alamriMayarIlm",
+   "ytTitle": "( 1 )معيار العلم مباحث الوجود"
+  },
+  {
+   "id": "alamriMughni-001",
+   "title": "( 1 ) مغني الطلاب/ شرح متن إيساغوجي",
+   "yt": "oCgd4t8oXds",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 1943,
+   "has": [
+    "transcript",
+    "align",
+    "summary"
+   ],
+   "work": "alamriMughni",
+   "ytTitle": "( 1 ) مغني الطلاب/ شرح متن إيساغوجي"
+  },
+  {
+   "id": "alamriMughni-002",
+   "title": "( 2 )  مغني الطلاب / شرح متن إيساغوجي",
+   "yt": "5N-lTx6tddU",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 1708,
+   "has": [
+    "transcript",
+    "align",
+    "summary"
+   ],
+   "work": "alamriMughni",
+   "ytTitle": "( 2 )  مغني الطلاب / شرح متن إيساغوجي"
+  },
+  {
+   "id": "alamriMughni-003",
+   "title": "تتمة الدرس الثاني/ مغني الطلاب شرح متن إيساغوجي",
+   "yt": "Y1Wt5gzzcNo",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 564,
+   "has": [
+    "transcript",
+    "align",
+    "summary"
+   ],
+   "work": "alamriMughni",
+   "ytTitle": "تتمة الدرس الثاني/ مغني الطلاب شرح متن إيساغوجي"
+  },
+  {
+   "id": "alamriMughni-004",
+   "title": "( 3 ) مغني الطلاب شرح متن إيساغوجي",
+   "yt": "dtQ3VoaOeZk",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 3130,
+   "has": [
+    "transcript",
+    "align",
+    "summary"
+   ],
+   "work": "alamriMughni",
+   "ytTitle": "( 3 ) مغني الطلاب شرح متن إيساغوجي"
+  },
+  {
+   "id": "alamriMughni-005",
+   "title": "( 4 ) مغني الطلاب شرح  إيساغوجي",
+   "yt": "EO6Gmcjj3sI",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 4848,
+   "has": [
+    "transcript",
+    "align",
+    "summary"
+   ],
+   "work": "alamriMughni",
+   "ytTitle": "( 4 ) مغني الطلاب شرح  إيساغوجي"
+  },
+  {
+   "id": "alamriMughni-006",
+   "title": "( 5 ) مغني الطلاب شرح متن إيساغوجي",
+   "yt": "PyHMkNGtIvg",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 4017,
+   "has": [
+    "transcript",
+    "align",
+    "summary"
+   ],
+   "work": "alamriMughni",
+   "ytTitle": "( 5 ) مغني الطلاب شرح متن إيساغوجي"
+  },
+  {
+   "id": "alamriMughni-007",
+   "title": "( 6 ) مغني الطلاب شرح متن إيساغوجي",
+   "yt": "xB9ofJzCaus",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 2957,
+   "has": [
+    "transcript",
+    "align",
+    "summary"
+   ],
+   "work": "alamriMughni",
+   "ytTitle": "( 6 ) مغني الطلاب شرح متن إيساغوجي"
+  },
+  {
+   "id": "alamriMughni-008",
+   "title": "( 7 ) مغني الطلاب شرح متن إيساغوجي",
+   "yt": "Aj_2k4GgghI",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 3746,
+   "has": [
+    "transcript",
+    "align",
+    "summary"
+   ],
+   "work": "alamriMughni",
+   "ytTitle": "( 7 ) مغني الطلاب شرح متن إيساغوجي"
+  },
+  {
+   "id": "alamriMughni-009",
+   "title": "( 8 ) مغني الطلاب شرح متن إيساغوجي",
+   "yt": "PxUc-zc8cEY",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 1974,
+   "has": [
+    "transcript",
+    "summary"
+   ],
+   "work": "alamriMughni",
+   "ytTitle": "( 8 ) مغني الطلاب شرح متن إيساغوجي"
+  },
+  {
+   "id": "alamriMughni-010",
+   "title": "( 9 ) مغني الطلاب شرح متن إيساغوجي",
+   "yt": "1aQpqdyeGhY",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 1651,
+   "has": [
+    "transcript",
+    "summary"
+   ],
+   "work": "alamriMughni",
+   "ytTitle": "( 9 ) مغني الطلاب شرح متن إيساغوجي"
+  },
+  {
+   "id": "alamriMughni-011",
+   "title": "( 10 ) مغني الطلاب شرح متن إيساغوجي",
+   "yt": "nMMsI2mnh58",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 2013,
+   "has": [
+    "transcript",
+    "summary"
+   ],
+   "work": "alamriMughni",
+   "ytTitle": "( 10 ) مغني الطلاب شرح متن إيساغوجي"
+  },
+  {
+   "id": "alamriMughni-012",
+   "title": "( 11) مغني الطلاب شرح متن إيساغوجي",
+   "yt": "VPQmWV_sIcY",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 2104,
+   "has": [
+    "transcript",
+    "summary"
+   ],
+   "work": "alamriMughni",
+   "ytTitle": "( 11) مغني الطلاب شرح متن إيساغوجي"
+  },
+  {
+   "id": "alamriMughni-013",
+   "title": "( 12 ) مغني الطلاب شرح متن إيساغوجي",
+   "yt": "YXffVX5ow6w",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 4328,
+   "has": [
+    "transcript",
+    "summary"
+   ],
+   "work": "alamriMughni",
+   "ytTitle": "( 12 ) مغني الطلاب شرح متن إيساغوجي"
+  },
+  {
+   "id": "alamriMughni-014",
+   "title": "(13 ) مغني الطلاب شرح متن إيساغوجي",
+   "yt": "R__TNMPn2kM",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 3764,
+   "has": [
+    "transcript",
+    "summary"
+   ],
+   "work": "alamriMughni",
+   "ytTitle": "(13 ) مغني الطلاب شرح متن إيساغوجي"
+  },
+  {
+   "id": "alamriMughni-015",
+   "title": "(14) مغني الطُّلاب شرح متن إيساغوجي",
+   "yt": "IImbOScLUv8",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 3363,
+   "has": [
+    "transcript",
+    "summary"
+   ],
+   "work": "alamriMughni",
+   "ytTitle": "(14) مغني الطُّلاب شرح متن إيساغوجي"
+  },
+  {
+   "id": "alamriMughni-016",
+   "title": "(15) مغني الطُّلاب شرح متن إيساغوجي",
+   "yt": "Pp5esmji86Q",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 3153,
+   "has": [
+    "transcript",
+    "summary"
+   ],
+   "work": "alamriMughni",
+   "ytTitle": "(15) مغني الطُّلاب شرح متن إيساغوجي"
+  },
+  {
+   "id": "alamriMughni-017",
+   "title": "(16) مغني الطُّلاب شرح متن إيساغوجي",
+   "yt": "vAHZRginhZU",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 1966,
+   "has": [
+    "transcript",
+    "summary"
+   ],
+   "work": "alamriMughni",
+   "ytTitle": "(16) مغني الطُّلاب شرح متن إيساغوجي"
+  },
+  {
+   "id": "alamriMughni-018",
+   "title": "(17) مغني الطُّلاب على متن إيساغوجي",
+   "yt": "xerRRLAoXy0",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 2857,
+   "has": [
+    "transcript",
+    "summary"
+   ],
+   "work": "alamriMughni",
+   "ytTitle": "(17) مغني الطُّلاب على متن إيساغوجي"
+  },
+  {
+   "id": "alamriMughni-019",
+   "title": "(18) مغني الطُّلاب على متن إيساغوجي",
+   "yt": "TEtF3YMFTUg",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 2636,
+   "has": [
+    "transcript",
+    "summary"
+   ],
+   "work": "alamriMughni",
+   "ytTitle": "(18) مغني الطُّلاب على متن إيساغوجي"
+  },
+  {
+   "id": "alamriMughni-020",
+   "title": "(19) مغني الطُّلاب شرح إيساغوجي",
+   "yt": "TtWUw1ZLzp4",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 2267,
+   "has": [
+    "transcript",
+    "summary"
+   ],
+   "work": "alamriMughni",
+   "ytTitle": "(19) مغني الطُّلاب شرح إيساغوجي"
+  },
+  {
+   "id": "alamriMughni-021",
+   "title": "(20) مغني الطُّلاب شرح متن إيساغوجي",
+   "yt": "OK2qY2zXfkc",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 2095,
+   "has": [
+    "transcript",
+    "summary"
+   ],
+   "work": "alamriMughni",
+   "ytTitle": "(20) مغني الطُّلاب شرح متن إيساغوجي"
+  },
+  {
+   "id": "alamriMughni-022",
+   "title": "(21) مغني الطُّلاب شرح إيساغوجي",
+   "yt": "is7WLuCFRMw",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 3148,
+   "has": [
+    "transcript",
+    "summary"
+   ],
+   "work": "alamriMughni",
+   "ytTitle": "(21) مغني الطُّلاب شرح إيساغوجي"
+  },
+  {
+   "id": "alamriMughni-023",
+   "title": "(22) مغني الطُّلاب شرح متن إيساغوجي",
+   "yt": "BrG8VC_lTeg",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 3535,
+   "has": [
+    "transcript",
+    "summary"
+   ],
+   "work": "alamriMughni",
+   "ytTitle": "(22) مغني الطُّلاب شرح متن إيساغوجي"
+  },
+  {
+   "id": "alamriMughni-024",
+   "title": "(23) مغني الطلاب شرح متن إيساغوجي",
+   "yt": "yrEflPWAU7U",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 2895,
+   "has": [
+    "transcript",
+    "summary"
+   ],
+   "work": "alamriMughni",
+   "ytTitle": "(23) مغني الطلاب شرح متن إيساغوجي"
+  },
+  {
+   "id": "alamriMughni-025",
+   "title": "(24) مغني الطلاب شرح متن إيساغوجي",
+   "yt": "t0VVQKFo5ws",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 2115,
+   "has": [
+    "transcript",
+    "summary"
+   ],
+   "work": "alamriMughni",
+   "ytTitle": "(24) مغني الطلاب شرح متن إيساغوجي"
+  },
+  {
+   "id": "alamriMughni-026",
+   "title": "(25) مغني الطلاب شرح متن إيساغوجي",
+   "yt": "76vXkPVYA-o",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 3310,
+   "has": [
+    "transcript",
+    "summary"
+   ],
+   "work": "alamriMughni",
+   "ytTitle": "(25) مغني الطلاب شرح متن إيساغوجي"
+  },
+  {
+   "id": "alamriMughni-027",
+   "title": "(26) مغني الطلاب شرح متن إيساغوجي",
+   "yt": "gZb1dnkjnwM",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 2727,
+   "has": [
+    "transcript",
+    "summary"
+   ],
+   "work": "alamriMughni",
+   "ytTitle": "(26) مغني الطلاب شرح متن إيساغوجي"
+  },
+  {
+   "id": "alamriMughni-028",
+   "title": "(27) مغني الطلاب شرح متن إيساغوجي",
+   "yt": "PF6reWgkX1c",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 7335,
+   "has": [
+    "transcript",
+    "summary"
+   ],
+   "work": "alamriMughni",
+   "ytTitle": "(27) مغني الطلاب شرح متن إيساغوجي"
+  },
+  {
+   "id": "alamriMuhadara-001",
+   "title": "مشكلة الشَّر عند الإمام الماتريدي نموذجًا",
+   "yt": "nIGTLyvY11A",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 1964,
+   "has": [
+    "transcript",
+    "align",
+    "summary",
+    "questions"
+   ],
+   "work": "alamriMuhadara",
+   "ytTitle": "مشكلة الشَّر عند الإمام الماتريدي نموذجًا"
+  },
+  {
+   "id": "alamriNasafiyya-001",
+   "title": "(1 )  شرح العقائد النسفية",
+   "yt": "hsuNlF5l_QU",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 3379,
+   "has": [
+    "transcript"
+   ],
+   "work": "alamriNasafiyya",
+   "ytTitle": "(1 )  شرح العقائد النسفية"
+  },
+  {
+   "id": "alamriNasafiyya-002",
+   "title": "( 2 )  شرح العقائد النسفية",
+   "yt": "5GcLVYOBG3k",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 4337,
+   "has": [
+    "transcript"
+   ],
+   "work": "alamriNasafiyya",
+   "ytTitle": "( 2 )  شرح العقائد النسفية"
+  },
+  {
+   "id": "alamriNasafiyya-003",
+   "title": "( 3 ) شرح العقائد النسفية",
+   "yt": "16YXDEdK3cA",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 5072,
+   "has": [
+    "transcript"
+   ],
+   "work": "alamriNasafiyya",
+   "ytTitle": "( 3 ) شرح العقائد النسفية"
+  },
+  {
+   "id": "alamriNasafiyya-004",
+   "title": "( 4 ) شرح العقائد النسفية",
+   "yt": "5yOspiQCgiI",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 4732,
+   "has": [
+    "transcript"
+   ],
+   "work": "alamriNasafiyya",
+   "ytTitle": "( 4 ) شرح العقائد النسفية"
+  },
+  {
+   "id": "alamriNasafiyya-005",
+   "title": "( 5 )  شرح العقائد النسفية",
+   "yt": "5yT7cxWGtxM",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 4469,
+   "has": [
+    "transcript"
+   ],
+   "work": "alamriNasafiyya",
+   "ytTitle": "( 5 )  شرح العقائد النسفية"
+  },
+  {
+   "id": "alamriNasafiyya-006",
+   "title": "( 6 ) شرح العقائد النسفية",
+   "yt": "3wvVoRcRBo8",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 3541,
+   "has": [
+    "transcript"
+   ],
+   "work": "alamriNasafiyya",
+   "ytTitle": "( 6 ) شرح العقائد النسفية"
+  },
+  {
+   "id": "alamriNasafiyya-007",
+   "title": "( 7 ) شرح العقائد النسفية",
+   "yt": "wLUaMp5XzQU",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 4218,
+   "has": [
+    "transcript"
+   ],
+   "work": "alamriNasafiyya",
+   "ytTitle": "( 7 ) شرح العقائد النسفية"
+  },
+  {
+   "id": "alamriNasafiyya-008",
+   "title": "( 8 ) شرح العقائد النسفية",
+   "yt": "GtyRIYOR-NA",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 3624,
+   "has": [
+    "transcript"
+   ],
+   "work": "alamriNasafiyya",
+   "ytTitle": "( 8 ) شرح العقائد النسفية"
+  },
+  {
+   "id": "alamriNasafiyya-009",
+   "title": "( 9 ) شرح العقائد النسفية",
+   "yt": "HGffAW45j54",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 4262,
+   "has": [
+    "transcript"
+   ],
+   "work": "alamriNasafiyya",
+   "ytTitle": "( 9 ) شرح العقائد النسفية"
+  },
+  {
+   "id": "alamriNasafiyya-010",
+   "title": "(10 ) شرح العقائد النسفية",
+   "yt": "6bWKfCeWa58",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 5078,
+   "has": [
+    "transcript"
+   ],
+   "work": "alamriNasafiyya",
+   "ytTitle": "(10 ) شرح العقائد النسفية"
+  },
+  {
+   "id": "alamriNasafiyya-011",
+   "title": "( 11 ) شرح العقائد النسفية",
+   "yt": "tlzYajZLMWU",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 4698,
+   "has": [
+    "transcript"
+   ],
+   "work": "alamriNasafiyya",
+   "ytTitle": "( 11 ) شرح العقائد النسفية"
+  },
+  {
+   "id": "alamriNasafiyya-012",
+   "title": "( 12 ) شرح العقائد النسفية",
+   "yt": "Pjz0UmKEX18",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 4028,
+   "has": [
+    "transcript"
+   ],
+   "work": "alamriNasafiyya",
+   "ytTitle": "( 12 ) شرح العقائد النسفية"
+  },
+  {
+   "id": "alamriNasafiyya-013",
+   "title": "( 13 ) شرح العقائد النسفية",
+   "yt": "cTDoUDVmrC4",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 5440,
+   "has": [
+    "transcript"
+   ],
+   "work": "alamriNasafiyya",
+   "ytTitle": "( 13 ) شرح العقائد النسفية"
+  },
+  {
+   "id": "alamriNasafiyya-014",
+   "title": "الأطفال فلاسفة فمالذي يقلل من إبداعهم ومايزيد فيه",
+   "yt": "8w9oBYXruWo",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 104,
+   "has": [
+    "transcript"
+   ],
+   "work": "alamriNasafiyya",
+   "ytTitle": "الأطفال فلاسفة فمالذي يقلل من إبداعهم ومايزيد فيه"
+  },
+  {
+   "id": "alamriQawaidTasawwuf-001",
+   "title": "قواعد التصوف وشواهد التَّعرف_ الدرس الأول_ الشيخ أحمد زرًّوق الفاسي رحمه الله تعالى",
+   "yt": "fFr_LqX1Jf4",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 4534,
+   "has": [
+    "transcript",
+    "align",
+    "summary",
+    "questions"
+   ],
+   "work": "alamriQawaidTasawwuf",
+   "ytTitle": "قواعد التصوف وشواهد التَّعرف_ الدرس الأول_ الشيخ أحمد زرًّوق الفاسي رحمه الله تعالى"
+  },
+  {
+   "id": "alamriQawaidTasawwuf-002",
+   "title": "قواعد التصوف وشواهد التَّعرف_ الدرس الثاني_ الشيخ أحمد زرًّوق الفاسي رحمه الله تعالى",
+   "yt": "WAy4WIl-Xo4",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 2891,
+   "has": [
+    "transcript",
+    "align",
+    "summary"
+   ],
+   "work": "alamriQawaidTasawwuf",
+   "ytTitle": "قواعد التصوف وشواهد التَّعرف_ الدرس الثاني_ الشيخ أحمد زرًّوق الفاسي رحمه الله تعالى"
+  },
+  {
+   "id": "alamriQushayriyya-001",
+   "title": "شرح الرسالة القشيريَّة _القسم المتعلق باعتقاد القوم_ الدرس الأول",
+   "yt": "TElZWaDdUNs",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 4389,
+   "has": [
+    "transcript",
+    "align",
+    "summary"
+   ],
+   "work": "alamriQushayriyya",
+   "ytTitle": "شرح الرسالة القشيريَّة _القسم المتعلق باعتقاد القوم_ الدرس الأول"
+  },
+  {
+   "id": "alamriQushayriyya-002",
+   "title": "شرح الرسالة القشيريَّة _القسم المتعلق باعتقاد القوم_ الدرس الثَّاني",
+   "yt": "nHFR-c4WnW8",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 3772,
+   "has": [
+    "transcript",
+    "align",
+    "summary"
+   ],
+   "work": "alamriQushayriyya",
+   "ytTitle": "شرح الرسالة القشيريَّة _القسم المتعلق باعتقاد القوم_ الدرس الثَّاني"
+  },
+  {
+   "id": "alamriQushayriyya-003",
+   "title": "شرح الرسالة القشيريَّة _القسم المتعلق باعتقاد القوم_ الدرس الثالث",
+   "yt": "eHj5FUy6TvU",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 4537,
+   "has": [
+    "transcript",
+    "align",
+    "summary"
+   ],
+   "work": "alamriQushayriyya",
+   "ytTitle": "شرح الرسالة القشيريَّة _القسم المتعلق باعتقاد القوم_ الدرس الثالث"
+  },
+  {
+   "id": "alamriQushayriyya-004",
+   "title": "شرح الرسالة القشيريَّة _القسم المتعلق باعتقاد القوم_ الدرس الرَّابع",
+   "yt": "j4Xf-wXYQ7U",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 5599,
+   "has": [
+    "transcript",
+    "align",
+    "summary"
+   ],
+   "work": "alamriQushayriyya",
+   "ytTitle": "شرح الرسالة القشيريَّة _القسم المتعلق باعتقاد القوم_ الدرس الرَّابع"
+  },
+  {
+   "id": "alamriSulam-001",
+   "title": "إيضاح المبهم شرح السلم_ الدَّرس الأوَّل_ الشيخ الفاضل الدمنهوري",
+   "yt": "CyVe-ZLQ1pE",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 3003,
+   "has": [
+    "transcript"
+   ],
+   "work": "alamriSulam",
+   "ytTitle": "إيضاح المبهم شرح السلم_ الدَّرس الأوَّل_ الشيخ الفاضل الدمنهوري"
+  },
+  {
+   "id": "alamriSulam-002",
+   "title": "إيضاح المبهم شرح السلم_ الدَّرس الثاني_ الشيخ الفاضل الدمنهوري",
+   "yt": "GRCgJYr_1xk",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 4723,
+   "has": [
+    "transcript"
+   ],
+   "work": "alamriSulam",
+   "ytTitle": "إيضاح المبهم شرح السلم_ الدَّرس الثاني_ الشيخ الفاضل الدمنهوري"
+  },
+  {
+   "id": "alamriSulam-003",
+   "title": "إيضاح المبهم شرح السلم_ الدَّرس الثَّالث_ الشيخ الفاضل الدمنهوري",
+   "yt": "yEuXJkJOQSA",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 5414,
+   "has": [
+    "transcript",
+    "align"
+   ],
+   "work": "alamriSulam",
+   "ytTitle": "إيضاح المبهم شرح السلم_ الدَّرس الثَّالث_ الشيخ الفاضل الدمنهوري"
+  },
+  {
+   "id": "alamriSulam-004",
+   "title": "إيضاح المبهم شرح السلم_ الدَّرس الرَّابع_ الشيخ الفاضل الدمنهوري",
+   "yt": "yOIhEizk_fY",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 5297,
+   "has": [
+    "transcript",
+    "align"
+   ],
+   "work": "alamriSulam",
+   "ytTitle": "إيضاح المبهم شرح السلم_ الدَّرس الرَّابع_ الشيخ الفاضل الدمنهوري"
+  },
+  {
+   "id": "alamriSulam-005",
+   "title": "إيضاح المبهم شرح السلم_ الدَّرس الخَّامس_ الشيخ الفاضل الدمنهوري",
+   "yt": "lSX4v0HjSOM",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 5181,
+   "has": [
+    "transcript",
+    "align"
+   ],
+   "work": "alamriSulam",
+   "ytTitle": "إيضاح المبهم شرح السلم_ الدَّرس الخَّامس_ الشيخ الفاضل الدمنهوري"
+  },
+  {
+   "id": "alamriSulam-006",
+   "title": "إيضاح المبهم شرح السلم_ الدَّرس السَّادس _ الشيخ الفاضل الدمنهوري",
+   "yt": "e8hBCdavdaY",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 5323,
+   "has": [
+    "transcript",
+    "align"
+   ],
+   "work": "alamriSulam",
+   "ytTitle": "إيضاح المبهم شرح السلم_ الدَّرس السَّادس _ الشيخ الفاضل الدمنهوري"
+  },
+  {
+   "id": "alamriSulam-007",
+   "title": "إيضاح المبهم شرح السلم_ الدَّرس السَّابع_ الشيخ الفاضل الدمنهوري",
+   "yt": "SL4KMDtWBc0",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 4185,
+   "has": [
+    "transcript",
+    "align"
+   ],
+   "work": "alamriSulam",
+   "ytTitle": "إيضاح المبهم شرح السلم_ الدَّرس السَّابع_ الشيخ الفاضل الدمنهوري"
+  },
+  {
+   "id": "alamriSulam-008",
+   "title": "إيضاح المبهم شرح السلم_ الدَّرس الثَّامن _ الشيخ الفاضل الدمنهوري",
+   "yt": "CMasp61GPDI",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 4378,
+   "has": [
+    "transcript",
+    "align"
+   ],
+   "work": "alamriSulam",
+   "ytTitle": "إيضاح المبهم شرح السلم_ الدَّرس الثَّامن _ الشيخ الفاضل الدمنهوري"
+  },
+  {
+   "id": "alamriSulam-009",
+   "title": "إيضاح المبهم شرح السلم_ الدَّرس التاسع _ الشيخ الفاضل الدمنهوري",
+   "yt": "MlFh3CkQk0U",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 5157,
+   "has": [
+    "transcript",
+    "align"
+   ],
+   "work": "alamriSulam",
+   "ytTitle": "إيضاح المبهم شرح السلم_ الدَّرس التاسع _ الشيخ الفاضل الدمنهوري"
+  },
+  {
+   "id": "alamriSulam-010",
+   "title": "إيضاح المبهم شرح السلم_ الدَّرس العاشر _ الشيخ الفاضل الدمنهوري",
+   "yt": "d2Y9zheoU50",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 5322,
+   "has": [
+    "transcript",
+    "align"
+   ],
+   "work": "alamriSulam",
+   "ytTitle": "إيضاح المبهم شرح السلم_ الدَّرس العاشر _ الشيخ الفاضل الدمنهوري"
+  },
+  {
+   "id": "alamriSulam-011",
+   "title": "إيضاح المبهم شرح السلم_ الدَّرس الحادي عشر _ الشيخ الفاضل الدمنهوري",
+   "yt": "F9FaPsYWK_8",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 3923,
+   "has": [
+    "transcript",
+    "align"
+   ],
+   "work": "alamriSulam",
+   "ytTitle": "إيضاح المبهم شرح السلم_ الدَّرس الحادي عشر _ الشيخ الفاضل الدمنهوري"
+  },
+  {
+   "id": "alamriSulam-012",
+   "title": "إيضاح المبهم شرح السلم_ الدَّرس الثاني عشر _ الشيخ الفاضل الدمنهوري",
+   "yt": "9p-RdWQFauw",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 4604,
+   "has": [
+    "transcript",
+    "align"
+   ],
+   "work": "alamriSulam",
+   "ytTitle": "إيضاح المبهم شرح السلم_ الدَّرس الثاني عشر _ الشيخ الفاضل الدمنهوري"
+  },
+  {
+   "id": "alamriSulam-013",
+   "title": "إيضاح المبهم شرح السلم_ الدَّرس الثالث عشر _ الشيخ الفاضل الدمنهوري",
+   "yt": "Aozo1oFMznE",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 5106,
+   "has": [
+    "transcript",
+    "align"
+   ],
+   "work": "alamriSulam",
+   "ytTitle": "إيضاح المبهم شرح السلم_ الدَّرس الثالث عشر _ الشيخ الفاضل الدمنهوري"
+  },
+  {
+   "id": "alamriSulam-014",
+   "title": "إيضاح المبهم شرح السلم_ الدَّرس الرابع عشر _ الشيخ الفاضل الدمنهوري",
+   "yt": "LrLHoA72A8s",
+   "speakers": [
+    "alamri"
+   ],
+   "duration": 7241,
+   "has": [
+    "transcript",
+    "align"
+   ],
+   "work": "alamriSulam",
+   "ytTitle": "إيضاح المبهم شرح السلم_ الدَّرس الرابع عشر _ الشيخ الفاضل الدمنهوري"
   }
  ]
 }
