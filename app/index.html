@@ -686,11 +686,23 @@ async function loadSum(id){
 async function loadQu(id){
   const el=document.getElementById('quw');if(!el)return;
   try{const q=await jget(`/content/tube/${id}/questions.json`);
-    const qs=q.questions||[];
-    el.innerHTML=qs.length?qs.map((x,i)=>{const k=id+'#'+i,r=QRATE[k]||0;
-      return `<details class="qq"><summary><b>${i+1}.</b> ${esc(x.q)}</summary><div class="qa">${esc(x.a||'')}<div class="qr"><span class="qrl">قيّم إجابتك:</span>${[1,2,3,4,5].map(n=>`<button class="qrb${n<=r?' on':''}" onclick="qrate('${id}',${i},${n},this)" aria-label="تقييم ${n} من 5">${ICONS.fav}</button>`).join('')}</div></div></details>`}).join(''):'<div class="empty">لا أسئلة بعد</div>'}
+    const qs=q.questions||[];window._qs=qs;
+    const hdr=qs.length?`<div style="display:flex;justify-content:space-between;align-items:center;padding:0 2px 8px"><span class="qrl">أفضل اختبار: ${localStorage['qbest.'+id]||'—'}</span><button class="qrb" onclick="quizStart('${id}',_qs)" aria-label="اختبر نفسك">اختبر نفسك</button></div>`:'';
+    el.innerHTML=hdr+(qs.length?qs.map((x,i)=>{const k=id+'#'+i,r=QRATE[k]||0;
+      return `<details class="qq"><summary><b>${i+1}.</b> ${esc(x.q)}</summary><div class="qa">${esc(x.a||'')}<div class="qr"><span class="qrl">قيّم إجابتك:</span>${[1,2,3,4,5].map(n=>`<button class="qrb${n<=r?' on':''}" onclick="qrate('${id}',${i},${n},this)" aria-label="تقييم ${n} من 5">${ICONS.fav}</button>`).join('')}</div></div></details>`}).join(''):'<div class="empty">لا أسئلة بعد</div>')}
   catch(e){el.innerHTML='<div class="empty">الأسئلة غير متوفرة بعد</div>'}
 }
+let QUZ=null;
+function quizStart(id,qs){QUZ={id,qs,idx:0,right:0,rev:false};quizDraw()}
+function quizDraw(){
+  const el=document.getElementById('quw');const z=QUZ,total=z.qs.length;
+  if(z.idx>=total){const sc=z.right+'/'+total,bk='qbest.'+z.id,old=(localStorage[bk]||'').split('/');
+    if(!old[1]||z.right*old[1]>+old[0]*total)localStorage[bk]=sc;
+    el.innerHTML=`<div class="qq"><div class="qa" style="text-align:center"><b style="font-size:28px;color:var(--gold)">${sc}</b><div class="qrl">إجابات صحيحة · أفضل: ${localStorage[bk]}</div><div class="qr" style="justify-content:center;margin-top:12px"><button class="qrb" onclick="quizStart('${z.id}',_qs)">أعد الاختبار</button> <button class="qrb" onclick="QUZ=null;loadQu('${z.id}')">للأسئلة</button></div></div></div>`;return}
+  const x=z.qs[z.idx];
+  el.innerHTML=`<div class="qq"><div class="qa"><b style="color:var(--gold)">س ${z.idx+1}/${total} · صح ${z.right}</b><br>${esc(x.q)}${z.rev?`<hr style="border-color:var(--line)"><div style="color:var(--muted)">${esc(x.a||'')}</div><div class="qr"><button class="qrb" onclick="quizNext(0)">أخطأت</button> <button class="qrb on" onclick="quizNext(1)">أصبت</button></div>`:`<div class="qr"><button class="qrb" onclick="QUZ.rev=true;quizDraw()">أظهر الجواب</button></div>`}</div></div>`;
+}
+function quizNext(h){QUZ.right+=h;QUZ.idx++;QUZ.rev=false;quizDraw()}
 boot();
 </script>
 </body>
