@@ -41,6 +41,12 @@
    "name": "حاتم العوني",
    "short": "العوني",
    "photo": "content/persons/aouni.jpg"
+  },
+  {
+   "id": "abdelwahid",
+   "name": "محمد عبد الواحد الحنبلي",
+   "short": "الحنبلي",
+   "photo": "content/persons/abdelwahid.jpg"
   }
  ]
 }
